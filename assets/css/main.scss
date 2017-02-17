@@ -64,24 +64,32 @@ article {
   height: 100%;
 
   date {
-    width: 150px;
+    width: 200px;
     padding-top: 20px;
     border-right: solid 1px #d8d8d8;
     background-color: $middlebar-background-color;
 
     time {
       display: flex;
+
       day {
         flex-direction: row;
         width: 50%;
         height: 100%;
+        text-align: right;
         font-size: $day-font-size;
+        font-weight: bolder;
+        padding-right: 5px;
         border-right: solid 2px #cbcbcb;
       }
+
       month {
         flex-direction: row;
+        text-transform: uppercase;
         width: 50%;
         height: 100%;
+        margin-left: 5px;
+        font-weight: bolder;
       }
     }
   }
