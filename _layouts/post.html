@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article itemscope itemtype="http://schema.org/BlogPosting">
+  <date>
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <day>{{ page.date | date: "%-d" }}</day>
+      <month>{{ page.date | date: "%b" | upcase }}<br>{{ page.date | date: "%Y" }}</month>
+    </time>
+    {% if page.author %} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">{{ page.author }}</span>
+      </span>
+    {% endif %}
+  </date>
+
+  <main>
+    <header><h1 itemprop="name headline">{{ page.title | escape }}</h1></header>
+    <content itemprop="articleBody">{{ content }}</content>
+  </main>
+</article>

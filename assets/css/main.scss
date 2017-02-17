@@ -1,0 +1,113 @@
+---
+---
+
+$text-color: #000;
+
+$html-background-color: #ccc;
+$body-background-color: #fff;
+$body-border-color: #16222b;
+
+$sidebar-background-color: #273e4d;
+$sidebar-color: #ffffff;
+
+$middlebar-background-color: #f5f5f5;
+$day-font-size: 30px;
+
+$heading-color: #404040;
+$link-color: #ce1433;
+
+html {
+  height: 100%;
+  background-color: $html-background-color;
+}
+
+body {
+  color: $text-color;
+  margin: 0;
+  height: 100%;
+  border-top: solid 4px $body-border-color;
+  border-bottom: solid 4px $body-border-color;
+  background-color: $body-background-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  color: $heading-color;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+a {
+  color: $link-color;
+}
+
+nav {
+  z-index: 10;
+  height: 100%;
+  color: $sidebar-color;
+  background-color: $sidebar-background-color;
+
+  a {
+    color: #fff;
+  }
+
+  .logo {
+    padding: 20px;
+    text-align: center;
+  }
+}
+
+article {
+  display: flex;
+  height: 100%;
+
+  date {
+    width: 150px;
+    padding-top: 20px;
+    border-right: solid 1px #d8d8d8;
+    background-color: $middlebar-background-color;
+
+    time {
+      display: flex;
+      day {
+        flex-direction: row;
+        width: 50%;
+        height: 100%;
+        font-size: $day-font-size;
+        border-right: solid 2px #cbcbcb;
+      }
+      month {
+        flex-direction: row;
+        width: 50%;
+        height: 100%;
+      }
+    }
+  }
+
+  main {
+    margin: 20px;
+  }
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.column {
+  flex-direction: row;
+
+  &.navigation {
+    width: 300px;
+  }
+
+  &.content {
+    width: 100%;
+  }
+}
+
+footer {
+  border: solid 1px #00f;
+}

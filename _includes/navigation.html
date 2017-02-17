@@ -1,0 +1,16 @@
+<nav>
+  <div class="logo">
+    <h1><a href="{{ "/" | relative_url}}">{{ site.title | escape }}</a></h1>
+
+    <p>{{ site.description | escape }}</p>
+  </div>
+
+  <ul>
+  {% for my_page in site.pages %}
+    {% if my_page.title %}
+      <li> <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> </li>
+    {% endif %}
+  {% endfor %}
+    <li> <a href="{{ "/feed.xml" | relative_url }}">RSS-syöte</a> </li>
+  </ul>
+</nav>
