@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-foobar
+
+This is my home.
