@@ -1,9 +1,6 @@
 ---
 ---
 
-$text-color: #000;
-
-$html-background-color: #ccc;
 $body-background-color: #34505f;
 
 $sidebar-color: #fff;
@@ -27,7 +24,6 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  color: $text-color;
   font-family: 'Roboto', sans-serif;
   background-color: $body-background-color;
 }
@@ -106,6 +102,10 @@ h1 {
     .content {
       width: 100%;
       max-width: 700px;
+
+      img {
+        max-width: 700px;
+      }
 
       .article {
         h1 {
