@@ -2,18 +2,14 @@
 layout: default
 ---
 
-<article>
-  <main>
-    <header><h1>Tervetuloa</h1></header>
-    <content>
-      {{ content }}
-      <ul>
-      {% for post in site.posts %}
-        <li>
-          <span>{{ post.date | date: "%d.%m.%Y" }}</span>
-          <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-        </li>
-      {% endfor %}
-    </content>
-  </main>
-</article>
+{% for post in site.posts %}
+  <div class="article">
+    <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+    <div class="info">
+      <div class="date">[TODO: Calendar icon] {{ post.date | date: "%d.%m.%Y" }}</div>
+      <div class="categories">[TODO: Tag icon] {{ post.categories }}</div>
+    </div>
+    <div class="article-image"><img src="{{ post.image }}" alt="post.image_text"></div>
+    <div class="story">{{ post.content }}</div>
+  </div>
+{% endfor %}
