@@ -2,16 +2,12 @@
 layout: default
 ---
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
-  <date>
-    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-      <day>{{ page.date | date: "%-d" }}</day>
-      <month>{{ page.date | date: "%b" }}<br>{{ page.date | date: "%Y" }}</month>
-    </time>
-  </date>
-
-  <main>
-    <header><h1 itemprop="name headline">{{ page.title | escape }}</h1></header>
-    <content itemprop="articleBody">{{ content }}</content>
-  </main>
-</article>
+<div class="article">
+  <h1><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h1>
+  <div class="info">
+    <div class="date">Kirjoitettu: {{ page.date | date: "%d.%m.%Y %H:%M" }}</div>
+    <div class="tags">Tagit: {% for tag in page.tags %}<div class="tag">{{ tag }}, </div>{% endfor %}</div>
+  </div>
+  {% if page.image %}<div class="article-image"><img src="{{ page.image }}" alt="page.image_text"></div>{% endif %}
+  <div class="story">{{ page.content }}</div>
+</div>
