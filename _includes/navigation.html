@@ -7,6 +7,7 @@
   </div>
 
   <ul>
+    <li> <a href="{{ "/" | relative_url}}">Etusivu</a> </li>
   {% for my_page in site.pages %}
     {% if my_page.title %}
       <li> <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> </li>
