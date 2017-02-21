@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit: 5 %}
   <div class="article">
     <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
     <div class="info">
