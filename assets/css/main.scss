@@ -44,6 +44,7 @@ h6 {
   margin: 0;
 
   a {
+    color: $heading-color;
     text-decoration: none;
   }
 }
@@ -52,6 +53,11 @@ h1,
 h2 {
   font-size: 40px;
   line-height: 46px;
+
+  @media screen and (max-width: $break-large) {
+    font-size: 22px;
+    line-height: 24px;
+  }
 }
 
 iframe {
@@ -148,24 +154,40 @@ iframe {
 
 .right {
   background-color: $content-background-color;
-  padding: 50px;
 
   .content {
     max-width: 700px;
     width: 100%;
 
+    @media screen and (max-width: $break-large) {
+      max-width: 100%;
+    }
+
     img {
       max-width: 700px;
+
+      @media screen and (max-width: $break-large) {
+        max-width: 100%;
+        width: 100%;
+      }
     }
   }
 }
 
-.article {
+.article-wrap {
   border-bottom: solid 1px $article-info-color;
-  margin-bottom: 50px;
+}
+
+.article {
+  margin: 50px;
   padding-bottom: 30px;
 
-  h1 {
+  @media screen and (max-width: $break-large) {
+    margin: 10px;
+  }
+
+  h1,
+  h2 {
     text-transform: uppercase;
 
     a {
@@ -203,6 +225,10 @@ iframe {
     img {
       max-width: 700px;
       width: 100%;
+
+      @media screen and (max-width: $break-large) {
+        max-width: 100%;
+      }
     }
   }
 }
