@@ -1,10 +1,15 @@
 ---
 ---
+
 $break-large: 1200px;
 
 $body-background-color: #34505f;
 
+$code-background-color: #eee;
+$code-border-color: #ccc;
+
 $sidebar-color: #fff;
+$siderbar-link-color: #fff;
 
 $navigation-link-background-color: #24404f;
 $navigation-link-background-color-hover: #54707f;
@@ -22,16 +27,21 @@ html {
 }
 
 body {
+  background-color: $body-background-color;
+  font-family: 'Roboto', sans-serif;
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
-  background-color: $body-background-color;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin: 0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: $heading-color;
+  margin: 0;
 
   a {
     text-decoration: none;
@@ -44,141 +54,82 @@ h1 {
 }
 
 .container {
-  display: flex;
   align-items: stretch;
+  display: flex;
   min-height: 100%;
 
   @media screen and (max-width: $break-large) {
     flex-direction: column;
   }
+}
 
-  .left {
-    nav {
-      width: 400px;
+.left {
+  nav {
+    color: $sidebar-color;
+    width: 400px;
+
+    @media screen and (max-width: $break-large) {
+      width: 100%;
+    }
+
+    a {
+      color: $siderbar-link-color;
+    }
+
+    .logo {
+      padding: 20px;
+      text-align: center;
+
+      h1 {
+        font-size: 35px;
+
+        @media screen and (max-width: $break-large) {
+          font-size: 20px;
+        }
+      }
+
+      p {
+        @media screen and (max-width: $break-large) {
+          display: none;
+        }
+      }
+
       @media screen and (max-width: $break-large) {
+        padding: 10px;
+      }
+    }
+
+    ul {
+      margin-left: 40px;
+      margin-right: 40px;
+      padding: 0;
+
+      @media screen and (max-width: $break-large) {
+        margin-left: 0;
+        margin-right: 0;
         width: 100%;
       }
 
-      color: $sidebar-color;
+      li {
+        list-style: none;
 
-      a {
-        color: #fff;
-      }
+        margin-bottom: 10px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 10px;
 
-      .logo {
-        h1 {
-          font-size: 35px;
-
-          @media screen and (max-width: $break-large) {
-            font-size: 20px;
-          }
-        }
-
-        p {
-          @media screen and (max-width: $break-large) {
-            display: none;
-          }
-        }
-
-        padding: 20px;
-        @media screen and (max-width: $break-large) {
+        a {
+          background-color: $navigation-link-background-color;
+          border-radius: 2px;
+          color: $navigation-link-color;
+          display: inline-block;
+          height: 100%;
           padding: 10px;
-        }
-
-        text-align: center;
-      }
-
-      ul {
-        padding: 0;
-        margin-left: 40px;
-        margin-right: 40px;
-
-        @media screen and (max-width: $break-large) {
-          margin-left: 0px;
-          margin-right: 0px;
+          text-decoration: none;
           width: 100%;
-        }
 
-        li {
-          list-style: none;
-          margin-top: 10px;
-          margin-bottom: 10px;
-          margin-left: 0;
-          margin-right: 0;
-
-          a {
-            border-radius: 2px;
-            display: inline-block;
-            width: 100%;
-            height: 100%;
-            padding: 10px;
-            text-decoration: none;
-            color: $navigation-link-color;
-            background-color: $navigation-link-background-color;
-
-            &:hover {
-              background-color: $navigation-link-background-color-hover;
-            }
-          }
-        }
-      }
-    }
-  }
-
-  .right {
-    padding: 50px;
-    background-color: $content-background-color;
-
-    .content {
-      width: 100%;
-      max-width: 700px;
-
-      img {
-        max-width: 700px;
-      }
-
-      .article {
-        h1 {
-          text-transform: uppercase;
-          a {
-            color: $heading-color;
-          }
-        }
-
-        padding-bottom: 30px;
-        margin-bottom: 50px;
-        border-bottom: solid 1px $article-info-color;
-
-        .info {
-          font-size: 14px;
-          margin-top: 30px;
-          margin-bottom: 30px;
-          padding-bottom: 30px;
-          border-bottom: solid 1px $article-info-color;
-          color: $article-info-color;
-
-          .date {
-            display: inline;
-          }
-
-          .tags {
-            display: inline;
-
-            .tag {
-              display: inline;
-            }
-          }
-        }
-
-        .story {
-          font-size: 16px;
-          line-height: 25px;
-        }
-
-        .article-image {
-          img {
-            width: 100%;
-            max-width: 700px;
+          &:hover {
+            background-color: $navigation-link-background-color-hover;
           }
         }
       }
@@ -186,14 +137,75 @@ h1 {
   }
 }
 
+.right {
+  background-color: $content-background-color;
+  padding: 50px;
+
+  .content {
+    max-width: 700px;
+    width: 100%;
+
+    img {
+      max-width: 700px;
+    }
+  }
+}
+
+.article {
+  border-bottom: solid 1px $article-info-color;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+
+  h1 {
+    text-transform: uppercase;
+
+    a {
+      color: $heading-color;
+    }
+  }
+
+  .info {
+    border-bottom: solid 1px $article-info-color;
+    color: $article-info-color;
+    font-size: 14px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+
+    .date {
+      display: inline;
+    }
+
+    .tags {
+      display: inline;
+
+      .tag {
+        display: inline;
+      }
+    }
+  }
+
+  .story {
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  .article-image {
+    img {
+      max-width: 700px;
+      width: 100%;
+    }
+  }
+}
+
 .highlighter-rouge {
   .highlight {
+    background-color: $code-background-color;
+    border: solid 1px $code-border-color;
     font-size: 12px;
     line-height: 14px;
-    background-color: #eee;
-    border: solid 1px #ccc;
-    padding: 10px;
     max-width: 700px;
     overflow-x: auto;
+    padding: 10px;
   }
 }
