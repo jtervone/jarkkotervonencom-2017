@@ -19,6 +19,6 @@ tags:
 - narrow wide
 comments: []
 ---
-<iframe width="560" height="349" src="https://www.youtube.com/embed/Virs2TSS6zc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/Virs2TSS6zc" allowfullscreen></iframe>
 
 Nykyään on kovasti muotia karsia polkupyöristä etuvaihtajat. Kovasti tekisi investoida narrow wide -ratas eteen, jolloin Canyonista tulisi 1x10-vaihteinen pyörä. Tulisi pyörästä yksinkertaisempi ja olisihan noille etuvaihtajille uusiokäyttöä kuten yllä olevassa videossa esitellään :-)

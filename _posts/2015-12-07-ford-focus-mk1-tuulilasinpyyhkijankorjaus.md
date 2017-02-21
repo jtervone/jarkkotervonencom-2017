@@ -34,7 +34,7 @@ Kun pyyhkijänsulkien varret on irroitettu, irroitetaan seuraavaksi vivustoa suo
 
 Pyyhkijöiden toimimattomuuden syy ei ollutkaan moottorissa tai sähköissä. Ongelma on tuulilasinpyyhkijöiden vivustossa, missä moottorilta tulevan tangon päässä oleva pallonivel on löystynyt. Moottorilta tuleva tanko näkyy yllä olevassa kuvassa taustalla. Youtubesta löytyi monta vinkkiä, missä tämä pallonivel on kiinnitetty mitä erilaisimmilla nippusidevirityksillä. Nämä eivät ole pysyviä ratkaisuja. Toivoa antoi tämä alla oleva video, missä yksinkertaisella metallilevyn palasella voidaan korjata pallonivelen kiinnitys.
 
-<iframe src="https://www.youtube.com/embed/iirmgj92nfg" width="700" height="375" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/iirmgj92nfg" width="700" height="375" allowfullscreen="allowfullscreen"></iframe>
 
 Ebaystä löytyy "Windscreen wiper motor linkage repair kit" -hakusanalla videolla esitellyn kaltaisia korjauspaloja, mutta kun metallilevyä löytyy hyllystä niin miksi ei tekisi itse sellaista. Valitettavasti minulla ei ole edes peltisaksia, joten jouduin dremelöimään levystä tämän osan.
 

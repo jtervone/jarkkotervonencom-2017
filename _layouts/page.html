@@ -4,7 +4,7 @@ layout: default
 
 
 <div class="article">
-  <h1><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h1>
+  <h2><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h2>
   {% if page.image %}<div class="article-image"><img src="{{ page.image.file }}" alt="page.image.text"></div>{% endif %}
   <div class="story">{{ content }}</div>
 </div>
