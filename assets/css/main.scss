@@ -1,5 +1,6 @@
 ---
 ---
+$break-large: 1200px;
 
 $body-background-color: #34505f;
 
@@ -47,9 +48,17 @@ h1 {
   align-items: stretch;
   min-height: 100%;
 
+  @media screen and (max-width: $break-large) {
+    flex-direction: column;
+  }
+
   .left {
     nav {
       width: 400px;
+      @media screen and (max-width: $break-large) {
+        width: 100%;
+      }
+
       color: $sidebar-color;
 
       a {
@@ -59,9 +68,23 @@ h1 {
       .logo {
         h1 {
           font-size: 35px;
+
+          @media screen and (max-width: $break-large) {
+            font-size: 20px;
+          }
+        }
+
+        p {
+          @media screen and (max-width: $break-large) {
+            display: none;
+          }
         }
 
         padding: 20px;
+        @media screen and (max-width: $break-large) {
+          padding: 10px;
+        }
+
         text-align: center;
       }
 
@@ -70,11 +93,18 @@ h1 {
         margin-left: 40px;
         margin-right: 40px;
 
+        @media screen and (max-width: $break-large) {
+          margin-left: 0px;
+          margin-right: 0px;
+          width: 100%;
+        }
+
         li {
           list-style: none;
           margin-top: 10px;
           margin-bottom: 10px;
-          background-color: $navigation-link-background-color;
+          margin-left: 0;
+          margin-right: 0;
 
           a {
             border-radius: 2px;
