@@ -15,7 +15,10 @@ layout: default
           <a href="{{ post.url | relative_url }}"><img src="{{ post.image.file }}" alt="post.image.text"></a>
         </div>
       {% endif %}
-      <div class="story">{{ post.content }}</div>
+      <div class="story">
+        {{ post.excerpt }}
+        <a href="{{ post.url | relative_url }}">Lue koko kirjoitus...</a>
+      </div>
     </div>
   </div>
 {% endfor %}
