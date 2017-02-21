@@ -116,8 +116,8 @@ iframe {
       padding: 0;
 
       @media screen and (max-width: $break-large) {
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-left: 0;
+        margin-right: 0;
         width: 100%;
       }
 
@@ -184,6 +184,10 @@ iframe {
 
   @media screen and (max-width: $break-large) {
     margin: 10px;
+  }
+
+  a {
+    color: $link-color;
   }
 
   h1,
