@@ -105,8 +105,8 @@ h1 {
       padding: 0;
 
       @media screen and (max-width: $break-large) {
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: 0px;
+        margin-right: 0px;
         width: 100%;
       }
 
@@ -124,12 +124,16 @@ h1 {
           color: $navigation-link-color;
           display: inline-block;
           height: 100%;
-          padding: 10px;
           text-decoration: none;
           width: 100%;
 
           &:hover {
             background-color: $navigation-link-background-color-hover;
+          }
+
+          span {
+            display: inline-block;
+            padding: 10px;
           }
         }
       }
