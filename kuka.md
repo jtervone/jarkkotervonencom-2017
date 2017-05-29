@@ -14,4 +14,4 @@ Rekisteröin jarkkotervonen.com-domainin 2009 ja tarkoitus oli alkaa pitämään
 
 ## Miten yhteyttä?
 
-Pistä mailia vaikka etunimi.sukunimi@gmail.com tai etsi puhelinnumerolla Whatsappista tai Telegramista.
+Pistä mailia vaikka etunimi . sukunimi [at] gmail . com tai etsi puhelinnumerolla Whatsappista tai Telegramista.
