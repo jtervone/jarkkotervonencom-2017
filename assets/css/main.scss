@@ -204,6 +204,14 @@ iframe {
     }
   }
 
+  h2 {
+    font-size: 1.7em;
+
+    + p {
+      margin-top: 0;
+    }
+  }
+
   .info {
     border-bottom: solid 1px $article-info-color;
     color: $article-info-color;
