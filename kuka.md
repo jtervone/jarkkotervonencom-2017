@@ -11,3 +11,7 @@ Muu vapaa-aika kuluu kuntoillen. Pääharrastuksina pyöräily, hiihtäminen sek
 ## Näistä sivuista
 
 Rekisteröin jarkkotervonen.com-domainin 2009 ja tarkoitus oli alkaa pitämään blogia aiheena webbi + musiikki. Postauksia tuli muutama, mutta hävitin ne laiskuuttani alkuvuodesta 2012, kun siirtelin sivustojani palvelimelta toiselle.
+
+## Miten yhteyttä?
+
+Pistä mailia vaikka etunimi.sukunimi@gmail.com tai etsi puhelinnumerolla Whatsappista tai Telegramista.
