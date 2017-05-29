@@ -1,4 +1,5 @@
 #!/bin/sh
+cd $1
 
 if [ ! -f "deploy.lock" ]; then
   bundle install
