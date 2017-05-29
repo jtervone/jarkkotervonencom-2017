@@ -1,4 +1,4 @@
 # todo
 
 - jekyll-feed: Korjaa author
-- Korjaa autoupdate
+- Korjaa autoupdate.
