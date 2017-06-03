@@ -26,13 +26,13 @@
 
   <!-- Google+ / Schema.org -->
   <meta itemprop="name" content="{{ page.title | escape }}" />
-  <meta itemprop="description" content="{{ page.description | escape }}" />
-  <meta itemprop="image" content="{{ site.url }}{{ page.image.file }}" />
+  {% if page.description %}<meta itemprop="description" content="{{ page.description | escape }}" />{% endif %}
+  {% if page.image.file %}<meta itemprop="image" content="{{ site.url }}{{ page.image.file }}" />{% endif %}
 
   <!-- Twitter Cards -->
   <meta name="twitter:title" content="{{ page.title | escape }}" />
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-  <meta name="twitter:description" content="{{ page.description | escape }}" />
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image.file }}" />
+  {% if page.description %}<meta name="twitter:description" content="{{ page.description | escape }}" />{% endif %}
+  {% if page.image.file %}<meta name="twitter:image" content="{{ site.url }}{{ page.image.file }}" />{% endif %}
   <meta name="twitter:card" content="summary_large_image" />
 </head>
