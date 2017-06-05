@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+status: publish
 published: true
 title: Virvelöintiä parinkymmenen vuoden jälkeen
 image:

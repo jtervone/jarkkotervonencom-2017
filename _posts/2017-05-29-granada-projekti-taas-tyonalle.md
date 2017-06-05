@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+status: publish
 published: true
 title: Granada-projekti taas työn alle
 image:
