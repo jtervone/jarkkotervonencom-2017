@@ -34,7 +34,7 @@
   <meta property="fb:app_id" content="228969710939107" />
 
   <!-- Google+ / Schema.org -->
-  <meta itemprop="name" content="{{ page.title | escape }}" />
+  <meta itemprop="name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   {% if page.description %}<meta itemprop="description" content="{{ page.description | escape }}" />{% endif %}
   {% if page.image.file %}<meta itemprop="image" content="{{ site.url }}{{ page.image.file }}" />{% endif %}
 
