@@ -15,7 +15,6 @@ date: '2017-02-28 09:00:20 +0300'
 date_gmt: '2017-02-28 09:00:20 +0300'
 categories:
 - Netti
-- Autot
 tags:
 - kotisivut
 - jekyll
