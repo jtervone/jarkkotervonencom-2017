@@ -22,6 +22,8 @@ $article-info-color: #777;
 $heading-color: #404040;
 $link-color: #ce1433;
 
+$code-border-color: #aaa;
+
 html {
   height: 100%;
 }
@@ -62,6 +64,15 @@ h2 {
 
 iframe {
   border: 0;
+}
+
+pre {
+  &.code {
+    border: solid 1px $code-border-color;
+    font-size: 80%;
+    overflow: auto;
+    padding: 5px;
+  }
 }
 
 .container {
