@@ -11,8 +11,8 @@ author:
   login: Jarkko
   email: jarkko@splatweb.net
   url: http://jarkkotervonen.com/
-date: '2017-06-08 08:20:20 +0300'
-date_gmt: '2017-06-08 08:20:20 +0300'
+date: '2017-06-08 00:01:20 +0300'
+date_gmt: '2017-06-08 00:01:20 +0300'
 categories:
 - Netti
 tags:
