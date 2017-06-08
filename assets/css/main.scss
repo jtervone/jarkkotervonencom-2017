@@ -5,7 +5,7 @@ $break-large: 1200px;
 
 $body-background-color: #2a5062;
 
-$code-background-color: #eee;
+$code-background-color: #fafafa;
 $code-border-color: #ccc;
 
 $sidebar-color: #fff;
@@ -68,6 +68,7 @@ iframe {
 
 pre {
   &.code {
+    background-color: $code-background-color;
     border: solid 1px $code-border-color;
     font-size: 80%;
     overflow: auto;
