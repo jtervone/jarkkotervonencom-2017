@@ -14,7 +14,6 @@ author:
 date: '2016-03-31 18:57:29 +0300'
 date_gmt: '2016-03-31 15:57:29 +0300'
 categories:
-- Tekniikka
 - Ohjelmat
 tags:
 - nginx

@@ -15,7 +15,6 @@ date: '2016-03-30 21:33:01 +0300'
 date_gmt: '2016-03-30 18:33:01 +0300'
 categories:
 - Netti
-- Tekniikka
 tags:
 - nginx
 - wordpress

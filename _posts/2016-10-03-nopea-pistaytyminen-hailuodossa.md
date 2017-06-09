@@ -14,7 +14,6 @@ author:
 date: '2016-10-03 00:01:20 +0300'
 date_gmt: '2016-03-10 00:01:20 +0300'
 categories:
-- Harrastukset
 - Retkeily
 tags:
 - hailuoto

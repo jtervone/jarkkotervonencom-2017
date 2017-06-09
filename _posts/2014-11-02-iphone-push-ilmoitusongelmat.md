@@ -14,9 +14,7 @@ author:
 date: '2014-11-02 10:12:17 +0200'
 date_gmt: '2014-11-02 08:12:17 +0200'
 categories:
-- Mobiili
 - Tekniikka
-- Ohjelmat
 tags:
 - iphone
 - itunes

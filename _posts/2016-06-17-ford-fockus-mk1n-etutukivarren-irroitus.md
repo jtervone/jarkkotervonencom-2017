@@ -14,7 +14,6 @@ author:
 date: '2016-06-17 12:51:20 +0300'
 date_gmt: '2016-06-17 09:51:20 +0300'
 categories:
-- Tekniikka
 - Autot
 tags:
 - ford focus

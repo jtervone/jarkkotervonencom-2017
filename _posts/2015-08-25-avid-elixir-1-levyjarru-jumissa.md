@@ -14,7 +14,6 @@ author:
 date: '2015-08-25 14:03:48 +0300'
 date_gmt: '2015-08-25 11:03:48 +0300'
 categories:
-- Harrastukset
 - Pyöräily
 tags:
 - sram

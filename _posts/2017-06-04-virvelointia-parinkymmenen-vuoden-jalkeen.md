@@ -14,7 +14,6 @@ author:
 date: '2017-06-03 10:55:20 +0300'
 date_gmt: '2017-06-03 10:55:20 +0300'
 categories:
-- Harrastukset
 - Kalastus
 tags:
 - virvelöinti

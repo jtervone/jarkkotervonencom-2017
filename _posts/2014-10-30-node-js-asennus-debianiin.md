@@ -14,7 +14,6 @@ author:
 date: '2014-10-30 21:27:38 +0200'
 date_gmt: '2014-10-30 19:27:38 +0200'
 categories:
-- Tekniikka
 - Ohjelmat
 tags:
 - debian

@@ -14,7 +14,6 @@ author:
 date: '2016-09-27 09:00:20 +0300'
 date_gmt: '2016-09-27 09:00:20 +0300'
 categories:
-- Retkeily
 - Pyöräily
 tags:
 - retkeily

@@ -15,7 +15,6 @@ date: '2015-08-28 12:53:09 +0300'
 date_gmt: '2015-08-28 09:53:09 +0300'
 categories:
 - Tekniikka
-- Tietokoneet
 tags:
 - apple
 - näppäimistö

@@ -15,7 +15,6 @@ date: '2013-10-01 22:24:00 +0300'
 date_gmt: '2013-10-01 19:24:00 +0300'
 categories:
 - Netti
-- Tekniikka
 tags:
 - musiikki
 - google

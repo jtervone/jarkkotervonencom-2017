@@ -15,7 +15,6 @@ date: '2012-11-15 23:36:51 +0200'
 date_gmt: '2012-11-15 21:36:51 +0200'
 categories:
 - Netti
-- Tekniikka
 tags:
 - php
 - apache

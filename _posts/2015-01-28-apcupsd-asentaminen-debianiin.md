@@ -14,9 +14,7 @@ author:
 date: '2015-01-28 07:45:33 +0200'
 date_gmt: '2015-01-28 05:45:33 +0200'
 categories:
-- Yleinen
-- Tekniikka
-- Tietokoneet
+- Ohjelmat
 tags: []
 comments: []
 ---

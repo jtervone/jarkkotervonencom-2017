@@ -14,7 +14,6 @@ author:
 date: '2016-10-10 00:01:20 +0300'
 date_gmt: '2016-10-10 00:01:20 +0300'
 categories:
-- Harrastukset
 - Retkeily
 tags:
 - rokua

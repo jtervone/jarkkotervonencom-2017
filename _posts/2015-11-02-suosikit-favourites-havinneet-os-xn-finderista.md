@@ -14,7 +14,6 @@ author:
 date: '2015-11-02 13:28:41 +0200'
 date_gmt: '2015-11-02 11:28:41 +0200'
 categories:
-- Tekniikka
 - Ohjelmat
 tags:
 - os x

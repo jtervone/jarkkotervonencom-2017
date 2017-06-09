@@ -15,7 +15,6 @@ date: '2015-11-25 09:29:47 +0200'
 date_gmt: '2015-11-25 07:29:47 +0200'
 categories:
 - Tekniikka
-- Ohjelmat
 tags:
 - osx
 - drivedx

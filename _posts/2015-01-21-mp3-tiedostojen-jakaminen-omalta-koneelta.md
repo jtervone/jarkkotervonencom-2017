@@ -14,7 +14,6 @@ author:
 date: '2015-01-21 18:40:25 +0200'
 date_gmt: '2015-01-21 16:40:25 +0200'
 categories:
-- Tekniikka
 - Ohjelmat
 tags:
 - cd

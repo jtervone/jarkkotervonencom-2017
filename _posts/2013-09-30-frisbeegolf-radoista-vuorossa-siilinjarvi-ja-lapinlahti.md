@@ -14,7 +14,7 @@ author:
 date: '2013-09-30 23:52:47 +0300'
 date_gmt: '2013-09-30 20:52:47 +0300'
 categories:
-- Frisbeegolf
+- Harrastukset
 tags:
 - siilinjärvi
 - nerkoo

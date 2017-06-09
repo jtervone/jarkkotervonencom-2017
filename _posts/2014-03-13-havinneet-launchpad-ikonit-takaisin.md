@@ -13,7 +13,6 @@ author:
 date: '2014-03-13 22:11:24 +0200'
 date_gmt: '2014-03-13 20:11:24 +0200'
 categories:
-- Tekniikka
 - Ohjelmat
 tags:
 - os x

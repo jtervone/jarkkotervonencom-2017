@@ -14,7 +14,6 @@ author:
 date: '2013-10-29 23:07:36 +0200'
 date_gmt: '2013-10-29 21:07:36 +0200'
 categories:
-- Harrastukset
 - Valokuvaus
 tags:
 - valokuvaus

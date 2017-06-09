@@ -11,7 +11,6 @@ author:
 date: '2016-04-20 07:57:07 +0300'
 date_gmt: '2016-04-20 04:57:07 +0300'
 categories:
-- Harrastukset
 - Pyöräily
 tags:
 - pyöräily

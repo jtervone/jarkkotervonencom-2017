@@ -14,7 +14,6 @@ author:
 date: '2015-12-07 11:31:29 +0200'
 date_gmt: '2015-12-07 09:31:29 +0200'
 categories:
-- Tekniikka
 - Autot
 tags:
 - ford

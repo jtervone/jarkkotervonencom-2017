@@ -15,7 +15,6 @@ date: '2013-06-25 20:06:38 +0300'
 date_gmt: '2013-06-25 17:06:38 +0300'
 categories:
 - Tekniikka
-- Tietokoneet
 tags:
 - macbook
 - air

@@ -14,7 +14,6 @@ author:
 date: '2012-12-31 09:14:12 +0200'
 date_gmt: '2012-12-31 07:14:12 +0200'
 categories:
-- Mobiili
 - Tekniikka
 tags:
 - heiaheia

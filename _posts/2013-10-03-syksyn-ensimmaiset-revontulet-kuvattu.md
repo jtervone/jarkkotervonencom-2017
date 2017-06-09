@@ -14,7 +14,6 @@ author:
 date: '2013-10-03 14:16:20 +0300'
 date_gmt: '2013-10-03 11:16:20 +0300'
 categories:
-- Harrastukset
 - Valokuvaus
 tags:
 - revontulet

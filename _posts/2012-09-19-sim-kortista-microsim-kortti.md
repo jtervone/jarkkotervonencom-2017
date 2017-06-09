@@ -14,7 +14,7 @@ author:
 date: '2012-09-19 20:29:21 +0300'
 date_gmt: '2012-09-19 17:29:21 +0300'
 categories:
-- Mobiili
+- Tekniikka
 tags:
 - iphone
 - sim

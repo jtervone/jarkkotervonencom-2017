@@ -14,7 +14,6 @@ author:
 date: '2015-10-27 00:01:20 +0300'
 date_gmt: '2015-10-27 00:01:20 +0300'
 categories:
-- Harrastukset
 - Retkeily
 tags:
 - martimoaapa

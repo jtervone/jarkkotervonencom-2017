@@ -14,8 +14,7 @@ author:
 date: '2014-11-03 22:03:59 +0200'
 date_gmt: '2014-11-03 20:03:59 +0200'
 categories:
-- Tekniikka
-- Ohjelmointi
+- Ohjelmat
 tags:
 - php
 - ios

@@ -14,7 +14,7 @@ author:
 date: '2012-11-19 23:52:40 +0200'
 date_gmt: '2012-11-19 21:52:40 +0200'
 categories:
-- Mobiili
+- Ohjelmat
 tags:
 - iphone
 - app

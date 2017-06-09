@@ -15,7 +15,6 @@ date: '2013-02-07 21:09:41 +0200'
 date_gmt: '2013-02-07 19:09:41 +0200'
 categories:
 - Netti
-- Tekniikka
 tags:
 - upcloud
 - virtuaalipalvelin

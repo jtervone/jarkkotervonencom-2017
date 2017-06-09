@@ -14,7 +14,6 @@ author:
 date: '2015-06-17 18:00:14 +0300'
 date_gmt: '2015-06-17 15:00:14 +0300'
 categories:
-- Tekniikka
 - Ohjelmat
 tags:
 - fluxbb
