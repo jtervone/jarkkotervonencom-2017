@@ -1,0 +1,53 @@
+- year: 1987
+  subtitle: Tietokone
+  title: Ensimmäinen tietokone
+  image: /assets/img/timeline-card.png
+  content: <p>Sain ensimmäisen tietokoneen, joka oli Amstrad PC 512 kilotavun muistilla. Pian koneeseen asennettiin lisäksi 10 megatavun kiintolevy.</p>
+
+- year: 1989
+  subtitle: Ohjelmointi
+  title: Basic-ohjelmointia
+  image: /assets/img/timeline-card.png
+  content: <p>Basic-ohjelmoinnin harjoittelua GW-Basicilla.</p>
+
+- year: 1991
+  subtitle: Ohjelmointi
+  title: C/Cpp-ohjelmointia
+  image: /assets/img/timeline-card.png
+  content: <p>Tutustuminen C- ja C++ -ohjelmointiin Turbo C++ kääntäjällä.</p>
+
+- year: 1995
+  subtitle: Internet
+  title: Työharjoittelussa internetmatkailua
+  image: /assets/img/timeline-card.png
+  content: <p>Olin yläasteen työharjoittelussa Ideamyrsky Oy:ssä, jossa tutustuin mm. Internet-matkailuun. Tämä jatkui kirjastojen koneilla työharjoittelun jälkeen.</p>
+
+- year: 1996
+  subtitle: Kotisivut
+  title: Ensimmäiset kotisivut
+  image: /assets/img/timeline-card.png
+  content: <p>Kemin kaupungin kirjaston kautta sai sähköpostiosoitteen sekä kotisivutilaa. Nämä molemmat olivat kovassa käytössä.</p>
+
+- year: 1997
+  subtitle: Opiskelu
+  title: OAMK Raahen yksikkö
+  image: /assets/img/timeline-card.png
+  content: <p>Muutin opiskelemaan Raaheen tietokonetekniikkaa.</p>
+
+- year: 1998
+  subtitle: Kotisivut
+  title: Splatweb-sivujen julkistus
+  image: /assets/img/timeline-card.png
+  content: <p>Ensimmäinen isompi juttu oli Splatweb.net, jota pyöritimme kaveriporukalla. Aluksi sivusto koostui tavallisista HTML-tiedostoista, mutta pian koodasimme julkaisujärjestelmän Perlillä.</p>
+
+- year: 1999
+  subtitle: Ohjelmointi
+  title: Tutustuminen PHP
+  image: /assets/img/timeline-card.png
+  content: <p>Teimme Splatweb.netin julkaisujärjestelmän LAMP-alustalle.</p>
+
+- year: 2000
+  subtitle: Työ
+  title: Tutustuminen PHP
+  image: /assets/img/timeline-card.png
+  content: <p>Teimme Splatweb.netin julkaisujärjestelmän LAMP-alustalle.</p>

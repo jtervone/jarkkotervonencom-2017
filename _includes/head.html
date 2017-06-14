@@ -7,7 +7,11 @@
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="shortcut icon" href="/assets/img/favicon.png">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  {% if page.title == 'Timeline' %}
+    <link rel="stylesheet" href="{{ "/assets/css/timeline.css" | relative_url }}">
+  {% else %}
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
