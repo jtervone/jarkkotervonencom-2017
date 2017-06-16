@@ -26,10 +26,12 @@
   {% else %}
     <meta property="og:description" content="{{ site.description | escape }}" />
   {% endif %}
-  {% if page.image.image == null %}
-    <meta property="og:image" content="{{ site.url }}/assets/img/cover-image.jpg" />
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image.file }}" />
+  {% else if post.image %}
+    <meta property="og:image" content="{{ post.image.file }}" />
   {% else %}
-    <meta property="og:image" content="{{ site.url }}{{ page.image.file }}" />
+    <meta property="og:image" content="/assets/img/cover-image.jpg" />
   {% endif %}
   {% if page.date %}<meta property="article:published_time" content="{{ page.date }}" />{% endif %}
   {% if page.date %}<meta property="article:modified_time" content="{{ page.updated }}" />{% endif %}
