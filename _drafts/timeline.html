@@ -17,7 +17,7 @@ permalink: /timeline/
   {% for card in site.data.techtimeline %}
     <li>
       <div>
-        <time>{{ card.year }}</time> {{ card.content }}
+        <time>{{ card.year }}</time><strong>{{ card.title }}</strong><br />{{ card.content }}
       </div>
     </li>
   {% endfor %}
