@@ -272,3 +272,18 @@ pre {
     padding: 10px;
   }
 }
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

@@ -6,13 +6,15 @@ url: "https://jarkkotervonen.com"
 timezone: Europe/Helsinki
 
 # Build settings
-permalink: /:year/:month/:title/
 markdown: kramdown
 highlighter: rouge
+paginate: 5
+paginate_path: "/sivu-:num/"
 sass:
   style: compressed
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
