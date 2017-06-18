@@ -1,28 +1,4 @@
 ---
 layout: default
 ---
-
-{% for post in site.posts limit: 5 %}
-  <div class="article-wrap">
-    <div class="article">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-      <div class="info">
-        <div class="date">Kirjoitettu: {{ post.date | date: "%d.%m.%Y %H:%M" }}</div>
-        <div class="tags">Tagit: {% for tag in post.tags %}<div class="tag">{{ tag }}, </div>{% endfor %}</div>
-      </div>
-      {% if post.image %}
-        <div class="article-image">
-          <a href="{{ post.url | relative_url }}">
-            <amp-img src="{{ post.image.file }}" alt="{{ post.image.text }}" width="1" height="0.66" layout="responsive">
-              <noscript><img src="{{ post.image.file }}" alt="{{ post.image.text }}" /></noscript>
-            </amp-img>
-          </a>
-        </div>
-      {% endif %}
-      <div class="story">
-        {{ post.excerpt }}
-        <a href="{{ post.url | relative_url }}">Lue koko kirjoitus...</a>
-      </div>
-    </div>
-  </div>
-{% endfor %}
+{{ page.content }}
