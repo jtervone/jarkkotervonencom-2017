@@ -2,7 +2,7 @@
 cd $1
 
 if [ ! -f "deploy.lock" ]; then
-  bundle install
+  bundle install --path vendor/bundle
   jekyll build
   rm -rf /var/www/jarkkotervonencom
   mkdir /var/www/jarkkotervonencom
