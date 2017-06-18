@@ -3,12 +3,27 @@
   title: Ensimmäinen tietokone
   image: /assets/img/timeline-card.png
   content: <p>Sain ensimmäisen tietokoneen, joka oli Amstrad PC 512 kilotavun muistilla. Pian koneeseen asennettiin lisäksi 10 megatavun kiintolevy.</p>
+  tags:
+    - ms-dos
+    - gem desktop
 
 - year: 1989
   subtitle: Ohjelmointi
   title: Basic-ohjelmointia
   image: /assets/img/timeline-card.png
-  content: <p>Basic-ohjelmoinnin harjoittelua GW-Basicilla.</p>
+  content: <p>Basic-ohjelmoinnin harjoittelua GW-Basicilla.</p> <p>Aloitin myös puhelinlinjoilla surffaamisen koneen mukana tulleella modeemilla (1200 bps), jolla pääasiassa ihmettelin mitä Telesammosta löytyy.</p>
+  tags:
+    - gw-basic
+    - bbs
+    - telesampo
+
+- year: 1990
+  subtitle: Ohjelmointi
+  title: Turbo Pascalilla ohjelmointia
+  image: /assets/img/timeline-card.png
+  content: <p>Opas Turbo Pascal -ohjelmointiin oli ainoa PC-ohjelmointi, jonka kirjastosta löysin ja sillä sitten ohjelmoitiin.</p>
+  tags:
+    - pascal
 
 - year: 1991
   subtitle: Ohjelmointi
@@ -27,6 +42,10 @@
   title: Ensimmäiset kotisivut
   image: /assets/img/timeline-card.png
   content: <p>Kemin kaupungin kirjaston kautta sai sähköpostiosoitteen sekä kotisivutilaa. Nämä molemmat olivat kovassa käytössä.</p>
+  tags:
+    - html
+    - ftp
+    - telnet
 
 - year: 1997
   subtitle: Opiskelu
@@ -39,15 +58,78 @@
   title: Splatweb-sivujen julkistus
   image: /assets/img/timeline-card.png
   content: <p>Ensimmäinen isompi juttu oli Splatweb.net, jota pyöritimme kaveriporukalla. Aluksi sivusto koostui tavallisista HTML-tiedostoista, mutta pian koodasimme julkaisujärjestelmän Perlillä.</p>
+  tags:
+    - html
+    - css
+    - perl
 
 - year: 1999
   subtitle: Ohjelmointi
   title: Tutustuminen PHP
   image: /assets/img/timeline-card.png
   content: <p>Teimme Splatweb.netin julkaisujärjestelmän LAMP-alustalle.</p>
+  tags:
+    - lamp
 
-- year: 2000
+- year: 2002
   subtitle: Työ
-  title: Tutustuminen PHP
+  title: ZEF-kyselytyökalun kehitys
   image: /assets/img/timeline-card.png
-  content: <p>Teimme Splatweb.netin julkaisujärjestelmän LAMP-alustalle.</p>
+  content: <p>Aloitin ZEF-kyselytyökalun rakentamisen puhtaalta pöydältä OAMK:n palkkalistoilla.</p>
+  tags:
+    - lamp
+    - java
+
+- year: 2003
+  subtitle: Työ
+  title: ZEF-kyselytyökalun kehitys jatkuu
+  image: /assets/img/timeline-card.png
+  content: <p>ZEF-kyselytyökalun kehitys ja ylläpito jatkuu ZEFin palkkalistoilla.</p>
+  tags:
+    - lamp
+    - java
+
+- year: 2006
+  subtitle: Tekniikka
+  title: Kehiittyneemmät JS-tekniikat
+  image: /assets/img/timeline-card.png
+  content: <p>Pikkuhiljaa selainmet alkoivat sallimaan JavaScriptin käytön monipuolisemmin. Ensimmäiset animaatiot ja AJAX-sovellukset toteutin Prototype.js:llä.</p>
+  tags:
+    - lamp
+    - prototypejs
+
+- year: 2007
+  subtitle: Tekniikka
+  title: jQuery ekosysteemi
+  image: /assets/img/timeline-card.png
+  content: <p>jQuery yleistyi ja pian ohitti Prototype.js:n monipuolisuudellaan.</p>
+  tags:
+    - lamp
+    - jquery
+
+- year: 2008
+  subtitle: Tekniikka
+  title: Tutustuminen Amazon Web Services -palveluun
+  image: /assets/img/timeline-card.png
+  content: <p>Omissa projekteissa aloin käyttämään AWS-palveluita ja pian ne otettiin käyttöön myös ZEFin palveluiden pyörittämisessä.</p>
+  tags:
+    - lamp
+    - aws
+
+- year: 2016
+  subtitle: Tekniikka
+  title: Angular2 ja Vue.js
+  image: /assets/img/timeline-card.png
+  content: <p>Töissä otimme käyttöön Angular2:n sekä Firebase-tietokannan. Harrastusprojekteissa aloin käyttämään Vue.js:ää.</p>
+  tags:
+    - angular2
+    - vuejs
+
+- year: 2017
+  subtitle: Tekniikka
+  title: Ylläpitoa ja Jekyll-julkaisujärjestelmä
+  image: /assets/img/timeline-card.png
+  content: <p>Omissa projekteissa otin käyttöön Ansiblen palvelimien ylläpitoon sekä korvannut Wordpressin Jekyll-julkaisujärjestelmällä.</p>
+  tags:
+    - jekyll
+    - ansible

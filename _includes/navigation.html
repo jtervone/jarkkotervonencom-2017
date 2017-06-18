@@ -1,6 +1,10 @@
 <nav>
   <div class="logo">
-    <a href="{{ "/" | relative_url}}"><img src="/assets/img/logo.png" alt="Jarkko Tervonen"></a>
+    <a href="{{ "/" | relative_url}}">
+      <amp-img src="/assets/img/logo.png" alt="Jarkko Tervonen" width="87" height="87" layout="fixed">
+        <noscript><img src="/assets/img/logo.png" alt="Jarkko Tervonen" /></noscript>
+      </amp-img>
+    </a>
     <h1><a href="{{ "/" | relative_url}}">{{ site.title | escape }}</a></h1>
 
     <p>{{ site.description | escape }}</p>

@@ -8,6 +8,12 @@ layout: default
     <div class="date">Kirjoitettu: {{ page.date | date: "%d.%m.%Y %H:%M" }}</div>
     <div class="tags">Tagit: {% for tag in page.tags %}<div class="tag">{{ tag }}, </div>{% endfor %}</div>
   </div>
-  {% if page.image %}<div class="article-image"><img src="{{ page.image.file }}" alt="page.image.text"></div>{% endif %}
+  {% if page.image %}
+    <div class="article-image">
+      <amp-img src="{{ page.image.file }}" alt="page.image.text" width="1" height="0.66" layout="responsive">
+        <noscript><img src="{{ page.image.file }}" alt="page.image.text" /></noscript>
+      </amp-img>
+    </div>
+  {% endif %}
   <div class="story">{{ page.content }}</div>
 </div>
