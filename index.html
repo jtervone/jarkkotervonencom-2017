@@ -13,7 +13,7 @@ layout: default
       {% if post.image %}
         <div class="article-image">
           <a href="{{ post.url | relative_url }}">
-            <amp-img src="{{ post.image.file }}" alt="{{ post.image.text }}" width="1" height="0.66" layout="responsive">
+            <amp-img src="{{ post.image.file }}" alt="{{ post.image.text }}" width="4" height="3" layout="responsive">
               <noscript><img src="{{ post.image.file }}" alt="{{ post.image.text }}" /></noscript>
             </amp-img>
           </a>
