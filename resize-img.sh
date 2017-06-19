@@ -5,6 +5,8 @@ TARGET=assets/img/posts/
 
 for FILE in $SOURCE
 do
-  echo "Processing ${FILE##*/} file..."
-  convert -resize "600x600>" ${FILE} ${TARGET}${FILE##*/}
+  if [ ! -f ${TARGET}${FILE##*/} ]; then
+    echo "Processing ${FILE##*/} file..."
+    convert -resize "600x600>" ${FILE} ${TARGET}${FILE##*/}
+  fi
 done
