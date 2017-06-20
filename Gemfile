@@ -11,6 +11,7 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem "jekyll", "3.4.3"
 gem "jekyll-paginate", "1.1.0"
+gem 'jekyll-sitemap'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
