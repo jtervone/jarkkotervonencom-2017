@@ -2,7 +2,7 @@
 layout: post
 status: published
 published: true
-title: Työmatkaa maastopyörällä
+title: Oulun XXL-liikkeen avajaiset
 image:
   file: /assets/img/posts/selle-italia-rapa.jpg
   alt: Selle Italia X1 ravassa

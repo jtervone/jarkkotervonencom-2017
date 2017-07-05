@@ -2,7 +2,7 @@
 layout: post
 status: published
 published: true
-title: Työmatkaa maastopyörällä
+title: Niksi työmatkapyöräilyyn
 image:
   file: /assets/img/posts/pyoran-lukko.jpg
   alt: Pyörän lukko odottamassa käyttäjää

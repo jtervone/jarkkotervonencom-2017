@@ -2,7 +2,7 @@
 layout: post
 status: published
 published: true
-title: Työmatkaa maastopyörällä
+title: Sunnuntaipyöräilyä Köykkyrissä
 image:
   file: /assets/img/posts/canyon-koykkyri.jpg
   alt: Canyon Köykkyrin silloilla

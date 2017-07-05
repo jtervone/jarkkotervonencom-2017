@@ -2,7 +2,7 @@
 layout: post
 status: published
 published: true
-title: Työmatkaa maastopyörällä
+title: Radio-Suomen Fillarimania
 image:
   file: /assets/img/posts/radio-suomi-fillarimania-screenshot.png
   alt: Radio Suomi Fillarimania
