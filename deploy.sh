@@ -4,7 +4,7 @@ cd $1
 if [ ! -f "deploy.lock" ]; then
   bundle install
   jekyll build
-  rm -rf /var/www/jarkkotervonencom
+  rm -rf /var/www/jarkkotervonencom/*
   mkdir /var/www/jarkkotervonencom
   mv _site/* /var/www/jarkkotervonencom/
 else
