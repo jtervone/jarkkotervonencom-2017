@@ -29,7 +29,9 @@ Kun olin ladannut [karttamateriaalit](http://kartat.hylly.org/), vaikeinta oli t
 
 Tämän jälkeen asennus on helppoa. Lataa OS X -yhteensopiva karttaimage [http://kartat.hylly.org/](http://kartat.hylly.org/) osoitteesta, pura paketti ja asenna purettu tiedosto Garmin MapManagerilla (Tiedosto -> Asenna kartta -> valitse purettu tiedosto). Tämän jälkeen mene Garmin BaseCampiin ja valitse kartaksi MTK Suomi v2.0 (Kartat -> MTK Suomi v2.0). Alla kuvassa näkymä Garmin BaseCampin mukana tulevasta sekä Maanmittauslaitoksen karttapaketin kartasta. Nyt pääsee hieman paremmin tarkkailemaan nauhoitettuja jälkiä.
 
-<img src="/assets/img/posts/garmin-basecamp-mtk-kartat.jpg" alt="Garmin Basecamp ja MTK-kartat" />
+<amp-img src="/assets/img/posts/garmin-basecamp-mtk-kartat.jpg" alt="Garmin Basecamp ja MTK-kartat" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/garmin-basecamp-mtk-kartat.jpg" alt="Garmin Basecamp ja MTK-kartat" /></noscript>
+</amp-img>
 
 Samat karttapaketit saa käsittääkseni ladattua myös GPS-laitteisiin, mutta tästä itsellä ei ole parempaa tietoa, koska käytän [Garminin eTrex -sarjan kymppiversiota](http://sites.garmin.com/etrex/), mikä ei karttoja tue.
 

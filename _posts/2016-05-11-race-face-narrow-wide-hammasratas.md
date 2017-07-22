@@ -28,10 +28,14 @@ Eturattaiden ostamisessahan ei tarvitse käytännössä ottaa huomioon muuta kui
 
 Race Face Narrow Wide -rattaan asentamisessa ei suurempia haasteita ollut. Aluksi etuvaihtaja vipuineen sekä vanhat rattaat irti ja uusi ratas tilalle. Pikkuisen takavaihteen vaihtajaa piti säätää, koska ketju ei suostunut nousemaan isoimmalle rattaalle.
 
-<img src="/assets/img/posts/canyon-yellowstone-ohjaustanko.jpg" alt="Canyon Yellowstone 6.9 - ohjaustanko" />
+<amp-img src="/assets/img/posts/canyon-yellowstone-ohjaustanko.jpg" alt="Canyon Yellowstone 6.9 - ohjaustanko" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/canyon-yellowstone-ohjaustanko.jpg" alt="Canyon Yellowstone 6.9 - ohjaustanko" /></noscript>
+</amp-img>
 
 Etuvaihtajan sekä vaihdevivun poistaminen teki ohjaustangosta hieman epätasapainoisen näköisen. Pitäisi testata keulan lukitsemisvivun siirtämistä vasemmalle puolelle. Tein asentamisen jälkeen noin 25 kilometrin testilenkin ajaen niin asfaltilla kuin maastossa. Siirtymäajossa käytössä on käytännössä pienimmät takarattaat jolloin vauhti pyörii siinä 25 km / h paikkeilla. Aiemmin käytössä oli isoin ratas ja keskimmäiset takarattaat.
 
-<img src="/assets/img/posts/shimano-slx-sram-x7-vaihtaja.jpg" alt="Shimano SLX + SRAM X7 -etuvaihtaja"  />
+<amp-img src="/assets/img/posts/shimano-slx-sram-x7-vaihtaja.jpg" alt="Shimano SLX + SRAM X7 -etuvaihtaja" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/shimano-slx-sram-x7-vaihtaja.jpg" alt="Shimano SLX + SRAM X7 -etuvaihtaja" /></noscript>
+</amp-img>
 
 Ensimmäisen lenkin jälkeen olen tyytyväinen tähän päivitykseen. Liikkuvia osia saatiin pyörästä pois ja pyöräkin keveni kivasti. Entiset eturattaat ja vaihtajat painoivat reilu 400 grammaa ja uusi ratas painaa karvan alle 40 grammaa. Eli pyörästä tuli noin 360 grammaa kevyempi.

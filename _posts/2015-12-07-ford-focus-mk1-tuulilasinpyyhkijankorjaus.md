@@ -25,23 +25,33 @@ Pari tapausta tiedän, missä Ford Focus MK1 eli vuosimallit 1999-2003 tuulilasi
 
 Tuulilasinpyyhkijän moottoriin pääsee käsiksi irroittamalla ensiksi tuulilasin pyyhkimet. Tärkeintä on kuitenkin ensiksi varmistaa, ettei virrat ole autossa päällä. Tämän jälkeen tuulilasinpyyhkijän varren saa irti irroittamalla yllä olevassa kuvassakin näkyvä suojamuovi. Suojamuovi lähtee nostamalla irti ilman työkaluja. Suojamuovin alla on mutteri, jonka avaamisen jälkeen pyyhkijä pitäisi lähteä irti nostamalla. Omat pyyhkijänsulkien varret olivat hapettuneet siinä määrin, että jouduin käyttämään [Biltemasta ostamaani ulosvetäjää apuna](http://www.biltema.fi/fi/Autoilu---MP/Tyokalut-ja-korjaamon-varustus/Ulosvedin/Pallonivelen-ulosvedin-2000019461/).
 
-<img src="/assets/img/posts/suojamuovin-irroitus.jpg" alt="Suojamuovin irroitus" />
+<amp-img src="/assets/img/posts/suojamuovin-irroitus.jpg" alt="Suojamuovin irroitus" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/suojamuovin-irroitus.jpg" alt="Suojamuovin irroitus" /></noscript>
+</amp-img>
 
 Kun pyyhkijänsulkien varret on irroitettu, irroitetaan seuraavaksi vivustoa suojaava suojamuovi. Apukuskin puoleisen varren vieressä on muovitulpan alla ruuvi, joka tulee irroittaa. Seuraavaksi irroitetaan muoviklipsut ja suojamuovi lähtee irti.
 
-<img src="/assets/img/posts/pyyhkijan-mekanismi.jpg" alt="Pyyhkijän mekanismi" />
+<amp-img src="/assets/img/posts/pyyhkijan-mekanismi.jpg" alt="Pyyhkijän mekanismi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pyyhkijan-mekanismi.jpg" alt="Pyyhkijän mekanismi" /></noscript>
+</amp-img>
 
 Pyyhkijöiden toimimattomuuden syy ei ollutkaan moottorissa tai sähköissä. Ongelma on tuulilasinpyyhkijöiden vivustossa, missä moottorilta tulevan tangon päässä oleva pallonivel on löystynyt. Moottorilta tuleva tanko näkyy yllä olevassa kuvassa taustalla. Youtubesta löytyi monta vinkkiä, missä tämä pallonivel on kiinnitetty mitä erilaisimmilla nippusidevirityksillä. Nämä eivät ole pysyviä ratkaisuja. Toivoa antoi tämä alla oleva video, missä yksinkertaisella metallilevyn palasella voidaan korjata pallonivelen kiinnitys.
 
-<iframe src="https://www.youtube.com/embed/iirmgj92nfg" width="700" height="375" allowfullscreen="allowfullscreen"></iframe>
+<amp-iframe width="560" height="315" sandbox="allow-scripts allow-same-origin" layout="responsive" src="https://www.youtube.com/embed/iirmgj92nfg">
+  <noscript><iframe src="https://www.youtube.com/embed/iirmgj92nfg" width="560" height="315"></iframe></noscript>
+</amp-iframe>
 
 Ebaystä löytyy "Windscreen wiper motor linkage repair kit" -hakusanalla videolla esitellyn kaltaisia korjauspaloja, mutta kun metallilevyä löytyy hyllystä niin miksi ei tekisi itse sellaista. Valitettavasti minulla ei ole edes peltisaksia, joten jouduin dremelöimään levystä tämän osan.
 
-<img src="/assets/img/posts/pellin-leikkaamista.jpg" alt="Pellin leikkaaminen" />
+<amp-img src="/assets/img/posts/pellin-leikkaamista.jpg" alt="Pellin leikkaaminen" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pellin-leikkaamista.jpg" alt="Pellin leikkaaminen" /></noscript>
+</amp-img>
 
 Piirsin ohjausvivuston pään ääriviivat pahvin palalle, jonka leikkasin ja käytin sabluunana, kun hahmottelin haarukan muotoja pellin palaselle.
 
-<img src="/assets/img/posts/tyostetty-osa-valmiina.jpg" alt="Työstetty osa" />
+<amp-img src="/assets/img/posts/tyostetty-osa-valmiina.jpg" alt="Työstetty osa" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/tyostetty-osa-valmiina.jpg" alt="Työstetty osa" /></noscript>
+</amp-img>
 
 Mikään kaunis palahan tästä ei tullut, mutta tämä ei olekaan kauneuskilpailu. Kiinnitin haarukan M5-ruuvilla ja mutterilla vipuun. Vivussa oli jo valmiina sopiva reikä, joten siihen sitä ei tarvinnut porata. Valitettavasti en saanut kuvaa korjatusta pallonivelestä, koska se jäi niin pahasti piiloon, enkä jaksanut koko vivustoa irroittaa kuvan ottamista varten.
 

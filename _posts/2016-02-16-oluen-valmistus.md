@@ -31,31 +31,45 @@ Reseptiksi valitsin Kotiolut.com-keskustelualueelta yksinkertaisen [Pale Ale -re
 
 Kieltämättä aika hinnakas setti, mutta luotin siihen, että sijoitus maksaa itsensä takaisin.
 
-<img src="/assets/img/posts/mallasta.jpg" alt="Rouhittua mallasta" />
+<amp-img src="/assets/img/posts/mallasta.jpg" alt="Rouhittua mallasta" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/mallasta.jpg" alt="Rouhittua mallasta" /></noscript>
+</amp-img>
 
 Maltaat tilasin valmiiksi rouhittuna [Lappo.fi-nettikaupasta](http://www.lappo.fi/), josta tuotteet toimitetaan nopeasti.
 
-<img src="/assets/img/posts/maskays.jpg" alt="Mäskäys" />
+<amp-img src="/assets/img/posts/maskays.jpg" alt="Mäskäys" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/maskays.jpg" alt="Mäskäys" /></noscript>
+</amp-img>
 
 Ensimmäiseksi lämmitetään vettä mäskäystä varten. Itse käytin 4,6 kilogrammaa maltaita, jota haudutetaan tunti 12 litrassa vettä.
 
-<img src="/assets/img/posts/maskin-huuhtelu.jpg" alt="Mäskin huuhtelu" />
+<amp-img src="/assets/img/posts/maskin-huuhtelu.jpg" alt="Mäskin huuhtelu" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/maskin-huuhtelu.jpg" alt="Mäskin huuhtelu" /></noscript>
+</amp-img>
 
 Tämän jälkeen mäski huuhdellaan käyttämällä kahdesta käymisastiasta tehtyä huuhtelusiivilää. Sisimmäisen astian pohjaan porataan reikiä. Mäski kaadetaan tämän siivilän päälle ja päälle kaadetaan 78 asteista vettä. Vettä valutetaan ulompaan käymisastiaan tehdyn reiän kautta hitaasti kattilaan.
 
-<img src="/assets/img/posts/vierteen-keitto.jpg" alt="Vierteen keitto" />
+<amp-img src="/assets/img/posts/vierteen-keitto.jpg" alt="Vierteen keitto" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/vierteen-keitto.jpg" alt="Vierteen keitto" /></noscript>
+</amp-img>
 
 Maltaiden huuhteluvesi eli vierre keitetään. Keiton eri vaiheissa lisätään humalaa, joka antaa oluelle katkeron ja aromin.
 
-<img src="/assets/img/posts/humalapelletti.jpg" alt="Humalapelletti" />
+<amp-img src="/assets/img/posts/humalapelletti.jpg" alt="Humalapelletti" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/humalapelletti.jpg" alt="Humalapelletti" /></noscript>
+</amp-img>
 
 Humalat tilasin pellettimuodossa.
 
-<img src="/assets/img/posts/vierteen-jaahdytys.jpg" alt="Vierteen jäähdytys" />
+<amp-img src="/assets/img/posts/vierteen-jaahdytys.jpg" alt="Vierteen jäähdytys" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/vierteen-jaahdytys.jpg" alt="Vierteen jäähdytys" /></noscript>
+</amp-img>
 
 Kun vierrettä on keitetty tunti, se jäähdytetään 20 asteeseen. Käytin rakentamaani jäähdytintä, jonka läpi ajoin kylmää vettä keittiön hanasta.
 
-<img src="/assets/img/posts/siivila.jpg" alt="Vierteen siivilöinti" />
+<amp-img src="/assets/img/posts/siivila.jpg" alt="Vierteen siivilöinti" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/siivila.jpg" alt="Vierteen siivilöinti" /></noscript>
+</amp-img>
 
 Kun vierre on jäähdytetty kahteenkymmeneen asteeseen, kaadetaan vierre siivilän läpi käymisastiaan. Kun vierre on käymisastiassa, sekaan lisätään hiiva ja suljetaan käymisastia.
 
@@ -65,6 +79,8 @@ Käytin pulloina 0,33 litran pulloja ja niitä tuli noin 50 kappaletta. Hävikki
 
 Jo muutaman päivän jälkeen pullo alkoivat sihahtelemaan avatessa. Yllättäen makukin oli paljon parempi kuin uskalsin toivoakaan. Pidän hieman vahvemman makuisesta oluesta, mutta tämä on aivan loistava ensimmäiseksi olueksi.
 
-<img src="/assets/img/posts/oluttuoppi.jpg" alt="Oluttuoppi" />
+<amp-img src="/assets/img/posts/oluttuoppi.jpg" alt="Oluttuoppi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/oluttuoppi.jpg" alt="Oluttuoppi" /></noscript>
+</amp-img>
 
 Jatkossa voikin alkaa keskittymään erilaisiin resepteihin sekä optimoimaan valmistuprosessia ja laitteistoa. Oluen valmistaminen on huomattavasti helpompaa kuin miltä se aluksi kuullostaa. Varsinkin tuosta Pane Olutta -kirjasta oli paljon apua tämän harrastuksen aloittamisessa.

@@ -35,91 +35,121 @@ Yhteydenotot mieluiten osoitteeseen jarkko [at] splatweb . net tai tekstiviestil
 
 ## MYYTY - Partner GBV 325 -lehtipuhallin (hp. 80€)
 
-<img src="/assets/img/posts/partner-gbv-325-lehtipuhallin.jpg" alt="Partner GBV-325 -lehtipuhallin" />
+<amp-img src="/assets/img/posts/partner-gbv-325-lehtipuhallin.jpg" alt="Partner GBV-325 -lehtipuhallin" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/partner-gbv-325-lehtipuhallin.jpg" alt="Partner GBV-325 -lehtipuhallin" /></noscript>
+</amp-img>
 
 Muutaman vuoden käyttämättä ollut Partnerin laadukas lehtipuhallin. Testattu ja lähti käyntiin kuin uusi.
 
 ## MYYTY - LiftMaster 4410e -sähköinen ovennostin (hp. 90€)
 
-<img src="/assets/img/posts/liftmaster-4410e-ovennostin.jpg" alt="LiftMaster 4410e-ovennostin" />
+<amp-img src="/assets/img/posts/liftmaster-4410e-ovennostin.jpg" alt="LiftMaster 4410e-ovennostin" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/liftmaster-4410e-ovennostin.jpg" alt="LiftMaster 4410e-ovennostin" /></noscript>
+</amp-img>
 
 Muuttaessamme omakotitaloon kaupan mukana tuli asentamatta jäänyt LiftMasterin sähköinen ovennostin. Eli tämä on käyttämätön kampe. Nostovoimaa tällä ovennostimella on 800N ja tehoa moottorissa 800W.
 
 ## MYYTY - Upon valmistama heteka-sänky
 
-<img src="/assets/img/posts/upo-heteka-sanky.jpg" alt="UPO heteka-sänky" />
+<amp-img src="/assets/img/posts/upo-heteka-sanky.jpg" alt="UPO heteka-sänky" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/upo-heteka-sanky.jpg" alt="UPO heteka-sänky" /></noscript>
+</amp-img>
 
 Loistavassa kunnossa oleva UPOn valmistama heteka-sänky.
 
 ## Power Craft -vesipumppu (hp. 25€)
 
-<img src="/assets/img/posts/power-craft-800w-vesipumppu.jpg" alt="Power Craft 800w -vesipumppu" />
+<amp-img src="/assets/img/posts/power-craft-800w-vesipumppu.jpg" alt="Power Craft 800w -vesipumppu" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/power-craft-800w-vesipumppu.jpg" alt="Power Craft 800w -vesipumppu" /></noscript>
+</amp-img>
 
 Tässä 800 watin sähkömoottorilla toimiva Power Craftin vesipumppu, mitä ei myöskään ole käytetty kuin sen verran, että todettiin meidän käyttötarkotukseen vääränlaiseksi pumpuksi. Pumppauskapasiteetti on 3200 litraa / tunti.
 
 ## Enpä myy - Ykibox-suksiboksi (hp. 40€)
 
-<img src="/assets/img/posts/ykibox-suksiboksi.jpg" alt="Ykibox-suksiboksi" />
+<amp-img src="/assets/img/posts/ykibox-suksiboksi.jpg" alt="Ykibox-suksiboksi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/ykibox-suksiboksi.jpg" alt="Ykibox-suksiboksi" /></noscript>
+</amp-img>
 
 Alkuperäiskuntoinen Ylikiimingin muovin valmistama suksiboksi. Kuvissa hieman valkoisempi kuin mitä luonnossa on.
 
 ## MYYTY - Tunturi W1 Original Ergometer (hp. 40€)
 
-<img src="/assets/img/posts/tunturi-w1-original-ergometer.jpg" alt="Tunturi W1 Original Ergometer" />
+<amp-img src="/assets/img/posts/tunturi-w1-original-ergometer.jpg" alt="Tunturi W1 Original Ergometer" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/tunturi-w1-original-ergometer.jpg" alt="Tunturi W1 Original Ergometer" /></noscript>
+</amp-img>
 
 Toimiva kotimainen Tunturi-kuntopyörä. Ainoastaan sykemittarin anturiin en luottaisi vaan käyttäisin vyöllisiä nykyaikaisia sykemittareita.
 
 ## Yamaha DT:n nopeusmittarin vaijeri, 84,5 cm (hp. 10€)
 
-<img src="/assets/img/posts/dt-nopeusmittarin-vaijeri.jpg" alt="DT:n nopeusmittarin vaijeri (84,5 cm)" />
+<amp-img src="/assets/img/posts/dt-nopeusmittarin-vaijeri.jpg" alt="DT:n nopeusmittarin vaijeri (84,5 cm)" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/dt-nopeusmittarin-vaijeri.jpg" alt="DT:n nopeusmittarin vaijeri (84,5 cm)" /></noscript>
+</amp-img>
 
 Ainakin liitoksiltaan Yamaha DT 125 R -kevytmoottoripyörään sopiva vaijeri, mutta ainakin tähän yksilöön 5 cm liian lyhyt. Käy ehkä myös mopoihin.
 
 ## MYYTY - Sony SS-H551 -kaiuttimet (hp. 15€)
 
-<img src="/assets/img/posts/sony-ss-h551-kaiuttimet.jpg" alt="Sony SS-H551 -kaiuttimet" />
+<amp-img src="/assets/img/posts/sony-ss-h551-kaiuttimet.jpg" alt="Sony SS-H551 -kaiuttimet" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/sony-ss-h551-kaiuttimet.jpg" alt="Sony SS-H551 -kaiuttimet" /></noscript>
+</amp-img>
 
 Luultavasti pienen stereopaketin mukana tulleet kaiuttimet. Hyvä valinta vaikka vaikkapa autotalliin tai saunan lauteiden alle.
 
 ## MYYTY - Logitech X-230 2.1 -tietokonekaiuttimet (hp. 25€)
 
-<img src="/assets/img/posts/logitech-x-230-2-1.jpg" alt="Logitech X-230 2.1 -tietokonekaiuttimet" />
+<amp-img src="/assets/img/posts/logitech-x-230-2-1.jpg" alt="Logitech X-230 2.1 -tietokonekaiuttimet" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/logitech-x-230-2-1.jpg" alt="Logitech X-230 2.1 -tietokonekaiuttimet" /></noscript>
+</amp-img>
 
 Hyvin soivat kaiuttimet tietokoneeseen. Tehoja löytyy 2x6W + 20W subwoofer.
 
 ## MYYTY - LaCien ulkoinen USB-kiintolevy (hp. 40€)
 
-<img src="/assets/img/posts/lacie-usb-kiintolevy-1tb.jpg" alt="LaCie-ulkoinen kiintolevy (1TB)" />
+<amp-img src="/assets/img/posts/lacie-usb-kiintolevy-1tb.jpg" alt="LaCie-ulkoinen kiintolevy (1TB)" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/lacie-usb-kiintolevy-1tb.jpg" alt="LaCie-ulkoinen kiintolevy (1TB)" /></noscript>
+</amp-img>
 
 Ulkoinen kiintolevy.
 
 ## MYYTY - D-Link DIR-655 -reititin (hp. 35€)
 
-<img src="/assets/img/posts/d-link-dir-655-router.jpg" alt="D-Link DIR-655 -reititin" />
+<amp-img src="/assets/img/posts/d-link-dir-655-router.jpg" alt="D-Link DIR-655 -reititin" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/d-link-dir-655-router.jpg" alt="D-Link DIR-655 -reititin" /></noscript>
+</amp-img>
 
 Tehokas WLAN-reititin. Lisäksi laitteessa 4 LAN-porttia sekä USB-portti.
 
 ## MYYTY - ZyXEL P-660HN T1A v2 ADSL-modeemi (hp. 15€)
 
-<img src="/assets/img/posts/zycel-p-660hn-t1a-v2-adsl-modem.jpg" alt="ZyXel P-660HN T1A v2 ADSL -modeemi" />
+<amp-img src="/assets/img/posts/zycel-p-660hn-t1a-v2-adsl-modem.jpg" alt="ZyXel P-660HN T1A v2 ADSL -modeemi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/zycel-p-660hn-t1a-v2-adsl-modem.jpg" alt="ZyXel P-660HN T1A v2 ADSL -modeemi" /></noscript>
+</amp-img>
 
 Neljällä LAN-portilla sekä WLANilla varustettu ADSL-modeemi.
 
 ## TeleWell TW-EA510 ADSL-modeemi (hp. 10€)
 
-<img src="/assets/img/posts/telewell-tw-ea510-adsl-modem.jpg" alt="TeleWell TW-EA510 ADSL -modeemi" />
+<amp-img src="/assets/img/posts/telewell-tw-ea510-adsl-modem.jpg" alt="TeleWell TW-EA510 ADSL -modeemi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/telewell-tw-ea510-adsl-modem.jpg" alt="TeleWell TW-EA510 ADSL -modeemi" /></noscript>
+</amp-img>
 
 TeleWellin ADSL-modeemi, missä neljä LAN-porttia sekä WLAN.
 
 ## TeleWell TW-EA501 v3 ADSL-modeemi (hp. 5€)
 
-<img src="/assets/img/posts/telewell-tw-ea501-v3-adsl-modem.jpg" alt="TeleWell TW-EA501 v3 ADSL -modeemi" />
+<amp-img src="/assets/img/posts/telewell-tw-ea501-v3-adsl-modem.jpg" alt="TeleWell TW-EA501 v3 ADSL -modeemi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/telewell-tw-ea501-v3-adsl-modem.jpg" alt="TeleWell TW-EA501 v3 ADSL -modeemi" /></noscript>
+</amp-img>
 
 TeleWellin ADSL-modeemi neljällä LAN-portilla.
 
 ## Cisco 575 LRE VSDL-modeemi (hp. 5€)
 
-<img src="/assets/img/posts/cisco-575-lre-vdsl-modem.jpg" alt="Cisco 575 LRE VDS -modeemi" />
+<amp-img src="/assets/img/posts/cisco-575-lre-vdsl-modem.jpg" alt="Cisco 575 LRE VDS -modeemi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/cisco-575-lre-vdsl-modem.jpg" alt="Cisco 575 LRE VDS -modeemi" /></noscript>
+</amp-img>
 
 VDSL-modeemi ilman virtalähdettä.
 

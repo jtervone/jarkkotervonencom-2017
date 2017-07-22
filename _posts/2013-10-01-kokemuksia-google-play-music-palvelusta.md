@@ -33,25 +33,34 @@ Google Play Musicin käyttöliittymä on selkeä ja musiikkia pääsee helposti
 
 Rekisteröitymisen jälkeen pari kertaa kuunneltuani Kollaa kestää -bändin levyt läpi, alkoi aika olemaan valmis seuraavalle bändille. Totuttuun tapaan katsomaan mitä palvelu itse ehdottaisi. Pieni pettymys on ettei Googlen samankaltaisten artistien lista onnistu löytämään yhtään suomalaista artistia eikä artistit ehkä muutenkaan osu aivan kohdalleen.
 
-<img src="/assets/img/posts/google-play-kollaa-kestaa.png" alt="Google Play Musicin lista Kollaa kestää -bändiä muistuttavista bändeistä" />
+<amp-img src="/assets/img/posts/google-play-kollaa-kestaa.png" alt="Google Play Musicin lista Kollaa kestää -bändiä muistuttavista bändeistä" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/google-play-kollaa-kestaa.png" alt="Google Play Musicin lista Kollaa kestää -bändiä muistuttavista bändeistä" /></noscript>
+</amp-img>
 
 Google Play Musicin lista Kollaa kestää -bändiä muistuttavista artisteista
 
 ja sitten Spotifyn vastaava lista:
 
-<img src="/assets/img/posts/spotify-kollaa-kestaa.png" alt="Spotifyn lista Kollaa kestää -bändiä muistuttavista bändeistä" />
+<amp-img src="/assets/img/posts/spotify-kollaa-kestaa.png" alt="Spotifyn lista Kollaa kestää -bändiä muistuttavista bändeistä" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/spotify-kollaa-kestaa.png" alt="Spotifyn lista Kollaa kestää -bändiä muistuttavista bändeistä" /></noscript>
+</amp-img>
 
 Spotifyn lista Kollaa kestää -bändiä muistuttavista artisteist
 
 Spotify vei kyllä tämän selvästi. Sama toistuu myös ulkomaisten artistien kohdalla.
 
-<img src="/assets/img/posts/google-play-kruiz.png" alt="Google Play Musicin lista Kruizia muistuttavista bändeistä" />
+<amp-img src="/assets/img/posts/google-play-kruiz.png" alt="Google Play Musicin lista Kruizia muistuttavista bändeistä" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/google-play-kruiz.png" alt="Google Play Musicin lista Kruizia muistuttavista bändeistä" /></noscript>
+</amp-img>
 
 Google Play Musicin lista Kruiz-bändiä muistuttavista artisteista
 
 Ja sama lista Spotifyltä:
 
-<img src="/assets/img/posts/spotify-kruiz.png" alt="Spotifyn lista Kruizia muistuttavista bändeistä" />
+<amp-img src="/assets/img/posts/spotify-kruiz.png" alt="Spotifyn lista Kruizia muistuttavista bändeistä" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/spotify-kruiz.png" alt="Spotifyn lista Kruizia muistuttavista bändeistä" /></noscript>
+</amp-img>
+
 Spotifyn lista Kruiz-bändiä muistuttavista artisteista
 
 Tuntuu, että Googleen genrejä ei ole määritelty kovin tarkasti. Tämä on harmillista, koska näin ollen suosituimmat bändit pomppivat samankaltaisten artistien listalla. Toki jos tietää mitä kuuntelee, niin eihän tätä ominaisuutta tarvitse, mutta tykkään kovasti tutustua uusiin bändeihin ja artisteihin tätä kautta. Tämän huomaa jo siitä, että Spotifyn myötä [olen scroblannut Last.fm:ään](http://www.last.fm/user/juffeli) melkein 4700 eri artistia. Omilla mp3:lla pääsin vain kymmenesosaan tästä. Samalla musiikkimaku on laajentunut huomattavasti.

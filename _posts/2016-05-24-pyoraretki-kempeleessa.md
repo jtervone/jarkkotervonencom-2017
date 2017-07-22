@@ -26,11 +26,15 @@ Retkeily on jäänyt harmittavan vähälle viime aikoina. Pari pientä hiihtorei
 
 Viime lauantaina kuitenkin tehtiin muutaman tunnin pyöräilyretki Kempeleen maastoissa. Lähinnä Köykkyri - Mourunkijärvi välisen maaston polkuja ja metsäautoteitä kiertäessä. Siellä niitä polkuja riittääkin ja on hyvää vaihtelua arkipyöräilylle taajama-alueilla.
 
-<img src="/assets/img/posts/kyykaarme.jpg" alt="Kyykäärme" />
+<amp-img src="/assets/img/posts/kyykaarme.jpg" alt="Kyykäärme" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/kyykaarme.jpg" alt="Kyykäärme" /></noscript>
+</amp-img>
 
 Näytti olevan myös kyykäärmeet liikkeellä. 35 kilometrin matkalla nähtiin näitä pikkuveijareita jopa kolme kappaletta. Aiemmin metsässä liikkuessani näitä on tullut vastaan alle kymmenen koko elämäni aikana, joten ainakin itselle tämä oli erikoista.
 
-<img src="/assets/img/posts/canyon-mourunkijarvi.jpg" alt="Canyon Yellowstone ja Mourunkijärvi" />
+<amp-img src="/assets/img/posts/canyon-mourunkijarvi.jpg" alt="Canyon Yellowstone ja Mourunkijärvi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/canyon-mourunkijarvi.jpg" alt="Canyon Yellowstone ja Mourunkijärvi" /></noscript>
+</amp-img>
 
 Mourunkijärvi näytti samalta kuin vuosi sitten keväällä siellä ajellessa. Vielä ketään ei ollut uimassa, mutta eiköhän ensimmäiset uimarit tänne lähipäivinä saavu.
 

@@ -22,18 +22,26 @@ comments: []
 ---
 Öljynvaihdon yhteydessä irroitettua pohjapanssari, jota en ole laittanut paikoilleen vaan se on nojaillut tallin seinään pari viikkoa. Ajattelin, että sama kai se on jo tässä vaiheessa suojata maalaamalla, ettei ainakaan enempää ruostu.
 
-<img src="/assets/img/posts/pohjapanssari-lahtotilanne.jpg" alt="Lähtötilanne" />
+<amp-img src="/assets/img/posts/pohjapanssari-lahtotilanne.jpg" alt="Lähtötilanne" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pohjapanssari-lahtotilanne.jpg" alt="Lähtötilanne" /></noscript>
+</amp-img>
 
 Ensimmäiseksi rapsutin enimmät ruosteet kulmahiomakoneen teräsharjan avulla pois. Totta kai tämä toteutettiin sunnuntai-iltana, jottei turhaa naapureita tullut häirittyä.
 
-<img src="/assets/img/posts/pohjapanssari-hiottuna.jpg" alt="Pohjapanssari hiottuna" />
+<amp-img src="/assets/img/posts/pohjapanssari-hiottuna.jpg" alt="Pohjapanssari hiottuna" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pohjapanssari-hiottuna.jpg" alt="Pohjapanssari hiottuna" /></noscript>
+</amp-img>
 
 Kun enimmät ruosteet oli saatu irroitettua, kävi selväksi pohjapanssarin alkuperäinen väri, joka oli musta. Löytyipä pohjapanssarista Fordin leimakin, joten ennakkoarvailusta poiketen tämä ei ole mikään itsekyhätty pohjapanssari.
 
-<img src="/assets/img/posts/pohjapanssari-maalauksessa.jpg" alt="Pohjapanssari maalauksessa" />
+<amp-img src="/assets/img/posts/pohjapanssari-maalauksessa.jpg" alt="Pohjapanssari maalauksessa" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pohjapanssari-maalauksessa.jpg" alt="Pohjapanssari maalauksessa" /></noscript>
+</amp-img>
 
 Autotallin puolella ei lämmitys ole päällä, joten maalaaminen suoritettiin pannuhuoneen puolella. Sivelin pohjapanssarin pintaan 2-3 kerrosta mustaa Hammertite-maalia, jota sattui olemaan hyllyssä puoli purkkia.
 
-<img src="/assets/img/posts/pohjapanssari.jpg" alt="Pohjapanssari" />
+<amp-img src="/assets/img/posts/pohjapanssari.jpg" alt="Pohjapanssari" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pohjapanssari.jpg" alt="Pohjapanssari" /></noscript>
+</amp-img>
 
 Mielestäni tämä musta Hammertite on enemmän tumman harmaata kuin mustaa, mutta menköön näissä pohjan osissa. Maalia markkinoidaan ominaisuuksilla, jotka mahdollistaa maalaamisen suoraan ruosteen päälle, mutta olen aina enimmät ruosteet rapsutellut alta pois.

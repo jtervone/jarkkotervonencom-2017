@@ -25,6 +25,8 @@ Olin XXL:n nettikaupasta huomioinut muutaman tuotteen, jotka ajattelin käydä h
 
 XXL:n avajaisia varten hyllyt oli täytetty enemmän ihmisiä kiinnostavilla tuotteilla ja lopullinen valikoima laajenee myöhemmin. Tuotevalikoima on tietysti silti laaja. Kyllä tässä muut oululaiset urheiluliikkeet saavat alkaa miettimään miten vastaavat uuteen tulokkaaseen.
 
-<img src="/assets/img/posts/tf2-cycle-oil.jpg" alt="TF2 Cycle Oil ja Ass Saver" />
+<amp-img src="/assets/img/posts/tf2-cycle-oil.jpg" alt="TF2 Cycle Oil ja Ass Saver" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/tf2-cycle-oil.jpg" alt="TF2 Cycle Oil ja Ass Saver" /></noscript>
+</amp-img>
 
 Matkaan avajaisista tarttui maltillisesti alle kymmenen euron ostokset. Pikkupurkki ketjuöljyä sekä Ass Saver -lokasuoja reppuun mukaan hätävaralokasuojaksi. Pitää tutustua tähän lokasuojaan myöhemmin tarkemmin.

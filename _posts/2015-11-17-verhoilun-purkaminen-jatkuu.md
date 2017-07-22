@@ -22,21 +22,29 @@ comments: []
 ---
 Perussunnuntai puuhailut Granadan parissa. Jatkettiin verhoilun purkamista poistamalla ovien pahvit ja purettiin koelaudan alaosa. Kaikki meni aika mallikkaasti. Ainoastaan yksi ruuvi ei suostunut aukeamaan ja jouduin näyttämään tälle dremeliä.
 
-<img src="/assets/img/posts/oikea-takaovi.jpg" alt="Oikea takaovi" />
+<amp-img src="/assets/img/posts/oikea-takaovi.jpg" alt="Oikea takaovi" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/oikea-takaovi.jpg" alt="Oikea takaovi" /></noscript>
+</amp-img>
 
 Ovien pahvit lähtivät nätisti hieman vääntämällä kiinnikkeiden kohdalta irti. Tämä on muuten ensimmäinen kerta, kun ovia availen lämpötilan olevan plussan puolella 🙂 Pahvit olivat vettä imeneet aikanaan mutta varsinaisesti märkiä oli vain yksi. Taitaapa mennä uusiksi nämäkin verhoilut. Vähän tuntuisi kuin maalauksessa maalia olisi vuotanut vähän sisäverhoilun päälle.
 
-<img src="/assets/img/posts/oikea-takaovi-ruoste.jpg" alt="Oikean takaoven ruoste" />
+<amp-img src="/assets/img/posts/oikea-takaovi-ruoste.jpg" alt="Oikean takaoven ruoste" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/oikea-takaovi-ruoste.jpg" alt="Oikean takaoven ruoste" /></noscript>
+</amp-img>
 
 Pientä pintaruostetta ovien sisäpuolella. Kotelot eivät äkkiseltään katsottuna olleet läpipuhki mistään kohdalta.
 
-<img src="/assets/img/posts/koelautaa-purettu.jpg" alt="Koelautaa purettu" />
+<amp-img src="/assets/img/posts/koelautaa-purettu.jpg" alt="Koelautaa purettu" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/koelautaa-purettu.jpg" alt="Koelautaa purettu" /></noscript>
+</amp-img>
 
 Hiiret ovat nähtävästi jättäneet koelaudan rauhaan. Ainoastaan ihan alimmaisista osista löytyy hiiren jätöksiä sekä jonkin verran nakerrettuja johtoja.
 
 Yllätyin kuinka vähän tässä autossa on vedetty johtoja verrattuna jopa 80-luvun autoihin, mitä olen joutunut availemaan.
 
-<img src="/assets/img/posts/aurinkolippa.jpg" alt="Aurinkolippa" />
+<amp-img src="/assets/img/posts/aurinkolippa.jpg" alt="Aurinkolippa" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/aurinkolippa.jpg" alt="Aurinkolippa" /></noscript>
+</amp-img>
 
 Aurinkolipat olivat kohtalaisessa kunnossa, kunnes avattuna huomasi kuinka homeessa nämä ovat. Taitaa mennä katon verhoilukin uusiksi vaikka se päälle päin näyttää hyvältä.
 

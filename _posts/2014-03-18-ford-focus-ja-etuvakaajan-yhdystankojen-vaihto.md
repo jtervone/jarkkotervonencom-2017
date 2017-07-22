@@ -29,19 +29,27 @@ Homma alko nostamalla auton etupää pukeille ja irroittamalla eturengas oikealt
 
 Jos mutterit eivät ole aivan ruostuneet kiinni niin irroitus saattaa onnistua helposti, kuten ensimmäinen ylämutteri. Ruuvia pidetään kuusiokoloavaimella paikallaan ja pyöritellään mutteri auki lista-avaimella. Ylempää mutteria aukaistaessa kannattaa varoa ABS:n anturin johtoa.
 
-<img src="/assets/img/posts/valitangon-irroitus-tapa-1.jpg" alt="Etuvakaajan yhdystangon irroitus tapa 1" />
+<amp-img src="/assets/img/posts/valitangon-irroitus-tapa-1.jpg" alt="Etuvakaajan yhdystangon irroitus tapa 1" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/valitangon-irroitus-tapa-1.jpg" alt="Etuvakaajan yhdystangon irroitus tapa 1" /></noscript>
+</amp-img>
 
 Toinen tapa on pitää lista-avaimella toiselta puolelta kiinni ja pyörittää mutteri auki räikällä, kuten jouduin tekemään alemman mutterin kanssa.
 
-<img src="/assets/img/posts/valitangon-irroitus-tapa-2.jpg" alt="Etuvakaajan yhdystangon irroitus tapa 2" />
+<amp-img src="/assets/img/posts/valitangon-irroitus-tapa-2.jpg" alt="Etuvakaajan yhdystangon irroitus tapa 2"" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/valitangon-irroitus-tapa-2.jpg" alt="Etuvakaajan yhdystangon irroitus tapa 2"" /></noscript>
+</amp-img>
 
 Kun ruuvit on irroitettu voi etutukivartta nostaa hieman tunkilla ylöspäin, jotta yhdystanko irtoaa helpommin.
 
-<img src="/assets/img/posts/valitangon-irroitus.jpg" alt="Etuvakaajan yhdystangon irroitus" />
+<amp-img src="/assets/img/posts/valitangon-irroitus.jpg" alt="Etuvakaajan yhdystangon irroitus" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/valitangon-irroitus.jpg" alt="Etuvakaajan yhdystangon irroitus" /></noscript>
+</amp-img>
 
 Kun yhdystanko on irroitettu voidaan uusi tanko asentaa paikalleen. Tanko on helpompi pistää ylhäältä kiinni ensimmäiseksi ja mallata alapää paikalleen viimeiseksi. Muista myös laittaa ABS-anturin johdon pidike paikalleen yhdystangon yläpäätä kiinnittäessä.
 
-<img src="/assets/img/posts/valitanko-vanha-uusi.jpg" alt="Vanha ja uusi yhdystanko" />
+<amp-img src="/assets/img/posts/valitanko-vanha-uusi.jpg" alt="Vanha ja uusi yhdystanko" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/valitanko-vanha-uusi.jpg" alt="Vanha ja uusi yhdystanko" /></noscript>
+</amp-img>
 
 Oikeanpuoleisen koiranluun vaihtamiseen meni noin tunti. Toisen puolen alimmainen mutteri aiheutti puolestaan ongelmia useammaksi tunnuksi. Ratkaisuna oli repiä tanko irti pallonivelestä ja sahata pultti sekä mutteri poikki mutterin kaulusta myöten ja paukuttamalla vasaralla palloniveltä niin, että mutterin jämä irtoaa. Uusissa yhdystangoissa tulee mukana uudet mutterit, joten hankalemmissa tapauksissa voi kulmahiomakoneen avulla katkaista ruuvit ja säästää aikaa.</p>
 

@@ -23,28 +23,42 @@ comments: []
 
 Viikonloput mennyt taas reissussa, mutta sunnuntaina ehdittiin hieman purkamaan verhoiluja. Kyllähän tätä pimeällä pystyy tekemään, kunhan valaistus on kunnossa mutta huomattavasti helpompaa päivän valolla. Tai sitten pitäisi vaan ostaa enemmän valoja.
 
-<img src="/assets/img/posts/penkit-sisalta.jpg" alt="Penkit sisältä" />
+<amp-img src="/assets/img/posts/penkit-sisalta.jpg" alt="Penkit sisältä" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/penkit-sisalta.jpg" alt="Penkit sisältä" /></noscript>
+</amp-img>
 
 Penkit irtosivat ongelmitta. Penkkien verhoiluhan oli yhtä reikää takapenkkien nahkaosaa vaille ehjät, mutta kankaat olivat kovin haalistuneet. Penkit tuntui painuvan pohjaan kevyemmänkin henkilön istuessa penkeille, joten uusiksi nämä menee.
 
-<img src="/assets/img/posts/takapenkin-alla-hiirenpesa.jpg" alt="Hiiren pesä takapenkin alla" />
+<amp-img src="/assets/img/posts/takapenkin-alla-hiirenpesa.jpg" alt="Hiiren pesä takapenkin alla" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/takapenkin-alla-hiirenpesa.jpg" alt="Hiiren pesä takapenkin alla" /></noscript>
+</amp-img>
 
 Takapenkin alta löytyi hiirenpesä. Luultavasti osa takapenkin sisuksista on mennyt tämän pesän rakentamistarpeisiin.
 
-<img src="/assets/img/posts/hiiren-jatoksia-verhoilun-alla.jpg" alt="Hiiren jätöksiä verhoilun alla" />
+<amp-img src="/assets/img/posts/hiiren-jatoksia-verhoilun-alla.jpg" alt="Hiiren jätöksiä verhoilun alla" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/hiiren-jatoksia-verhoilun-alla.jpg" alt="Hiiren jätöksiä verhoilun alla" /></noscript>
+</amp-img>
 
 Hiiren jätöksiä löytyi myös kuskin jalkatilan verhoilujen takaa. Radion takaa löytyi myös papanoita. Myös anteenin johtoa oli jyrsitty jonkun verran. Eiköhän nämä pikkuelukat ole syynä miksi esimerkiksi virtaa ei tule kaikille lampuille.
 
-<img src="/assets/img/posts/oikea-etulokasuoja.jpg" alt="Oikea etulokasuoja" />
+<amp-img src="/assets/img/posts/oikea-etulokasuoja.jpg" alt="Oikea etulokasuoja" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/oikea-etulokasuoja.jpg" alt="Oikea etulokasuoja" /></noscript>
+</amp-img>
 
 Reikä tuntuu löytyvän jokaisen lokasuojan kulmasta. Yllä olevassa kuvassa on apukuskin puoleinen lokasuoja.
 
-<img src="/assets/img/posts/oikea-takalokasuoja.jpg" alt="Oikea takalokasuoja" />
+<amp-img src="/assets/img/posts/oikea-takalokasuoja.jpg" alt="Oikea takalokasuoja" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/oikea-takalokasuoja.jpg" alt="Oikea takalokasuoja" /></noscript>
+</amp-img>
 
-<img src="/assets/img/posts/vasen-takalokasuoja.jpg" alt="Vasen takalokasuoja" />
+<amp-img src="/assets/img/posts/vasen-takalokasuoja.jpg" alt="Vasen takalokasuoja" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/vasen-takalokasuoja.jpg" alt="Vasen takalokasuoja" /></noscript>
+</amp-img>
 
 Vastaavat reiät löytyivät myös takalokasuojista takapenkin alta.
 
-<img src="/assets/img/posts/takapenkit-irti.jpg" alt="Takapenkit irti" />
+<amp-img src="/assets/img/posts/takapenkit-irti.jpg" alt="Takapenkit irti" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/takapenkit-irti.jpg" alt="Takapenkit irti" /></noscript>
+</amp-img>
 
 Takapenkin alaosa näytti päälle päin hyvältä sen sijaan ruoste on tykännyt jalkatilaan jääneestä vedestä. Nämä eivät kuitenkaan olleet ihan puhki ruostuneet.

@@ -26,18 +26,24 @@ Tiilikkajärven kansallispuisto sijaitsee pääasiassa Rautavaaran kunnan alueel
 
 Tarkoituksemme oli käydä patikoimassa noin seitsemän kilometrin pituinen Uitonkierto sillä poikkeuksella, että käymme syömässä eväät Venäjänhiekalla noin puolessa välissä reittiä. Venäjänhiekka on hiekkaranta Tiilikkanjärven rannallaja toinen alueella olevista paikoista, joissa leiriytyminen on sallittua.
 
-<img src="/assets/img/posts/venajanhiekka.jpg" alt="Venäjänhiekka" />
+<amp-img src="/assets/img/posts/venajanhiekka.jpg" alt="Venäjänhiekka" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/venajanhiekka.jpg" alt="Venäjänhiekka" /></noscript>
+</amp-img>
 
 Alkumatka oli aika tavallista siirtymistä parkkipaikalta parempien maisemien äärelle. Polku kulki harjujen päällä Sammakkojärven ja Autiojärven länsipuolella. Pian kuitenkin ollimme Venäjänhiekalla, joka oli upea hiekkaranta tulentekopaikkoineen. Tällä rannalla tulikin syötyä, keiteltyä kahvia ja nautittua ehkä kesän viimeisistä lämpimistä päivistä. Paikalla kävivät myös metsähallituksen huoltotyöntekijät, jotka kertoivat vähän vaikka mistä, mitä luonnossa olivat alueella nähneet. Mukavaa kuunneltavaa.
 
 Koska ilma oli mitä loistavin retkeilyyn, päätimme pidentää reittiä käymällä Kalmoniemen kärjessä. Metsähallituksen huoltotyöntekijät kertoivat, että niemen kärjestä kohti pohjoista olisi mahdollista kahlata yli kantamalla varusteet pään päällä, mutta kovin syvältä tuo näytti ja virtauskin tässä aukossa oli kohtalaisen kova.
 
-<img src="/assets/img/posts/uiton-kamppa.jpg" alt="Uiton kämppä" />
+<amp-img src="/assets/img/posts/uiton-kamppa.jpg" alt="Uiton kämppä" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/uiton-kamppa.jpg" alt="Uiton kämppä" /></noscript>
+</amp-img>
 
 Lähdimme Kalmoniemestä takaisin samaa reittiä mistä tulimmekin ja käännyimme kohti Uiton kämppää. Uiton kämppä on kaunis varaustupa, missä on saunomismahdollisuus. Paikka näytti siistiltä ja varmasti mainio paikka tulla isommalla ryhmällä tutustumaan luontoon.
 
 Uiton kämpältä suuntasimme takaisin autolle. Vaikka Autio- ja Sammakkojärven itäpuolella olevien soiden ylitykseen oli tehty hyvät pitkospuut, eivät ne olleet tarpeeksi korkealla tämän kesän suurille sademäärille. Tämä tarkoitti, että kengät hieman kastuivat. Olisi pitänyt ottaa kunnon vaelluskengät matkaan tällekin reissulle :-)
 
-<img src="/assets/img/posts/kengat.jpg" alt="Retkeilykengät" />
+<amp-img src="/assets/img/posts/kengat.jpg" alt="Retkeilykengät" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/kengat.jpg" alt="Retkeilykengät" /></noscript>
+</amp-img>
 
 Päivän matkaksi tuli noin yhdeksän kilometriä. Maisemat olivat mitä mainioimpia, jotka kaunis aurinkoinen ilma kruunasi. Tänne pitää tulla joskus toiste teltan kanssa retkeilemään viikonlopuksi.

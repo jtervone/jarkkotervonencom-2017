@@ -33,7 +33,9 @@ Illalla suunnistimme paikalliseen etsimään tarpeeksi väkevää autoa ja trail
 
 Huumorilla kuskikin meidän yritykset otti ja hymyssä suin lähti kuljetusurakkaan. Ihme ja kumma oli se, ettei termiitit olleet iskeneet auton kimppuun. Ainoastaan poliisit olivat käyneet merkitsemässä auton tarkistetuksi poliisinauhalla.
 
-<img src="/assets/img/posts/auto-trailerilla.jpg" alt="Auto trailerilla ja kohta kotia kohti" />
+<amp-img src="/assets/img/posts/auto-trailerilla.jpg" alt="Auto trailerilla ja kohta kotia kohti" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/auto-trailerilla.jpg" alt="Auto trailerilla ja kohta kotia kohti" /></noscript>
+</amp-img>
 
 Autoa trailerille vetäessä paikalle kurvasi mies, jolla oli ollut myös Ford Granada ja kehui autoa kovasti. Sattumalta hänellä sattui olemaan iskemätön Fordin viskotuuletin, jonka poistin arpomalla hinnaksi 30 euroa.
 
