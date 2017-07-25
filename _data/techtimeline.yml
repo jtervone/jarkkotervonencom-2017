@@ -133,3 +133,7 @@
   tags:
     - jekyll
     - ansible
+    - circleci
+    - jasmine
+    - protractor
+    - firebase
