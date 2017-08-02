@@ -14,8 +14,10 @@ author:
 date: '2017-07-22 09:35:20 +0300'
 date_gmt: '2017-07-22 09:35:20 +0300'
 categories:
-- Yleinen
+- Pyöräily
 tags:
+- huolto
+- pyöräily
 comments: []
 ---
 
