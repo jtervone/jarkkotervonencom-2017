@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: DBS Golden Flash -polkupyörä
-image:
-  file: /assets/img/posts/dbs-sivulta.jpg
+image: /assets/img/posts/dbs-sivulta.jpg
 image_text: DBS Golden Flash
 author: Jarkko Tervonen
 date: '2016-07-18 00:01:20 +0300'

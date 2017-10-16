@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Oluen valmistus
-image:
-  file: /assets/img/posts/oluen-teko-laitteisto.jpg
+image: /assets/img/posts/oluen-teko-laitteisto.jpg
 image_text: Oluen teko laitteisto
 author: Jarkko Tervonen
 date: '2016-02-16 20:16:16 +0200'

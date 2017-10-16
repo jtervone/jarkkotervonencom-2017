@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Fox Bionic LT Softshell -takki
-image:
-  file: /assets/img/posts/fox-bionic-softshell-takki-taskut.jpg
+image: /assets/img/posts/fox-bionic-softshell-takki-taskut.jpg
 image_text: Fox Bionic LT Softshell -takki
 author: Jarkko Tervonen
 date: '2016-05-18 00:01:20 +0300'

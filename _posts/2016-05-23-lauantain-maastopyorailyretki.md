@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Lauantain maastopyöräilyretki
-image:
-  file: /assets/img/posts/canyon-yellowstonet.jpg
+image: /assets/img/posts/canyon-yellowstonet.jpg
 image_text: Canyon Yellowstonet poseeraa
 author: Jarkko Tervonen
 date: '2016-05-23 00:01:20 +0300'

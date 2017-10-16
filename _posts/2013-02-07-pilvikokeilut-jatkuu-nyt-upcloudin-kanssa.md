@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Pilvikokeilut jatkuu nyt Upcloudin kanssa
-image:
-  file: /assets/img/posts/logo-upcloud.png
+image: /assets/img/posts/logo-upcloud.png
 image_text: UpCloud
 author: Jarkko Tervonen
 date: '2013-02-07 21:09:41 +0200'

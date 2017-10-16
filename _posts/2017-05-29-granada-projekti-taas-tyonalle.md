@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Granada-projekti taas työn alle
-image:
-  file: /assets/img/posts/granada-pukeilla-ennen.jpg
+image: /assets/img/posts/granada-pukeilla-ennen.jpg
 image_text: Granada pukeilla pitkästä aikaa
 author: Jarkko Tervonen
 date: '2017-05-29 22:19:20 +0300'

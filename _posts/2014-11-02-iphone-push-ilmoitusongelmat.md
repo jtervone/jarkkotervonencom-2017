@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: iPhone push-ilmoitusongelmat
-image:
-  file: /assets/img/posts/iphone-push-ilmoitusvirhe.png
+image: /assets/img/posts/iphone-push-ilmoitusvirhe.png
 image_text: iPhone push-ilmoitusvirhe
 author: Jarkko Tervonen
 date: '2014-11-02 10:12:17 +0200'

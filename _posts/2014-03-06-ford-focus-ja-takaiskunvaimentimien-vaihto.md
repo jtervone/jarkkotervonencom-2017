@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ford Focus ja takaiskunvaimentimien vaihto
-image:
-  file: /assets/img/posts/takaiskunvaimentimen-vaihto.jpg
+image: /assets/img/posts/takaiskunvaimentimen-vaihto.jpg
 image_text: Ford Focus iskunvaimentimien vaihto
 author: Jarkko Tervonen
 date: '2014-03-06 12:31:34 +0200'

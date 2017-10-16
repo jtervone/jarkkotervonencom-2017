@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Suosikit (Favourites) hävinneet OS X:n Finderistä
-image:
-  file: /assets/img/posts/osx-finder-file-open-dialog.png
+image: /assets/img/posts/osx-finder-file-open-dialog.png
 image_text: OSX Finder File Open Dialog
 author: Jarkko Tervonen
 date: '2015-11-02 13:28:41 +0200'

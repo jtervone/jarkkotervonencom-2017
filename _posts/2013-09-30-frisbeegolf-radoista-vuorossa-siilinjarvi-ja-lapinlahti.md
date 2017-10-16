@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Frisbeegolf-radoista vuorossa Siilinjärvi ja Lapinlahti
-image:
-  file: /assets/img/posts/frisbeegolf-bagi.jpg
+image: /assets/img/posts/frisbeegolf-bagi.jpg
 image_text: Frisbeegolf-bägi
 author: Jarkko Tervonen
 date: '2013-09-30 23:52:47 +0300'

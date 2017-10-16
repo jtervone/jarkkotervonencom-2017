@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Apache vaihtui Nginxiin helposti
-image:
-  file: /assets/img/posts/logo-nginx.png
+image: /assets/img/posts/logo-nginx.png
 image_text: Nginx-logo
 author: Jarkko Tervonen
 date: '2012-11-15 23:36:51 +0200'

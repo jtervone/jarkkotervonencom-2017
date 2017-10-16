@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Pyöräretki Kempeleessä
-image:
-  file: /assets/img/posts/canyon-metsapolku.jpg
+image: /assets/img/posts/canyon-metsapolku.jpg
 image_text: Canyon metsäpolulla
 author: Jarkko Tervonen
 date: '2016-09-27 09:00:20 +0300'

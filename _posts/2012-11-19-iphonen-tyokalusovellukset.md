@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: iPhonen työkalusovellukset
-image:
-  file: /assets/img/posts/iphone-magnets.jpg
+image: /assets/img/posts/iphone-magnets.jpg
 image_text: iPhone-sovellukset
 author: Jarkko Tervonen
 date: '2012-11-19 23:52:40 +0200'

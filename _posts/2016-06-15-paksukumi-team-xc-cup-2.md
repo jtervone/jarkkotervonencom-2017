@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Paksukumi Team XC Cup #2
-image:
-  file: /assets/img/posts/paksukumi-team-xc-cup-2-2016.jpg
+image: /assets/img/posts/paksukumi-team-xc-cup-2-2016.jpg
 image_text: Paksukumi Team XC Cup #2 2016
 author: Jarkko Tervonen
 date: '2016-06-15 00:01:20 +0300'

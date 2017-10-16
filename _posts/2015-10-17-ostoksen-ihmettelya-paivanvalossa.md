@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ostoksen ihmettelyä päivänvalossa
-image:
-  file: /assets/img/posts/ford-granada-keula-ennen.jpg
+image: /assets/img/posts/ford-granada-keula-ennen.jpg
 image_text: Ford Granadan keula
 author: Jarkko Tervonen
 date: '2015-10-17 20:16:16 +0200'

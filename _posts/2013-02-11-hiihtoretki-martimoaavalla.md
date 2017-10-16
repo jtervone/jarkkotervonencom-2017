@@ -3,9 +3,8 @@ layout: post
 status: published
 published: true
 title: Hiihtoretki Martimoaavalla
-image:
-  file: /assets/img/posts/latu-martimoaavalla.jpg
-  alt: Latu Martimoaavalla
+image: /assets/img/posts/latu-martimoaavalla.jpg
+image_text: Latu Martimoaavalla
 author: Jarkko Tervonen
 date: '2013-02-11 00:01:20 +0300'
 date_gmt: '2013-02-11 00:01:20 +0300'

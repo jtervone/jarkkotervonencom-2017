@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Race Face Narrow Wide -hammasratas
-image:
-  file: /assets/img/posts/race-face-narrow-wide-eturatas.jpg
+image: /assets/img/posts/race-face-narrow-wide-eturatas.jpg
 image_text: Race Face Narrow Wide
 author: Jarkko Tervonen
 date: '2016-05-11 00:01:20 +0300'

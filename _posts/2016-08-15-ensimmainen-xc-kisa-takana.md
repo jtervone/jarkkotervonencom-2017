@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Ensimmäinen XC-kisa takana
-image:
-  file: /assets/img/posts/paksukumi-team-koykkyri-xc-2016.jpeg
+image: /assets/img/posts/paksukumi-team-koykkyri-xc-2016.jpeg
 image_text: Paksukumi Team Köykkyri XC 2016
 author: Jarkko Tervonen
 date: '2016-08-15 00:01:20 +0300'

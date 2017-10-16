@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Kolmannen osapuolen evästeet Safarissa
-image:
-  file: /assets/img/posts/compiling-php.png
+image: /assets/img/posts/compiling-php.png
 image_text: PHP:n kääntäminen
 author: Jarkko Tervonen
 date: '2014-11-03 22:03:59 +0200'

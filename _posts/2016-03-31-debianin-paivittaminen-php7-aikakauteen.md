@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Debianin päivittäminen PHP7 aikakauteen
-image:
-  file: /assets/img/posts/compiling-nodejs.jpg
+image: /assets/img/posts/compiling-nodejs.jpg
 image_text: Node.js kääntäminen
 author: Jarkko Tervonen
 date: '2016-03-31 18:57:29 +0300'

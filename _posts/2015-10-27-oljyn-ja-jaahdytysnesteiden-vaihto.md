@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Öljyn ja jäähdytysnesteiden vaihto
-image:
-  file: /assets/img/posts/jaahdytin-irroitettuna.jpg
+image: /assets/img/posts/jaahdytin-irroitettuna.jpg
 image_text: Jäähdytin irroitettuna
 author: Jarkko Tervonen
 date: '2015-10-27 20:16:16 +0200'

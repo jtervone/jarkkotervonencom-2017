@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Talvi mennyt vähän vähemmän pyöräillessä
-image:
-  file: /assets/img/posts/hiihto-nuasjarvi.jpg
+image: /assets/img/posts/hiihto-nuasjarvi.jpg
 image_text: Nuasjärvi
 author: Jarkko Tervonen
 date: '2017-03-10 00:01:20 +0300'

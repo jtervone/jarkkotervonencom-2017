@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Uusien osien asentelua
-image:
-  file: /assets/img/posts/mavic-aksium-road-wheel.jpg
+image: /assets/img/posts/mavic-aksium-road-wheel.jpg
 image_text: Mavic Aksium Road Wheel
 author: Jarkko Tervonen
 date: '2016-08-17 00:01:20 +0300'

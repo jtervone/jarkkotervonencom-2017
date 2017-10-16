@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Kempele suunnittelemassa maastoliikennereitistöä
-image:
-  file: /assets/img/posts/canyon-mourunkijarvi.jpg
+image: /assets/img/posts/canyon-mourunkijarvi.jpg
 image_text: Canyon Mourunkijärvellä
 author: Jarkko Tervonen
 date: '2016-05-13 00:01:20 +0300'

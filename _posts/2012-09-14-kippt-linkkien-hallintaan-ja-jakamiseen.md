@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Kippt linkkien hallintaan ja jakamiseen
-image:
-  file: /assets/img/posts/screenshot-kippt.png
+image: /assets/img/posts/screenshot-kippt.png
 image_text: Kippt-sovellus
 author: Jarkko Tervonen
 date: '2012-09-14 01:04:17 +0300'

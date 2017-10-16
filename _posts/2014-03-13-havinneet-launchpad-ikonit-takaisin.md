@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Hävinneet Launchpad ikonit takaisin
-image:
-  file: /assets/img/posts/macbook-air.jpg
+image: /assets/img/posts/macbook-air.jpg
 author: Jarkko Tervonen
 date: '2014-03-13 22:11:24 +0200'
 date_gmt: '2014-03-13 20:11:24 +0200'

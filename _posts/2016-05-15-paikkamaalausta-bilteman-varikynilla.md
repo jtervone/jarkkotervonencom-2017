@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Paikkamaalausta Bilteman värikynillä
-image:
-  file: /assets/img/posts/varikynat.jpg
+image: /assets/img/posts/varikynat.jpg
 image_text: Bilteman värikynät
 author: Jarkko Tervonen
 date: '2016-05-15 00:01:20 +0300'

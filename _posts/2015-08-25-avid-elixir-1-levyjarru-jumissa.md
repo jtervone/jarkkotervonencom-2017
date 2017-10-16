@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Avid Elixir 1 -levyjarru jumissa
-image:
-  file: /assets/img/posts/avid-elixir-1-jarru.jpg
+image: /assets/img/posts/avid-elixir-1-jarru.jpg
 image_text: Avid Elixir 1 -levyjarru
 author: Jarkko Tervonen
 date: '2015-08-25 14:03:48 +0300'

@@ -3,9 +3,8 @@ layout: post
 status: publish
 published: true
 title: Apple-näppäimistön puhdistaminen
-image:
-  file: /assets/img/posts/apple-nappaimisto-puhdistus.jpg
-  image: Apple-näppäimistön puhdistusvälineet
+image: /assets/img/posts/apple-nappaimisto-puhdistus.jpg
+image_text: Apple-näppäimistön puhdistusvälineet
 author: Jarkko Tervonen
 date: '2015-08-28 12:53:09 +0300'
 date_gmt: '2015-08-28 09:53:09 +0300'

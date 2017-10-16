@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Karttaselain tuo kaikki Suomen kartat taskuun
-image:
-  file: /assets/img/posts/karttaselain-galaxy-tab-89.jpg
+image: /assets/img/posts/karttaselain-galaxy-tab-89.jpg
 image_text: Karttaselain
 author: Jarkko Tervonen
 date: '2012-09-26 09:00:20 +0300'

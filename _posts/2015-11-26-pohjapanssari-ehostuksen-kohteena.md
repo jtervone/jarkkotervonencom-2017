@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Pohjapanssari ehostuksen kohteena
-image:
-  file: /assets/img/posts/pohjapanssari.jpg
+image: /assets/img/posts/pohjapanssari.jpg
 image_text: Pressutalli
 author: Jarkko Tervonen
 date: '2015-11-26 20:16:16 +0200'

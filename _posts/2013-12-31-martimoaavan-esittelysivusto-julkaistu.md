@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Martimoaavan esittelysivusto julkaistu
-image:
-  file: /assets/img/posts/martimoaapacom.png
+image: /assets/img/posts/martimoaapacom.png
 image_text: Martimoaapa.com
 author: Jarkko Tervonen
 date: '2014-12-31 09:00:20 +0300'

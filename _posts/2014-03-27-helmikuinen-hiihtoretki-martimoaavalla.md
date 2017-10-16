@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Helmikuinen hiihtoretki Martimoaavalla
-image:
-  file: /assets/img/posts/lumiaapa-lumisateessa.jpg
+image: /assets/img/posts/lumiaapa-lumisateessa.jpg
 image_text: Lumiaapa lumisateesssa
 author: Jarkko Tervonen
 date: '2014-03-27 00:01:20 +0300'

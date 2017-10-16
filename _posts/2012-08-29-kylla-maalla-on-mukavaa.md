@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Kyllä maalla on mukavaa
-image:
-  file: /assets/img/posts/lehmia-laitumella.jpg
+image: /assets/img/posts/lehmia-laitumella.jpg
 image_text: Lehmiä laitumella
 author: Jarkko Tervonen
 date: '2012-08-29 09:22:45 +0300'

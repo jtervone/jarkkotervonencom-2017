@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Syksyn ensimmäiset revontulet kuvattu
-image:
-  file: /assets/img/posts/2013-10-02-revontulet-kempele.jpg
+image: /assets/img/posts/2013-10-02-revontulet-kempele.jpg
 image_text: Revontulet Kempeleessä 2.10.2013
 author: Jarkko Tervonen
 date: '2013-10-03 14:16:20 +0300'

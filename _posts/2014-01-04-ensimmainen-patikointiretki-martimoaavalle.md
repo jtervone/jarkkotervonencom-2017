@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ensimmäinen patikointiretki Martimoaavalle
-image:
-  file: /assets/img/posts/kivalon-autiotupa.jpg
+image: /assets/img/posts/kivalon-autiotupa.jpg
 image_text: Kivalon autiotuppa
 author: Jarkko Tervonen
 date: '2014-01-04 09:00:20 +0300'

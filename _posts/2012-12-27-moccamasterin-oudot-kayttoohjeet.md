@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Moccamasterin oudot käyttöohjeet
-image:
-  file: /assets/img/posts/moccamaster-ohje.jpg
+image: /assets/img/posts/moccamaster-ohje.jpg
 image_text: Moccamasterin-ohje
 author: Jarkko Tervonen
 date: '2012-12-27 00:35:59 +0200'

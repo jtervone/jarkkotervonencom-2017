@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Niksi työmatkapyöräilyyn
-image:
-  file: /assets/img/posts/pyoran-lukko.jpg
+image: /assets/img/posts/pyoran-lukko.jpg
 image_text: Pyörän lukko odottamassa käyttäjää
 author: Jarkko Tervonen
 date: '2016-05-12 00:01:20 +0300'

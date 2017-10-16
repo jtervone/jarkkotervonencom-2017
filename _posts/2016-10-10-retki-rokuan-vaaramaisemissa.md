@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Retki Rokuan vaaramaisemissa
-image:
-  file: /assets/img/posts/teltta-pitkajarvella.jpg
+image: /assets/img/posts/teltta-pitkajarvella.jpg
 image_text: Teltta Pitkäjärvellä
 author: Jarkko Tervonen
 date: '2016-10-10 00:01:20 +0300'

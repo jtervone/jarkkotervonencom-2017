@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Monospace-fontit Sparrow-sähköpostiohjelmaan
-image:
-  file: /assets/img/posts/sparrow-screenshot.png
+image: /assets/img/posts/sparrow-screenshot.png
 image_text: Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta
 author: Jarkko Tervonen
 date: '2012-10-03 20:38:18 +0300'

@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Syysretki Helkkuseen pari viikkoa sitten
-image:
-  file: /assets/img/posts/perunanyytit-ja-makkaraa.jpg
+image: /assets/img/posts/perunanyytit-ja-makkaraa.jpg
 image_text: Perunanyytit ja makkaraa
 author: Jarkko Tervonen
 date: '2014-11-10 09:00:20 +0300'

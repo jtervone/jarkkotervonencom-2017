@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: MacBook Airin tuuletin päällä koko ajan
-image:
-  file: /assets/img/posts/macbook-air.jpg
+image: /assets/img/posts/macbook-air.jpg
 image_text: Macbook Air
 author:
 author: Jarkko Tervonen

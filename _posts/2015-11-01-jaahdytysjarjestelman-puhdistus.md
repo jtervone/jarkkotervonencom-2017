@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Jäähdytysjärjestelmän puhdistus
-image:
-  file: /assets/img/posts/stp-radiator-flush.jpg
+image: /assets/img/posts/stp-radiator-flush.jpg
 image_text: STP Radiator Flush
 author: Jarkko Tervonen
 date: '2015-11-01 20:16:16 +0200'

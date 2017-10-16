@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: apcupsd asentaminen Debianiin
-image:
-  file: /assets/img/posts/apc-back-ups-es-be700g.jpg
+image: /assets/img/posts/apc-back-ups-es-be700g.jpg
 image_text: APC Back-UPS ES BE700G
 author: Jarkko Tervonen
 date: '2015-01-28 07:45:33 +0200'

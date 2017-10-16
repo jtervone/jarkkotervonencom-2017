@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Pressutalli auton suojaksi
-image:
-  file: /assets/img/posts/pressutalli.jpg
+image: /assets/img/posts/pressutalli.jpg
 image_text: Pressutalli
 author: Jarkko Tervonen
 date: '2015-11-15 20:16:16 +0200'

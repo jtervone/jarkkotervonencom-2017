@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Metsässä samoilua ja kalastamista Kainuussa
-image:
-  file: /assets/img/posts/oulujoen-multilahti.jpg
+image: /assets/img/posts/oulujoen-multilahti.jpg
 image_text: Oulujoen Multilahden uimaranta
 author: Jarkko Tervonen
 date: '2015-09-17 00:01:20 +0300'

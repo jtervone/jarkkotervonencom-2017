@@ -3,8 +3,7 @@ layout: post
 status: published
 published: true
 title: Ketjujen vaihtoa ja vapaaratasongelmia
-image:
-  file: /assets/img/posts/favorit-1.jpg
+image: /assets/img/posts/favorit-1.jpg
 image_text: Favorit 1 -vapaaratas
 author: Jarkko Tervonen
 date: '2016-07-31 00:01:20 +0300'

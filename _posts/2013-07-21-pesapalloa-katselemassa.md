@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Pesäpalloa katselemassa
-image:
-  file: /assets/img/posts/pesapallo-kiri-roihu.jpg
+image: /assets/img/posts/pesapallo-kiri-roihu.jpg
 image_text: Kempeleen Kiri vs. Helsingin Roihu
 author: Jarkko Tervonen
 date: '2013-07-21 20:45:13 +0300'

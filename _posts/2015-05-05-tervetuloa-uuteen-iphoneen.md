@@ -3,8 +3,7 @@ layout: post
 status: publish
 published: true
 title: Tervetuloa uuteen iPhoneen
-image:
-  file: /assets/img/posts/tervetuloa-uuteen-iphoneen.png
+image: /assets/img/posts/tervetuloa-uuteen-iphoneen.png
 image_text: Tervetuloa uuteen iPhoneen
 author: Jarkko Tervonen
 date: '2015-05-05 22:21:53 +0300'
