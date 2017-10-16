@@ -5,7 +5,7 @@ published: true
 title: Verhoilun purkaminen jatkuu
 image:
   file: /assets/img/posts/mittaristo.jpg
-  text: Mittaristo
+image_text: Mittaristo
 author: Jarkko Tervonen
 date: '2015-11-17 20:16:16 +0200'
 date_gmt: '2015-15-17 18:16:16 +0200'

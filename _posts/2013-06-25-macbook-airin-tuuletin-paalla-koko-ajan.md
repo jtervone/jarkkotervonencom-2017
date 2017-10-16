@@ -5,7 +5,7 @@ published: true
 title: MacBook Airin tuuletin päällä koko ajan
 image:
   file: /assets/img/posts/macbook-air.jpg
-  text: Macbook Air
+image_text: Macbook Air
 author:
 author: Jarkko Tervonen
 date: '2013-06-25 20:06:38 +0300'

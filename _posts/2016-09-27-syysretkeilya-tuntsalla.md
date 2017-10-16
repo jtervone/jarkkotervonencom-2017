@@ -5,7 +5,7 @@ published: true
 title: Syysretkeilyä Tuntsalla
 image:
   file: /assets/img/posts/porot-kuskoivalla-2.jpg
-  alt: Porot Kuskoivalla
+image_text: Porot Kuskoivalla
 author: Jarkko Tervonen
 date: '2016-09-27 00:01:20 +0300'
 date_gmt: '2016-09-27 00:01:20 +0300'

@@ -5,7 +5,7 @@ published: true
 title: Sivujen päivitys
 image:
   file: /assets/img/posts/macbook-air-jekyll.jpg
-  alt: Macbook Air ja Jekyll sivut
+image_text: Macbook Air ja Jekyll sivut
 author: Jarkko Tervonen
 date: '2017-02-28 09:00:20 +0300'
 date_gmt: '2017-02-28 09:00:20 +0300'

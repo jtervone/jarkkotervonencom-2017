@@ -5,7 +5,7 @@ published: true
 title: Hetken mielijohde
 image:
   file: /assets/img/posts/tien-varteen-jai.jpg
-  text: Tien varteen auto jäi odottamaan traileria
+image_text: Tien varteen auto jäi odottamaan traileria
 author: Jarkko Tervonen
 date: '2015-10-16 20:16:16 +0200'
 date_gmt: '2015-10-16 18:16:16 +0200'

@@ -5,7 +5,7 @@ published: true
 title: Pientä taukoa ollut pyöräilystä
 image:
   file: /assets/img/posts/hanskat-naulassa.jpg
-  alt: Hanskat naulassa
+image_text: Hanskat naulassa
 author: Jarkko Tervonen
 date: '2016-06-14 00:01:20 +0300'
 date_gmt: '2016-06-14 00:01:20 +0300'

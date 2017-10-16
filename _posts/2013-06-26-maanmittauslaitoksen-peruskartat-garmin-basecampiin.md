@@ -5,7 +5,7 @@ published: true
 title: Maanmittauslaitoksen peruskartat Garmin BaseCampiin
 image:
   file: /assets/img/posts//garmin-basecamp-mtk-kartat.jpg
-  alt: Perunanyytit ja makkaraa
+image_text: Perunanyytit ja makkaraa
 author: Jarkko Tervonen
 date: '2013-06-26 09:00:20 +0300'
 date_gmt: '2013-06-26 09:00:20 +0300'

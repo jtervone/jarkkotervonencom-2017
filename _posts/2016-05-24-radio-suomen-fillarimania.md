@@ -5,7 +5,7 @@ published: true
 title: Radio-Suomen Fillarimania
 image:
   file: /assets/img/posts/radio-suomi-fillarimania-screenshot.png
-  alt: Radio Suomi Fillarimania
+image_text: Radio Suomi Fillarimania
 author: Jarkko Tervonen
 date: '2016-05-24 00:01:20 +0300'
 date_gmt: '2016-05-24 00:01:20 +0300'

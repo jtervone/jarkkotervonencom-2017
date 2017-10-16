@@ -5,7 +5,7 @@ published: true
 title: MP3-tiedostojen jakaminen omalta koneelta
 image:
   file: /assets/img/posts/cd-levyt.jpg
-  text: CD-levyt
+image_text: CD-levyt
 author: Jarkko Tervonen
 date: '2015-01-21 18:40:25 +0200'
 date_gmt: '2015-01-21 16:40:25 +0200'

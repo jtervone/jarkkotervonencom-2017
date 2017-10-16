@@ -5,7 +5,7 @@ published: true
 title: Pyöräilyn aloittamista pakonedessä
 image:
   file: /assets/img/posts/kevat-polku.jpg
-  alt: Kevät polku
+image_text: Kevät polku
 author: Jarkko Tervonen
 date: '2017-03-22 00:01:20 +0300'
 date_gmt: '2017-03-22 00:01:20 +0300'

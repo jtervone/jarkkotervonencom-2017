@@ -3,9 +3,8 @@ layout: post
 status: published
 published: true
 title: Sivujen optimointia
-image:
-  file: /assets/img/posts/macbook-air-jekyll.jpg
-  alt: Macbook Air ja Jekyll sivut
+image: /assets/img/posts/macbook-air-jekyll.jpg
+image_text: Macbook Air ja Jekyll sivut
 author: Jarkko Tervonen
 date: '2017-06-08 00:01:20 +0300'
 date_gmt: '2017-06-08 00:01:20 +0300'

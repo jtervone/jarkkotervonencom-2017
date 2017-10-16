@@ -5,7 +5,7 @@ published: true
 title: Keisarinkierros Rokualla
 image:
   file: /assets/img/posts/pitkajarvi.jpg
-  alt: Pitkäjärvi
+image_text: Pitkäjärvi
 author: Jarkko Tervonen
 date: '2014-11-12 00:01:20 +0300'
 date_gmt: '2014-11-12 00:01:20 +0300'

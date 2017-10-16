@@ -5,7 +5,7 @@ published: true
 title: Uutta osaa maastopyörään
 image:
   file: /assets/img/posts/shimano-deore-xt-shadow-takavaihtaja.jpg
-  alt: Shimano Deore XT Shadow -takavaihtaja
+image_text: Shimano Deore XT Shadow -takavaihtaja
 author: Jarkko Tervonen
 date: '2016-08-05 00:01:20 +0300'
 date_gmt: '2016-08-05 00:01:20 +0300'

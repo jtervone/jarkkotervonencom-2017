@@ -3,9 +3,8 @@ layout: post
 status: published
 published: true
 title: Uudet vaijerit polkupyöriin
-image:
-  file: /assets/img/posts/2017-07-22-cube-crossrace-vaijeriremontti.jpg
-  alt: Cube Cross Race Pro 2012
+image: /assets/img/posts/2017-07-22-cube-crossrace-vaijeriremontti.jpg
+image_text: Cube Cross Race Pro 2012
 author: Jarkko Tervonen
 date: '2017-07-22 09:35:20 +0300'
 date_gmt: '2017-07-22 09:35:20 +0300'

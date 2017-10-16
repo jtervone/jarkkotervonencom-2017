@@ -5,7 +5,7 @@ published: true
 title: Kokemuksia Google Play Music -palvelusta
 image:
   file: /assets/img/posts/google-play-kollaa-kestaa.png
-  text: Google Play - Kollaa kestää
+image_text: Google Play - Kollaa kestää
 author: Jarkko Tervonen
 date: '2013-10-01 22:24:00 +0300'
 date_gmt: '2013-10-01 19:24:00 +0300'

@@ -3,9 +3,8 @@ layout: post
 status: published
 published: true
 title: Luonnollinen punttitreeni
-image:
-  file: /assets/img/posts/2017-06-05-metsatyot.jpg
-  alt: Metsätyöt Vaalassa
+image: /assets/img/posts/2017-06-05-metsatyot.jpg
+image_text: Metsätyöt Vaalassa
 author: Jarkko Tervonen
 date: '2017-06-05 08:45:20 +0300'
 date_gmt: '2017-06-05 08:45:20 +0300'

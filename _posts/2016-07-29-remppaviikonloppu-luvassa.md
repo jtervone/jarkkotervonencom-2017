@@ -5,7 +5,7 @@ published: true
 title: Remppaviikonloppu luvassa
 image:
   file: /assets/img/posts/cube-pinna-poikki.jpg
-  alt: Työmatka Canyonilla
+image_text: Työmatka Canyonilla
 author: Jarkko Tervonen
 date: '2016-07-29 00:01:20 +0300'
 date_gmt: '2016-07-29 00:01:20 +0300'

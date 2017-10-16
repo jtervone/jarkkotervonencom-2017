@@ -5,7 +5,7 @@ published: true
 title: Ford Focus ja etuvakaajan yhdystankojen vaihto
 image:
   file: /assets/img/posts/valitangon-vaihto.jpg
-  text: Etuvakaajan yhdystankoa vaihtamassa
+image_text: Etuvakaajan yhdystankoa vaihtamassa
 author: Jarkko Tervonen
 date: '2014-03-18 23:19:59 +0200'
 date_gmt: '2014-03-18 21:19:59 +0200'

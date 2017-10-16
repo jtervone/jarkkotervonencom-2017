@@ -5,7 +5,7 @@ published: true
 title: Moccamasterin oudot käyttöohjeet
 image:
   file: /assets/img/posts/moccamaster-ohje.jpg
-  text: Moccamasterin-ohje
+image_text: Moccamasterin-ohje
 author: Jarkko Tervonen
 date: '2012-12-27 00:35:59 +0200'
 date_gmt: '2012-12-26 22:35:59 +0200'

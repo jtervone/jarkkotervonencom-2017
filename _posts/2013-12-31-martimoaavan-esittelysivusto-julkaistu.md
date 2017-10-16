@@ -5,7 +5,7 @@ published: true
 title: Martimoaavan esittelysivusto julkaistu
 image:
   file: /assets/img/posts/martimoaapacom.png
-  alt: Martimoaapa.com
+image_text: Martimoaapa.com
 author: Jarkko Tervonen
 date: '2014-12-31 09:00:20 +0300'
 date_gmt: '2014-12-31 09:00:20 +0300'

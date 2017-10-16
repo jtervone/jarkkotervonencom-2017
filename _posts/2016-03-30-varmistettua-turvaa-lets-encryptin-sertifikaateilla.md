@@ -5,7 +5,7 @@ published: true
 title: Varmistettua turvaa Let's Encryptin sertifikaateilla
 image:
   file: /assets/img/posts/macbook-air.jpg
-  text: Macbook Air
+image_text: Macbook Air
 author: Jarkko Tervonen
 date: '2016-03-30 21:33:01 +0300'
 date_gmt: '2016-03-30 18:33:01 +0300'

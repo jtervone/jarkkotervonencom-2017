@@ -3,9 +3,8 @@ layout: post
 status: publish
 published: true
 title: Virvelöintiä parinkymmenen vuoden jälkeen
-image:
-  file: /assets/img/posts/multilahti-uimaranta.jpg
-  alt: Oulujoen Multilahden uimaranta
+image: /assets/img/posts/multilahti-uimaranta.jpg
+image_text: Oulujoen Multilahden uimaranta
 author: Jarkko Tervonen
 date: '2017-06-03 10:55:20 +0300'
 date_gmt: '2017-06-03 10:55:20 +0300'

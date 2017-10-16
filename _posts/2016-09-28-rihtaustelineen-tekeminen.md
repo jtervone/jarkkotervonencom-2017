@@ -5,7 +5,7 @@ published: true
 title: Rihtaustelineen tekeminen
 image:
   file: /assets/img/posts/rihtausteline.jpg
-  alt: Rihtausteline
+image_text: Rihtausteline
 author: Jarkko Tervonen
 date: '2016-09-28 00:01:20 +0300'
 date_gmt: '2016-09-28 00:01:20 +0300'

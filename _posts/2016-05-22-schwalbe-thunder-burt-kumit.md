@@ -5,7 +5,7 @@ published: true
 title: Schwalbe Thunder Burt -kumit
 image:
   file: /assets/img/posts/schwalbe-thunder-burt.jpg
-  alt: Schwalbe Thunder Burt -kumit
+image_text: Schwalbe Thunder Burt -kumit
 author: Jarkko Tervonen
 date: '2016-05-22 00:01:20 +0300'
 date_gmt: '2016-05-22 00:01:20 +0300'

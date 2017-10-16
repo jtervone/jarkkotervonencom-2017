@@ -5,7 +5,7 @@ published: true
 title: Oulun XXL-liikkeen avajaiset
 image:
   file: /assets/img/posts/selle-italia-rapa.jpg
-  alt: Selle Italia X1 ravassa
+image_text: Selle Italia X1 ravassa
 author: Jarkko Tervonen
 date: '2016-05-19 00:01:20 +0300'
 date_gmt: '2016-05-19 00:01:20 +0300'

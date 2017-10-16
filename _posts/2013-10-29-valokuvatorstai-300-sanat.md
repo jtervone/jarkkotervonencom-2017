@@ -5,7 +5,7 @@ published: true
 title: 'Valokuvatorstai #300: Sanat'
 image:
   file: /assets/img/posts/graffitti-reykjavik.jpg
-  text: Orðið er frjálst -graffitti
+image_text: Orðið er frjálst -graffitti
 author: Jarkko Tervonen
 date: '2013-10-29 23:07:36 +0200'
 date_gmt: '2013-10-29 21:07:36 +0200'

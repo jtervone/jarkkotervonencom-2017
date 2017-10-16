@@ -5,7 +5,7 @@ published: true
 title: Maastopyöräreittejä suunnitteilla Kempeleen alueelle
 image:
   file: /assets/img/posts/sarkkiranta-kempele-maastopyora.png
-  alt: Suunnitellut reitit Sarkkirannan alueelle
+image_text: Suunnitellut reitit Sarkkirannan alueelle
 author: Jarkko Tervonen
 date: '2017-03-12 00:01:20 +0300'
 date_gmt: '2017-03-12 00:01:20 +0300'

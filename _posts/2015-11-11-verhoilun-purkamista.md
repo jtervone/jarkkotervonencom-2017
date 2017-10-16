@@ -5,7 +5,7 @@ published: true
 title: Verhoilun purkamista
 image:
   file: /assets/img/posts/sisapuoli-purettuna.jpg
-  text: STP Radiator Flush
+image_text: STP Radiator Flush
 author: Jarkko Tervonen
 date: '2015-11-11 20:16:16 +0200'
 date_gmt: '2015-11-11 18:16:16 +0200'

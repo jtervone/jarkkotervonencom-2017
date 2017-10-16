@@ -5,7 +5,7 @@ published: true
 title: Asfalttia vältellen töistä kotiin
 image:
   file: /assets/img/posts/canyon-yellowstone-al-puu.jpg
-  alt: Canyon Yellowstone
+image_text: Canyon Yellowstone
 author: Jarkko Tervonen
 date: '2016-08-24 00:01:20 +0300'
 date_gmt: '2016-08-24 00:01:20 +0300'

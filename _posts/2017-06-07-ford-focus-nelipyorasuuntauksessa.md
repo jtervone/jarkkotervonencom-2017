@@ -3,9 +3,8 @@ layout: post
 status: published
 published: true
 title: Ford Focus nelipyöräsuuntauksessa
-image:
-  file: /assets/img/posts/2017-06-07-nelipyorasuuntaus-raportti.jpg
-  alt: Nelipyöräsuuntausraportti
+image: /assets/img/posts/2017-06-07-nelipyorasuuntaus-raportti.jpg
+image_text: Nelipyöräsuuntausraportti
 author: Jarkko Tervonen
 date: '2017-06-07 08:20:20 +0300'
 date_gmt: '2017-06-07 08:20:20 +0300'

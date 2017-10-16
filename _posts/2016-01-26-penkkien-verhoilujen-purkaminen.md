@@ -3,10 +3,9 @@ layout: post
 status: publish
 published: true
 title: Penkkien verhoilujen purkaminen
-image:
-  file: /assets/img/posts/pressutalli-kaatui.jpg
-  text: Pressutalli låhti lentoon
-  author: Jarkko Tervonen
+image: /assets/img/posts/pressutalli-kaatui.jpg
+image_text: Pressutalli låhti lentoon
+author: Jarkko Tervonen
 date: '2016-01-26 20:16:16 +0200'
 date_gmt: '2016-01-26 18:16:16 +0200'
 categories:

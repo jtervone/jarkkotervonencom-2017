@@ -5,7 +5,7 @@ published: true
 title: Pari aihetta jaettu omaksi blogiksi
 image:
   file: /assets/img/posts/typewriter-keyboard-writing-letter.jpg
-  text: Kirjoituskone
+image_text: Kirjoituskone
 author: Jarkko Tervonen
 date: '2015-11-11 13:46:34 +0200'
 date_gmt: '2015-11-11 11:46:34 +0200'

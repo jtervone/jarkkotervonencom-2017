@@ -5,7 +5,7 @@ published: true
 title: Polkupyörän lukitseminen oikein
 image:
   file: /assets/img/posts/canyon-tyomatka.jpg
-  alt: Työmatka Canyonilla
+image_text: Työmatka Canyonilla
 author: Jarkko Tervonen
 date: '2016-06-02 00:01:20 +0300'
 date_gmt: '2016-06-02 00:01:20 +0300'

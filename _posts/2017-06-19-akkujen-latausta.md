@@ -3,9 +3,8 @@ layout: post
 status: published
 published: true
 title: Akkujen latausta
-image:
-  file: /assets/img/posts/2017-06-19-nilsia-soutu.jpg
-  alt: Soutamassa Nilsiässä
+image: /assets/img/posts/2017-06-19-nilsia-soutu.jpg
+image_text: Soutamassa Nilsiässä
 author: Jarkko Tervonen
 date: '2017-06-19 16:51:20 +0300'
 date_gmt: '2017-06-19 16:51:20 +0300'

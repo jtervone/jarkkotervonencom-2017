@@ -5,7 +5,7 @@ published: true
 title: Työmatkaa maastopyörällä
 image:
   file: /assets/img/posts/canyon-tyomatka.jpg
-  alt: Työmatka Canyonilla
+image_text: Työmatka Canyonilla
 author: Jarkko Tervonen
 date: '2016-08-30 00:01:20 +0300'
 date_gmt: '2016-08-30 00:01:20 +0300'

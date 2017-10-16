@@ -5,7 +5,7 @@ published: true
 title: Aamukahvilla Martimojärvellä
 image:
   file: /assets/img/posts/martimoaapa-usvainen-suo-02.jpg
-  alt: Aamu-usvainen suo Martiaavalla
+image_text: Aamu-usvainen suo Martiaavalla
 author: Jarkko Tervonen
 date: '2015-10-27 00:01:20 +0300'
 date_gmt: '2015-10-27 00:01:20 +0300'

@@ -5,7 +5,7 @@ published: true
 title: Sunnuntaipyöräilyä Köykkyrissä
 image:
   file: /assets/img/posts/canyon-koykkyri.jpg
-  alt: Canyon Köykkyrin silloilla
+image_text: Canyon Köykkyrin silloilla
 author: Jarkko Tervonen
 date: '2016-08-09 00:01:20 +0300'
 date_gmt: '2016-08-09 00:01:20 +0300'

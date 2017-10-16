@@ -5,7 +5,7 @@ published: true
 title: Apache vaihtui Nginxiin helposti
 image:
   file: /assets/img/posts/logo-nginx.png
-  text: Nginx-logo
+image_text: Nginx-logo
 author: Jarkko Tervonen
 date: '2012-11-15 23:36:51 +0200'
 date_gmt: '2012-11-15 21:36:51 +0200'

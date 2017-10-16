@@ -5,7 +5,7 @@ published: true
 title: SIM-kortista MicroSIM-kortti
 image:
   file: /assets/img/posts/sim-microsim.jpg
-  title: SIM- ja MicroSIM-kortit
+image_text: SIM- ja MicroSIM-kortit
 author: Jarkko Tervonen
 date: '2012-09-19 20:29:21 +0300'
 date_gmt: '2012-09-19 17:29:21 +0300'

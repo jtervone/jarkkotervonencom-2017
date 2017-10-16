@@ -5,7 +5,7 @@ published: true
 title: Nopea pistäytyminen Hailuodossa
 image:
   file: /assets/img/posts/hailuoto-nallo-3gt.jpg
-  alt: Hilleberg Nallo 3 GT
+image_text: Hilleberg Nallo 3 GT
 author: Jarkko Tervonen
 date: '2016-10-03 00:01:20 +0300'
 date_gmt: '2016-03-10 00:01:20 +0300'

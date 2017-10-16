@@ -5,7 +5,7 @@ published: true
 title: Milloin polkupyörän ketjut olisi syytä vaihtaa
 image:
   file: /assets/img/posts/uusi-ketju.jpg
-  alt: Uusi ketju
+image_text: Uusi ketju
 author: Jarkko Tervonen
 date: '2016-08-02 00:01:20 +0300'
 date_gmt: '2016-08-02 00:01:20 +0300'
