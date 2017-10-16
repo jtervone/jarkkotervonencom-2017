@@ -6,11 +6,7 @@ title: Suosikit (Favourites) hävinneet OS X:n Finderistä
 image:
   file: /assets/img/posts/osx-finder-file-open-dialog.png
   text: OSX Finder File Open Dialog
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-02 13:28:41 +0200'
 date_gmt: '2015-11-02 11:28:41 +0200'
 categories:

@@ -6,11 +6,7 @@ title: Pari aihetta jaettu omaksi blogiksi
 image:
   file: /assets/img/posts/typewriter-keyboard-writing-letter.jpg
   text: Kirjoituskone
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-11 13:46:34 +0200'
 date_gmt: '2015-11-11 11:46:34 +0200'
 categories:

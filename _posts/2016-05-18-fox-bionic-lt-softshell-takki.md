@@ -6,11 +6,7 @@ title: Fox Bionic LT Softshell -takki
 image:
   file: /assets/img/posts/fox-bionic-softshell-takki-taskut.jpg
   alt: Fox Bionic LT Softshell -takki
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-05-18 00:01:20 +0300'
 date_gmt: '2016-05-18 00:01:20 +0300'
 categories:

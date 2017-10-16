@@ -6,11 +6,7 @@ title: Ford Focus MK1 tuulilasinpyyhkijänkorjaus
 image:
   file: /assets/img/posts/tuulilasinpyyhkija.jpg
   text: Ford Focus MK1 - Tuulilasin pyyhkijä
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-12-07 11:31:29 +0200'
 date_gmt: '2015-12-07 09:31:29 +0200'
 categories:

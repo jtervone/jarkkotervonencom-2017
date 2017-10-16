@@ -6,11 +6,7 @@ title: Ford Focus ja takaiskunvaimentimien vaihto
 image:
   file: /assets/img/posts/takaiskunvaimentimen-vaihto.jpg
   text: Ford Focus iskunvaimentimien vaihto
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2014-03-06 12:31:34 +0200'
 date_gmt: '2014-03-06 10:31:34 +0200'
 categories:

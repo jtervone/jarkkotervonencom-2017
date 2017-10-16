@@ -6,11 +6,7 @@ title: Syysretki Helkkuseen pari viikkoa sitten
 image:
   file: /assets/img/posts/perunanyytit-ja-makkaraa.jpg
   alt: Perunanyytit ja makkaraa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2014-11-10 09:00:20 +0300'
 date_gmt: '2014-11-10 09:00:20 +0300'
 categories:

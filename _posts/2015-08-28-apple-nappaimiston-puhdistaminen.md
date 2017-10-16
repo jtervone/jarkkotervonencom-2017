@@ -6,11 +6,7 @@ title: Apple-näppäimistön puhdistaminen
 image:
   file: /assets/img/posts/apple-nappaimisto-puhdistus.jpg
   image: Apple-näppäimistön puhdistusvälineet
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-08-28 12:53:09 +0300'
 date_gmt: '2015-08-28 09:53:09 +0300'
 categories:

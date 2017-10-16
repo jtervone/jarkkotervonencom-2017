@@ -6,11 +6,7 @@ title: Nopeammat sivut AMP:lla
 image:
   file: /assets/img/posts/macbook-air-jekyll.jpg
   alt: Macbook Air ja Jekyll sivut
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko.tervonen@gmail.com
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-06-28 16:51:20 +0300'
 date_gmt: '2017-06-28 16:51:20 +0300'
 categories:

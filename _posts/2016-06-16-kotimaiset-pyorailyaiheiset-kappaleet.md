@@ -6,11 +6,7 @@ title: Kotimaiset pyöräilyaiheiset kappaleet
 image:
   file: /assets/img/posts/canyon-yellowstonet.jpg
   alt: Canyon Yellowstonet
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-06-16 00:01:20 +0300'
 date_gmt: '2016-06-16 00:01:20 +0300'
 categories:

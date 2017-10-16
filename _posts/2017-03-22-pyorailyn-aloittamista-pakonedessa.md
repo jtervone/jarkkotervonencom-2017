@@ -6,11 +6,7 @@ title: Pyöräilyn aloittamista pakonedessä
 image:
   file: /assets/img/posts/kevat-polku.jpg
   alt: Kevät polku
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-03-22 00:01:20 +0300'
 date_gmt: '2017-03-22 00:01:20 +0300'
 categories:

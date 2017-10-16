@@ -6,11 +6,7 @@ title: Penkkien verhoilujen purkaminen
 image:
   file: /assets/img/posts/pressutalli-kaatui.jpg
   text: Pressutalli låhti lentoon
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+  author: Jarkko Tervonen
 date: '2016-01-26 20:16:16 +0200'
 date_gmt: '2016-01-26 18:16:16 +0200'
 categories:

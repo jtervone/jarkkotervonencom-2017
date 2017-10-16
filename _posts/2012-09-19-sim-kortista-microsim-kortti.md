@@ -6,11 +6,7 @@ title: SIM-kortista MicroSIM-kortti
 image:
   file: /assets/img/posts/sim-microsim.jpg
   title: SIM- ja MicroSIM-kortit
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-09-19 20:29:21 +0300'
 date_gmt: '2012-09-19 17:29:21 +0300'
 categories:

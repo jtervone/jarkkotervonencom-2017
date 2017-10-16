@@ -6,11 +6,7 @@ title: Uudet vaijerit polkupyöriin
 image:
   file: /assets/img/posts/2017-07-22-cube-crossrace-vaijeriremontti.jpg
   alt: Cube Cross Race Pro 2012
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko.tervonen@gmail.com
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-07-22 09:35:20 +0300'
 date_gmt: '2017-07-22 09:35:20 +0300'
 categories:

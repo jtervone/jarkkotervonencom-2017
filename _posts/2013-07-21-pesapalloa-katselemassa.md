@@ -6,11 +6,7 @@ title: Pesäpalloa katselemassa
 image:
   file: /assets/img/posts/pesapallo-kiri-roihu.jpg
   text: Kempeleen Kiri vs. Helsingin Roihu
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-07-21 20:45:13 +0300'
 date_gmt: '2013-07-21 17:45:13 +0300'
 categories:

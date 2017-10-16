@@ -6,11 +6,7 @@ title: Leveämpää ohjaustankoa
 image:
   file: /assets/img/posts/ritchey-wcs-2x-ohjaustanko.jpg
   alt: Ritchey WCS 2x -ohjaustanko
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-05-25 00:01:20 +0300'
 date_gmt: '2016-05-25 00:01:20 +0300'
 categories:

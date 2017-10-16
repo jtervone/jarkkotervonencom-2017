@@ -3,14 +3,9 @@ layout: post
 status: publish
 published: true
 title: Päivä Tiilikkajärven kansallispuistossa
-image:
-  file: /assets/img/posts/venajanhiekka.jpg
-  alt: Perunanyytit ja makkaraa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+image:: /assets/img/posts/venajanhiekka.jpg
+image_text: Perunanyytit ja makkaraa
+author: Jarkko Tervonen
 date: '2012-08-28 09:00:20 +0300'
 date_gmt: '2014-08-28 09:00:20 +0300'
 categories:

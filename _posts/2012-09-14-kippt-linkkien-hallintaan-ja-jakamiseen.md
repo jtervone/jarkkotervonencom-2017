@@ -6,11 +6,7 @@ title: Kippt linkkien hallintaan ja jakamiseen
 image:
   file: /assets/img/posts/screenshot-kippt.png
   text: Kippt-sovellus
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-09-14 01:04:17 +0300'
 date_gmt: '2012-09-13 22:04:17 +0300'
 categories:

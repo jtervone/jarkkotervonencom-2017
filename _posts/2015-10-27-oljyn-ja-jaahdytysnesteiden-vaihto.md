@@ -6,11 +6,7 @@ title: Öljyn ja jäähdytysnesteiden vaihto
 image:
   file: /assets/img/posts/jaahdytin-irroitettuna.jpg
   text: Jäähdytin irroitettuna
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-10-27 20:16:16 +0200'
 date_gmt: '2015-10-27 18:16:16 +0200'
 categories:

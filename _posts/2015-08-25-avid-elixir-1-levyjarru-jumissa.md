@@ -6,11 +6,7 @@ title: Avid Elixir 1 -levyjarru jumissa
 image:
   file: /assets/img/posts/avid-elixir-1-jarru.jpg
   text: Avid Elixir 1 -levyjarru
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-08-25 14:03:48 +0300'
 date_gmt: '2015-08-25 11:03:48 +0300'
 categories:

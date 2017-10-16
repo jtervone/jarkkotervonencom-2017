@@ -10,8 +10,8 @@ layout: default
   </div>
   {% if page.image %}
     <div class="article-image">
-      <amp-img src="{{ page.image.file }}" alt="page.image.text" width="4" height="3" layout="responsive">
-        <noscript><img src="{{ page.image.file }}" alt="page.image.text" /></noscript>
+      <amp-img src="{{ page.image }}" alt="page.image_text" width="4" height="3" layout="responsive">
+        <noscript><img src="{{ page.image }}" alt="page.image_text" /></noscript>
       </amp-img>
     </div>
   {% endif %}
@@ -22,7 +22,7 @@ layout: default
       sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
       resizable
       src="https://pit.rcode.fi/disqus/jarkkotervonen.com/#{{ page.url | escape }}">
-      <div overflow tabindex=0 role=button aria-label="">Read more...</div>
+      <div overflow tabindex=0 role=button aria-label="">Lue lisää...</div>
     </amp-iframe>
   </div>
 </div>

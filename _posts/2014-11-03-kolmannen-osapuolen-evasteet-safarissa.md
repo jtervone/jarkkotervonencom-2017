@@ -6,11 +6,7 @@ title: Kolmannen osapuolen evästeet Safarissa
 image:
   file: /assets/img/posts/compiling-php.png
   text: PHP:n kääntäminen
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2014-11-03 22:03:59 +0200'
 date_gmt: '2014-11-03 20:03:59 +0200'
 categories:

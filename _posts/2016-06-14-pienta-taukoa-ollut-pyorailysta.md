@@ -6,11 +6,7 @@ title: Pientä taukoa ollut pyöräilystä
 image:
   file: /assets/img/posts/hanskat-naulassa.jpg
   alt: Hanskat naulassa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-06-14 00:01:20 +0300'
 date_gmt: '2016-06-14 00:01:20 +0300'
 categories:

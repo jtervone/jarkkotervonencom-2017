@@ -6,11 +6,7 @@ title: Luonnollinen punttitreeni
 image:
   file: /assets/img/posts/2017-06-05-metsatyot.jpg
   alt: Metsätyöt Vaalassa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-06-05 08:45:20 +0300'
 date_gmt: '2017-06-05 08:45:20 +0300'
 categories:

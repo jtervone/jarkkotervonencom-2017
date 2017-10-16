@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Etuvaihtajat uusiokäyttöön
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-04-20 07:57:07 +0300'
 date_gmt: '2016-04-20 04:57:07 +0300'
 categories:

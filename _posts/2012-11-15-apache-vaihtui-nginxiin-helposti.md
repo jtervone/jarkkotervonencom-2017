@@ -6,11 +6,7 @@ title: Apache vaihtui Nginxiin helposti
 image:
   file: /assets/img/posts/logo-nginx.png
   text: Nginx-logo
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-11-15 23:36:51 +0200'
 date_gmt: '2012-11-15 21:36:51 +0200'
 categories:

@@ -6,11 +6,7 @@ title: Aamukahvilla Martimojärvellä
 image:
   file: /assets/img/posts/martimoaapa-usvainen-suo-02.jpg
   alt: Aamu-usvainen suo Martiaavalla
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-10-27 00:01:20 +0300'
 date_gmt: '2015-10-27 00:01:20 +0300'
 categories:

@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Uusi Myspace tulossa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-09-27 07:52:52 +0300'
 date_gmt: '2012-09-27 04:52:52 +0300'
 categories:

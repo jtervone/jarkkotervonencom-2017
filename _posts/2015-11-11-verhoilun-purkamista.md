@@ -6,11 +6,7 @@ title: Verhoilun purkamista
 image:
   file: /assets/img/posts/sisapuoli-purettuna.jpg
   text: STP Radiator Flush
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-11 20:16:16 +0200'
 date_gmt: '2015-11-11 18:16:16 +0200'
 categories:

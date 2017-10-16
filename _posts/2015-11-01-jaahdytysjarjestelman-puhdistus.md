@@ -6,11 +6,7 @@ title: Jäähdytysjärjestelmän puhdistus
 image:
   file: /assets/img/posts/stp-radiator-flush.jpg
   text: STP Radiator Flush
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-01 20:16:16 +0200'
 date_gmt: '2015-11-01 18:16:16 +0200'
 categories:

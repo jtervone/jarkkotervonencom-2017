@@ -6,11 +6,7 @@ title: Pyöräretki Kempeleessä
 image:
   file: /assets/img/posts/canyon-metsapolku.jpg
   alt: Canyon metsäpolulla
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-09-27 09:00:20 +0300'
 date_gmt: '2016-09-27 09:00:20 +0300'
 categories:

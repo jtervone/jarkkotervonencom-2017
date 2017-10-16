@@ -6,11 +6,7 @@ title: Paikkamaalausta Bilteman värikynillä
 image:
   file: /assets/img/posts/varikynat.jpg
   alt: Bilteman värikynät
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-05-15 00:01:20 +0300'
 date_gmt: '2016-05-15 00:01:20 +0300'
 categories:

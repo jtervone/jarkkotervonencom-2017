@@ -6,11 +6,7 @@ title: Ford Focus nelipyöräsuuntauksessa
 image:
   file: /assets/img/posts/2017-06-07-nelipyorasuuntaus-raportti.jpg
   alt: Nelipyöräsuuntausraportti
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-06-07 08:20:20 +0300'
 date_gmt: '2017-06-07 08:20:20 +0300'
 categories:

@@ -6,11 +6,7 @@ title: Elämänhallintaa iPhonen avulla
 image:
   file: /assets/img/posts/iphone-magnets.jpg
   text: iPhone-sovellukset
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-12-31 09:14:12 +0200'
 date_gmt: '2012-12-31 07:14:12 +0200'
 categories:

@@ -6,11 +6,7 @@ title: Sivujen päivitys
 image:
   file: /assets/img/posts/macbook-air-jekyll.jpg
   alt: Macbook Air ja Jekyll sivut
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-02-28 09:00:20 +0300'
 date_gmt: '2017-02-28 09:00:20 +0300'
 categories:

@@ -6,11 +6,7 @@ title: Maanmittauslaitoksen peruskartat Garmin BaseCampiin
 image:
   file: /assets/img/posts//garmin-basecamp-mtk-kartat.jpg
   alt: Perunanyytit ja makkaraa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-06-26 09:00:20 +0300'
 date_gmt: '2013-06-26 09:00:20 +0300'
 categories:

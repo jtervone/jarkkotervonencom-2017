@@ -6,11 +6,7 @@ title: Verhoilun purkaminen jatkuu
 image:
   file: /assets/img/posts/mittaristo.jpg
   text: Mittaristo
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-17 20:16:16 +0200'
 date_gmt: '2015-15-17 18:16:16 +0200'
 categories:

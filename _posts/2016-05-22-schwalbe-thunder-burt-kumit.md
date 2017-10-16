@@ -6,11 +6,7 @@ title: Schwalbe Thunder Burt -kumit
 image:
   file: /assets/img/posts/schwalbe-thunder-burt.jpg
   alt: Schwalbe Thunder Burt -kumit
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-05-22 00:01:20 +0300'
 date_gmt: '2016-05-22 00:01:20 +0300'
 categories:

@@ -6,11 +6,7 @@ title: Kesän maalailut
 image:
   file: /assets/img/posts/2017-08-02-lamput-maalattu.jpg
   alt: Maalatut kattovalaisimet
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko.tervonen@gmail.com
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-08-02 05:35:20 +0300'
 date_gmt: '2017-08-02 05:35:20 +0300'
 categories:

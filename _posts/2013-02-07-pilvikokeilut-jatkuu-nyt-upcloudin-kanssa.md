@@ -6,11 +6,7 @@ title: Pilvikokeilut jatkuu nyt Upcloudin kanssa
 image:
   file: /assets/img/posts/logo-upcloud.png
   text: UpCloud
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-02-07 21:09:41 +0200'
 date_gmt: '2013-02-07 19:09:41 +0200'
 categories:

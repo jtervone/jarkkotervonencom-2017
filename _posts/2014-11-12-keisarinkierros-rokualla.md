@@ -6,11 +6,7 @@ title: Keisarinkierros Rokualla
 image:
   file: /assets/img/posts/pitkajarvi.jpg
   alt: Pitkäjärvi
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2014-11-12 00:01:20 +0300'
 date_gmt: '2014-11-12 00:01:20 +0300'
 categories:

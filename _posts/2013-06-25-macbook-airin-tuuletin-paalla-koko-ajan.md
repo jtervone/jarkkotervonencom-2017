@@ -7,10 +7,7 @@ image:
   file: /assets/img/posts/macbook-air.jpg
   text: Macbook Air
 author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-06-25 20:06:38 +0300'
 date_gmt: '2013-06-25 17:06:38 +0300'
 categories:

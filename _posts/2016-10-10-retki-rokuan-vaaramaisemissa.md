@@ -6,11 +6,7 @@ title: Retki Rokuan vaaramaisemissa
 image:
   file: /assets/img/posts/teltta-pitkajarvella.jpg
   alt: Teltta Pitkäjärvellä
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-10-10 00:01:20 +0300'
 date_gmt: '2016-10-10 00:01:20 +0300'
 categories:

@@ -6,11 +6,7 @@ title: Akkujen latausta
 image:
   file: /assets/img/posts/2017-06-19-nilsia-soutu.jpg
   alt: Soutamassa Nilsiässä
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-06-19 16:51:20 +0300'
 date_gmt: '2017-06-19 16:51:20 +0300'
 categories:

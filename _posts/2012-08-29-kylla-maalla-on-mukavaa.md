@@ -6,11 +6,7 @@ title: Kyllä maalla on mukavaa
 image:
   file: /assets/img/posts/lehmia-laitumella.jpg
   text: Lehmiä laitumella
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-08-29 09:22:45 +0300'
 date_gmt: '2012-08-29 06:22:45 +0300'
 categories:

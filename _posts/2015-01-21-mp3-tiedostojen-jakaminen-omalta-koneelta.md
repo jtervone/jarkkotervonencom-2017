@@ -6,11 +6,7 @@ title: MP3-tiedostojen jakaminen omalta koneelta
 image:
   file: /assets/img/posts/cd-levyt.jpg
   text: CD-levyt
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-01-21 18:40:25 +0200'
 date_gmt: '2015-01-21 16:40:25 +0200'
 categories:

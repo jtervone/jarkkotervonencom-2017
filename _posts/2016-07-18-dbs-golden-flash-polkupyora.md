@@ -6,11 +6,7 @@ title: DBS Golden Flash -polkupyörä
 image:
   file: /assets/img/posts/dbs-sivulta.jpg
   alt: DBS Golden Flash
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-07-18 00:01:20 +0300'
 date_gmt: '2016-07-18 00:01:20 +0300'
 categories:

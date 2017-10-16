@@ -6,11 +6,7 @@ title: Monospace-fontit Sparrow-sähköpostiohjelmaan
 image:
   file: /assets/img/posts/sparrow-screenshot.png
   text: Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-10-03 20:38:18 +0300'
 date_gmt: '2012-10-03 17:38:18 +0300'
 categories:

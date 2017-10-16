@@ -6,11 +6,7 @@ title: Sierra Nevada Pale Ale tyylinen olutresepti
 image:
   file: /assets/img/posts/2017-06-09-viking-malt-pale-ale.jpg
   alt: Sierra Nevada Pale Ale
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-06-09 16:31:20 +0300'
 date_gmt: '2017-06-09 16:31:20 +0300'
 categories:

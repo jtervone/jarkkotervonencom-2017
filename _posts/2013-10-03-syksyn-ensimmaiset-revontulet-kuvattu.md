@@ -6,11 +6,7 @@ title: Syksyn ensimmäiset revontulet kuvattu
 image:
   file: /assets/img/posts/2013-10-02-revontulet-kempele.jpg
   text: Revontulet Kempeleessä 2.10.2013
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-10-03 14:16:20 +0300'
 date_gmt: '2013-10-03 11:16:20 +0300'
 categories:

@@ -6,11 +6,7 @@ title: phpBB:n konvertointi FluxBB
 file:
   image: /assets/img/posts/macbook-air.jpg
   text: Macbook Air
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-06-17 18:00:14 +0300'
 date_gmt: '2015-06-17 15:00:14 +0300'
 categories:

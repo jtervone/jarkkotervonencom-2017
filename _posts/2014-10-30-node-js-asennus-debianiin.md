@@ -6,11 +6,7 @@ title: Node.js asennus Debianiin
 image:
   url: /assets/img/postscompiling-nodejs.jpg
   text: Node.js:n kääntämistä
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2014-10-30 21:27:38 +0200'
 date_gmt: '2014-10-30 19:27:38 +0200'
 categories:

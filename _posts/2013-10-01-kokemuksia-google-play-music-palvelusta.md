@@ -6,11 +6,7 @@ title: Kokemuksia Google Play Music -palvelusta
 image:
   file: /assets/img/posts/google-play-kollaa-kestaa.png
   text: Google Play - Kollaa kestää
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-10-01 22:24:00 +0300'
 date_gmt: '2013-10-01 19:24:00 +0300'
 categories:

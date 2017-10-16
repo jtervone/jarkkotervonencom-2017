@@ -6,11 +6,7 @@ title: Granada-projekti taas työn alle
 image:
   file: /assets/img/posts/granada-pukeilla-ennen.jpg
   alt: Granada pukeilla pitkästä aikaa
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-05-29 22:19:20 +0300'
 date_gmt: '2017-05-29 22:19:20 +0300'
 categories:

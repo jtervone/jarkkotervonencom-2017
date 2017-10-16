@@ -6,11 +6,7 @@ title: iPhonen työkalusovellukset
 image:
   file: /assets/img/posts/iphone-magnets.jpg
   text: iPhone-sovellukset
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-11-19 23:52:40 +0200'
 date_gmt: '2012-11-19 21:52:40 +0200'
 categories:

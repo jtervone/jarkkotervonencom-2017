@@ -6,11 +6,7 @@ title: Ford Fockus MK1:n etutukivarren irroitus
 image:
   file: /assets/img/posts/ford-focus-alapallonivel.jpg
   alt: Ford Focus MK1 alapallonivel
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-06-17 12:51:20 +0300'
 date_gmt: '2016-06-17 09:51:20 +0300'
 categories:

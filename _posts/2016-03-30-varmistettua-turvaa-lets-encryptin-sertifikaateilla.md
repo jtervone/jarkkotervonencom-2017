@@ -6,11 +6,7 @@ title: Varmistettua turvaa Let's Encryptin sertifikaateilla
 image:
   file: /assets/img/posts/macbook-air.jpg
   text: Macbook Air
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-03-30 21:33:01 +0300'
 date_gmt: '2016-03-30 18:33:01 +0300'
 categories:

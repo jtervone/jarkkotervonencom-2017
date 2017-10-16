@@ -6,11 +6,7 @@ title: Talvi mennyt vähän vähemmän pyöräillessä
 image:
   file: /assets/img/posts/hiihto-nuasjarvi.jpg
   alt: Nuasjärvi
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-03-10 00:01:20 +0300'
 date_gmt: '2017-03-10 00:01:20 +0300'
 categories:

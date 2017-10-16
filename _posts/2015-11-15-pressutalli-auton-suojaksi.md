@@ -6,11 +6,7 @@ title: Pressutalli auton suojaksi
 image:
   file: /assets/img/posts/pressutalli.jpg
   text: Pressutalli
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-15 20:16:16 +0200'
 date_gmt: '2015-11-15 18:16:16 +0200'
 categories:

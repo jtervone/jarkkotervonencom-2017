@@ -6,11 +6,7 @@ title: Debianin päivittäminen PHP7 aikakauteen
 image:
   file: /assets/img/posts/compiling-nodejs.jpg
   text: Node.js kääntäminen
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-03-31 18:57:29 +0300'
 date_gmt: '2016-03-31 15:57:29 +0300'
 categories:

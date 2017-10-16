@@ -6,11 +6,7 @@ title: USB-kiintolevyn tarkistus Mac OS X:ssä DriveDx-ohjelmalla
 image:
   file: /assets/img/posts/drivedx-lacie-1tb-2.png
   text: DriveDx -tilastot
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-11-25 09:29:47 +0200'
 date_gmt: '2015-11-25 07:29:47 +0200'
 categories:

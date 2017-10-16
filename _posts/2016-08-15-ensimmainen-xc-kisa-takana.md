@@ -6,11 +6,7 @@ title: Ensimmäinen XC-kisa takana
 image:
   file: /assets/img/posts/paksukumi-team-koykkyri-xc-2016.jpeg
   alt: Paksukumi Team Köykkyri XC 2016
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-08-15 00:01:20 +0300'
 date_gmt: '2016-08-15 00:01:20 +0300'
 categories:

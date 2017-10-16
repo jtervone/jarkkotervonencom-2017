@@ -6,11 +6,7 @@ title: Tervetuloa uuteen iPhoneen
 image:
   file: /assets/img/posts/tervetuloa-uuteen-iphoneen.png
   text: Tervetuloa uuteen iPhoneen
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2015-05-05 22:21:53 +0300'
 date_gmt: '2015-05-05 19:21:53 +0300'
 categories:

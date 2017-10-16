@@ -6,11 +6,7 @@ title: Kokemuksia Shimano PD-M780 XT SPD -lukkopolkimista
 image:
   file: /assets/img/posts/shimano-pd-m780-xt-ja-m520-polkimet.jpg
   alt: Shimano PD-M780 XT SPD -lukkopolkimet
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-05-01 00:01:20 +0300'
 date_gmt: '2016-05-01 00:01:20 +0300'
 categories:

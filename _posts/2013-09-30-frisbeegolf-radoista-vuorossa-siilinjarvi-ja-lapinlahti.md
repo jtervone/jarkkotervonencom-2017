@@ -6,11 +6,7 @@ title: Frisbeegolf-radoista vuorossa Siilinjärvi ja Lapinlahti
 image:
   file: /assets/img/posts/frisbeegolf-bagi.jpg
   text: Frisbeegolf-bägi
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2013-09-30 23:52:47 +0300'
 date_gmt: '2013-09-30 20:52:47 +0300'
 categories:

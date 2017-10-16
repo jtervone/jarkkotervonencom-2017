@@ -6,11 +6,7 @@ title: Karttaselain tuo kaikki Suomen kartat taskuun
 image:
   file: /assets/img/posts/karttaselain-galaxy-tab-89.jpg
   alt: Karttaselain
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-09-26 09:00:20 +0300'
 date_gmt: '2012-09-26 09:00:20 +0300'
 categories:

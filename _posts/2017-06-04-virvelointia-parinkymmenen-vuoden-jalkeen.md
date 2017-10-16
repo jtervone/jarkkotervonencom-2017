@@ -6,11 +6,7 @@ title: Virvelöintiä parinkymmenen vuoden jälkeen
 image:
   file: /assets/img/posts/multilahti-uimaranta.jpg
   alt: Oulujoen Multilahden uimaranta
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2017-06-03 10:55:20 +0300'
 date_gmt: '2017-06-03 10:55:20 +0300'
 categories:

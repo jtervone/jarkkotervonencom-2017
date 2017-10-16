@@ -6,11 +6,7 @@ title: Oluen valmistus
 image:
   file: /assets/img/posts/oluen-teko-laitteisto.jpg
   text: Oluen teko laitteisto
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-02-16 20:16:16 +0200'
 date_gmt: '2016-02-16 18:16:16 +0200'
 categories:

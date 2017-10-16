@@ -6,11 +6,7 @@ title: Moccamasterin oudot käyttöohjeet
 image:
   file: /assets/img/posts/moccamaster-ohje.jpg
   text: Moccamasterin-ohje
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2012-12-27 00:35:59 +0200'
 date_gmt: '2012-12-26 22:35:59 +0200'
 categories:

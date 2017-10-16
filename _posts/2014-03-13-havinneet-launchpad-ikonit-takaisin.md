@@ -5,11 +5,7 @@ published: true
 title: Hävinneet Launchpad ikonit takaisin
 image:
   file: /assets/img/posts/macbook-air.jpg
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2014-03-13 22:11:24 +0200'
 date_gmt: '2014-03-13 20:11:24 +0200'
 categories:

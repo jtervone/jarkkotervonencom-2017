@@ -6,11 +6,7 @@ title: Milloin polkupyörän ketjut olisi syytä vaihtaa
 image:
   file: /assets/img/posts/uusi-ketju.jpg
   alt: Uusi ketju
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-08-02 00:01:20 +0300'
 date_gmt: '2016-08-02 00:01:20 +0300'
 categories:

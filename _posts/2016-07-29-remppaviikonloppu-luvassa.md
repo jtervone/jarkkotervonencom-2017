@@ -6,11 +6,7 @@ title: Remppaviikonloppu luvassa
 image:
   file: /assets/img/posts/cube-pinna-poikki.jpg
   alt: Työmatka Canyonilla
-author:
-  display_name: Jarkko
-  login: Jarkko
-  email: jarkko@splatweb.net
-  url: http://jarkkotervonen.com/
+author: Jarkko Tervonen
 date: '2016-07-29 00:01:20 +0300'
 date_gmt: '2016-07-29 00:01:20 +0300'
 categories:
