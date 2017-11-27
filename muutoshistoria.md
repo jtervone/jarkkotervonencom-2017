@@ -4,6 +4,8 @@ title: Muutoshistoria
 permalink: /Muutoshistoria/
 ---
 
+- __27.11.2017:__
+  - AMP-tagien korjailuja muutamaan kirjoitukseen
 - __02.08.2017:__
   - [Kesän maalailut](/2017/08/02/kesan-maalailut) -kirjoitus lisätty
   - [Uudet vaijerit polkupyöriin](/2017/07/22/uudet-vaijerit-polkupyoriin/) -kirjoituksen kategoria ja tagit korjattu

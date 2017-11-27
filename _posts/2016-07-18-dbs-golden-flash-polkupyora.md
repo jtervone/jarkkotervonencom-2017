@@ -28,8 +28,6 @@ Pesin pyörän ja purin osiin. Kumeja ja kahvoja lukuunottamatta pyörän ajokun
   <noscript><img src="/assets/img/posts/dbs-takarengas.jpg" alt="DBS Takarengas" /></noscript>
 </amp-img>
 
-<img src="" />
-
 Takahaarukasta piti leikata lokasuojan kannake pois, jotta 28-tuumainen rengas mahtui nätisti. Etuhaarukkaan ei muuta tarvinnut tehdä kuin poista lokasuoja.
 
 <amp-img src="/assets/img/posts/dbs-keula.jpg" alt="DBS Keula" width="4" height="3" layout="responsive">

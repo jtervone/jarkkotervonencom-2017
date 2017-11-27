@@ -6,7 +6,7 @@ My personal website.
 
 ```
 gem install jekyll bundler
-bundle install
+bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
 

@@ -5,6 +5,10 @@
   {% if page.layout == 'post' %}
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
   {% endif %}
+
+  {% if page.instagram %}
+    <script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+  {% endif %}
   <link rel="canonical" href="{{ page.url }}" />
   <meta name="theme-color" content="#54707f">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">

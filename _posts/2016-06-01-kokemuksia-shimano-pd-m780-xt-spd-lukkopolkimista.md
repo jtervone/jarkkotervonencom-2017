@@ -21,7 +21,9 @@ Paketti saapui alle viikossa ja uudet polkimet olivat nopeasti ruuvattu kiinni. 
 
 Viikon aikana Shimano PD-M780 XT -polkimilla tuli ajettua 250 kilometriä. Viikkohuoltoa tehdessä huomasin, että toinen poljin pykältää pahasti eikä pyörähdä kuin 1/5 kierrosta kerrallaan. Mitenkäs ne näin nopeasti alkoi oireilemaan. Kävi jo mielessä pistää polkimet palautuksena menemään mutta löysin hyvän videon polkimien huoltamisesta ja päätin katsoa mikä polkimessa on vikana.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/utLU4kAHk_Q" frameborder="0" allowfullscreen></iframe>
+<amp-iframe width="560" height="315" layout="fixed" src="https://www.youtube.com/embed/utLU4kAHk_Q" frameborder="0">
+  <div overflow tabindex="0" role="button" aria-label="">Katso Youtubessa</div>
+</amp-iframe>
 
 Yllä olevalla videolla puretaan ja rasvataan PD-M520-mallinen poljin, mutta samanlainen rakenteeltaan on myös PD-M780-poljin. Ainoa ero on siinä, että tämän paremman mallin aukaisemiseen ei tarvita erikoistyökaluja.
 

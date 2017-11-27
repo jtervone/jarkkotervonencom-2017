@@ -8,6 +8,7 @@ image_text: Hilleberg Nallo 3 GT
 author: Jarkko Tervonen
 date: '2016-10-03 00:01:20 +0300'
 date_gmt: '2016-03-10 00:01:20 +0300'
+instagram: true
 categories:
 - Retkeily
 tags:
@@ -37,14 +38,13 @@ Perille tultiin illan jo hämärtäessä. Tässä vaiheessa tulikin mieleen, ett
   <noscript><img src="/assets/img/posts/hailuoto-nallo-3gt.jpg" alt="Hailuoto Hilleberg Nallo 3 GT" /></noscript>
 </amp-img>
 
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="7">
-<div style="padding: 8px;">
-<div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;"></div>
-<p style="margin: 8px 0 0 0; padding: 0 4px;"><a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/BLDhxYxhrSu/" target="_blank">Pari tuntia meni katsellessa lamppua ja kuunnellessa meren pauhaamista. Ei ihminen kovin kummoista viihdettä tarvitse 🌊⛺️😊</a></p>
-<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">Video, jonka Jarkko Tervonen (@jarkkotervonen) julkaisi <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2016-10-02T09:14:24+00:00">2. 10ta 2016 klo 2.14 PDT</time></p>
-</div>
-</blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<amp-instagram
+    data-shortcode="BLDhxYxhrSu"
+    data-captioned
+    width="400"
+    height="400"
+    layout="responsive">
+</amp-instagram>
 
 Jälkeenpäin tarkistin, että Marjaniemessä oli mitattu parhaimmillaan tuulen nopeudeksi 10 metriä sekunnissa ja puuskissa 12 metriä sekunnissa. Uusi teltta pysyi hyvin pystyssä vaikka yön aikana muutama maakiila oli löystynyt tai irronnut kokonaan maasta. Lämmintä riitti niin ettei käsiäkään tarvinnut makuupussin sisällä pitää.
 

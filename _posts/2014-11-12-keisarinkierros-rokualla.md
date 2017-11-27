@@ -43,11 +43,9 @@ Syvyydenkaivo ei osunut reitille, mutta sen pohjalla piti poiketa. Syvyydenkaivo
 
 Pookivaaran palovartijan torni on on ollut käytössä vuoteen 1975. Pookivaara kohoaa 192,4 metriä merenpinnan yläpuolelle ja torni vielä tästä noin 50 metriä ylöspäin. Palovartijat valvoivat herkästi syttyviä jäkäläkankaita tornista. Sota-aikana torni on ollut ilmavalvontakäytössä. Kuva on vuodelta 2011. Tämän jälkeen tornia on kunnostettu ja se on paremmissa maaleissa.
 
-<amp-img src="KUVA" alt="KUVA" width="4" height="3" layout="responsive">
-  <noscript><img src="KUVA" alt="KUVAt" /></noscript>
+<amp-img src="/assets/img/posts/pookivaara-palovartijan-tupa.jpg" alt="Pookivaaran palovartijan tupa" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/pookivaara-palovartijan-tupa.jpg" alt="Pookivaaran palovartijan tupa" /></noscript>
 </amp-img>
-
-<img src="/assets/img/posts/pookivaara-palovartijan-tupa.jpg" alt="Pookivaaran palovartijan tupa" />
 
 Pookivaaran palovartijan tupa on kunnostettu vuonna 1997 autiotuvaksi. Pienessä tuvassa on tarpeeksi tilaa parille henkilölle ja lattiallakin mahtuu pari ihmistä nukkumaan. Muistaakseni alueella oli avoin kodan tapainen rakennus. En kuitenkaan tätä kirjoittaessa löytänyt varmistusta asialle.
 
