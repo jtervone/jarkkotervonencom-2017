@@ -12,7 +12,7 @@ bundle exec jekyll serve
 
 ## Deployment
 
-Add #deploy tag when you want to deploy new stuff to production. For example
+To deploy just run deploy script
 
 ```
 ./deploy.sh
