@@ -12,7 +12,6 @@ categories:
 - Yleinen
 tags:
 - some
-- siivous
 comments: []
 ---
 Aloin vähän saarnaamaan harjoittamastani somedietistä eilisessä postauksessa, mutta ensimmäinen repsahdus tapahtui melkein samantien postauksen julkaisun jälkeen. Olen roikkunut kohta viikon löysässä hirressä flunssan kanssa. Periaatteessa tästä ei kovin haittaa ole ollut. Kurkkukipu, väsymys, nenenän valuminen. Kaikki nätisti eri aikaan vaikkakin keksittymiskyky on ollut poissa pitkään.
