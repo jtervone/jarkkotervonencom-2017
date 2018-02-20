@@ -5,8 +5,8 @@ layout: default
   <h2><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h2>
   {% if page.image %}
     <div class="article-image">
-      <amp-img src="{{ page.image }}" alt="page.image_text" width="4" height="3" layout="responsive">
-        <noscript><img src="{{ page.image }}" alt="page.image_text" /></noscript>
+      <amp-img src="{{ page.image }}" alt="{{ page.image_text }}" width="4" height="3" layout="responsive">
+        <noscript><img src="{{ page.image }}" alt="{{ page.image_text }}" /></noscript>
       </amp-img>
     </div>
   {% endif %}
