@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Arkisto
+title: Blogitekstit kategorioittain
+nav_text: Arkisto
 permalink: /arkisto/
 ---
 

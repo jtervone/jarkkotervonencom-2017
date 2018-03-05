@@ -1,9 +1,20 @@
 ---
 layout: page
-title: Muutoshistoria
-permalink: /Muutoshistoria/
+title: Sivuston muutoshistoria
+nav_text: Muutoshistoria
+permalink: /muutoshistoria/
 ---
 
+- __5.3.2018:__
+  - [Tervahiihto 2018](/2018/03/05/tervahiihto-2018/) -kirjoitus lisätty
+- __20.2.2018:__
+  - [Neljä olutta / Neljä ruokalajia / Neljä Nikkasen valintaa](/2018/02/20/rooster-tasting/) -kirjoitus lisätty
+- __28.12.2017:__
+  - [Joulun viettoa maalla](/2017/12/28/joulun-viettoa-maalla/) -kirjoitus lisätty
+- __8.12.2017:__
+  - [Somedietin ensimmäinen repsahdus](/2017/12/08/somedietin-ensimmainen-repsahdus/) -kirjoitus lisätty
+- __7.12.2017:__
+  - [Somekanavien järjestelyä](/2017/12/07/somekanavien-jarjestelya/) -kirjoitus lisätty
 - __27.11.2017:__
   - AMP-tagien korjailuja muutamaan kirjoitukseen
 - __02.08.2017:__

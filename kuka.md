@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Kuka?
+title: Kuka on Jarkko Tervonen?
+nav_text: Kuka?
 permalink: /kuka/
 ---
 
