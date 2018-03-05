@@ -7,6 +7,7 @@ permalink: /muutoshistoria/
 
 - __5.3.2018:__
   - [Tervahiihto 2018](/2018/03/05/tervahiihto-2018/) -kirjoitus lisätty
+  - Rikkinäisiä linkkejä korjailtu ja poisteltu kirjoituksista
 - __20.2.2018:__
   - [Neljä olutta / Neljä ruokalajia / Neljä Nikkasen valintaa](/2018/02/20/rooster-tasting/) -kirjoitus lisätty
 - __28.12.2017:__

@@ -36,7 +36,7 @@ En ole oikein koskaan oppinut tallentamaan kiinnostavia linkkejä muualle kuin s
 
 Chromen kirjanmerkkien käyttö on hieman hankalaa varsinkin, kun kunnollista hakua ei ole eikä linkkien nimen lisäksi saa kuvausta. [Delicious](http://delicious.com/) on ollut palveluna tuttu jo pitkän aikaa, muttei se ole kovin houkutellut. Muutama kuukausi sitten otin Deliciousin kuitenkin testiin ja aloin kerätä linkkejä sinne. Valitettavasti käyttö ei ollut kivaa ja Deliciousin hyödyntäminen jäi vähälle.
 
-Pari viikkoa sitten törmäsin suomalaiseen noin vuoden vanhaan palveluun nimeltään [Kippt](http://kippt.com/). Kevyen ja helppokäyttöisen näköinen palvelu houkutteli rekisteröitymään ja testaamaan palvelua. Kipptin avulla linkit voi jakaa listoihin ja määritellä listojen näkyvyyden julkiseksi tai yksityiseksi. Muut käyttäjät voivat valita julkisia listoja seurattavakseen. Seuratut listat näkyvät Kipptin etusivun feedissä.
+Pari viikkoa sitten törmäsin suomalaiseen noin vuoden vanhaan palveluun nimeltään Kippt]. Kevyen ja helppokäyttöisen näköinen palvelu houkutteli rekisteröitymään ja testaamaan palvelua. Kipptin avulla linkit voi jakaa listoihin ja määritellä listojen näkyvyyden julkiseksi tai yksityiseksi. Muut käyttäjät voivat valita julkisia listoja seurattavakseen. Seuratut listat näkyvät Kipptin etusivun feedissä.
 
 <amp-img src="/assets/img/posts/screenshot-clippt.png" alt="Kuvaruutukaappaus Clippt-sovelluksesta" width="4" height="3" layout="responsive">
   <noscript><img src="/assets/img/posts/screenshot-clippt.png" alt="Kuvaruutukaappaus Clippt-sovelluksesta" /></noscript>
@@ -44,8 +44,10 @@ Pari viikkoa sitten törmäsin suomalaiseen noin vuoden vanhaan palveluun nimelt
 
 Linkkien siirto Deliciousista onnistuu lataamalla Deliciousin linkit omalle koneelle ja lataamalla ne edelleen Kipptiin. Deliciousista tuodut linkit tulevat mukavasti Kipptiin lukuun ottamatta Facebookista raavittuja linkkejä. joiden otsikot puuttuivat.</p>
 
-Kipptiin on saatavana selainlaajennokset Chromelle, [Safarille](http://www.apple.com/safari/), [Firefoxille](http://www.mozilla.org/en-US/firefox/new/) ja [Operalle](http://www.opera.com/browser/). Ainakin Chromen laajennoksen käyttäminen on vaivatonta. Parin napin painalluksen jälkeen linkki on tallennettu Kipptiin. Omaa puhelinsovellusta Kipptillä ei ole, mutta iOS-laitteille on saatavilla edullinen [Clippt-sovellus](http://itunes.apple.com/us/app/clippt-bookmarking-for-kippt/id540695978?mt=8) 1,59 eurolla. Puhelimella linkkien tallentaminen on hankalaa, mutta tarvittaessa tallennettuihin linkkeihin pääsee käsiksi nopeasti.
+Kipptiin on saatavana selainlaajennokset Chromelle, [Safarille](http://www.apple.com/safari/), [Firefoxille](http://www.mozilla.org/en-US/firefox/new/) ja [Operalle](http://www.opera.com/browser/). Ainakin Chromen laajennoksen käyttäminen on vaivatonta. Parin napin painalluksen jälkeen linkki on tallennettu Kipptiin. Omaa puhelinsovellusta Kipptillä ei ole, mutta iOS-laitteille on saatavilla edullinen Clippt-sovellus 1,59 eurolla. Puhelimella linkkien tallentaminen on hankalaa, mutta tarvittaessa tallennettuihin linkkeihin pääsee käsiksi nopeasti.
 
 Tälläisiä palveluita käyttöönottaessa tarkistan ensimmäisenä, että ainakin suurimman osan tiedoista saa ladattua omalle koneelle. Kipptistä linkit saa tallennettua omalle koneelle [Netscape Bookmark -formaatissa](http://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx), jota kaikki selaimetkin ymmärtävät.
 
-Suosittelen kokeilemaan Kipptiä ainakin jonkun aikaa. Niin ja minut löydät Kipptistä osoitteesta [http://kippt.com/jarkkotervonen](http://kippt.com/jarkkotervonen)
+Suosittelen kokeilemaan Kipptiä ainakin jonkun aikaa.
+
+__Päivity 5.3.2018:__ Kippt ei ole enää toiminnassa.

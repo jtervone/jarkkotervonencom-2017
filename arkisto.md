@@ -4,7 +4,6 @@ title: Blogitekstit kategorioittain
 nav_text: Arkisto
 permalink: /arkisto/
 ---
-
 Tässä blogista löytyvät postaukset aihealueittain. Parempi arkistosivu on työnalla.
 
 <ul>

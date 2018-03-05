@@ -44,7 +44,7 @@ _Huomio, että ohjelman ikonia klikkaamalla pääset suoraan Appstoreen ohjelman
   <noscript><img src="/assets/img/posts/app-icon-1password.png" alt="1Password App -ikoni" /></noscript>
 </amp-img>
 
-[1Password](http://itunes.apple.com/fi/app/1password-for-iphone/id285897618?mt=8) on käytössä siitä syystä, että käytän sitä myös pöytäkoneissa. Elämä ilman tätä ohjelmaa olisi turvatonta tai hankalaa. 1Passwordin avulla pystyy helposti käyttämään eri salasanaa jokaisessa nettipalvelussa. Selainlaajennosten ansiosta pöytäkoneissa ei tarvitse muistaa kuin yksi salasana ja laajennos osaa hakea 1Passwordin tietokannasta palvelukohtaisen tunnus+salasana-parin sekä kirjautua sisään palveluun. Valitettavasti tätä ominaisuutta ei ole iPhone-selaimille, joten salasanat pitää käydä copypasteemassa 1Passwordista käsin.
+[1Password](https://itunes.apple.com/fi/app/1password/id568903335?l=fi&mt=8) on käytössä siitä syystä, että käytän sitä myös pöytäkoneissa. Elämä ilman tätä ohjelmaa olisi turvatonta tai hankalaa. 1Passwordin avulla pystyy helposti käyttämään eri salasanaa jokaisessa nettipalvelussa. Selainlaajennosten ansiosta pöytäkoneissa ei tarvitse muistaa kuin yksi salasana ja laajennos osaa hakea 1Passwordin tietokannasta palvelukohtaisen tunnus+salasana-parin sekä kirjautua sisään palveluun. Valitettavasti tätä ominaisuutta ei ole iPhone-selaimille, joten salasanat pitää käydä copypasteemassa 1Passwordista käsin.
 
 Valitettavasti 1Passwordin käyttö tulee aika arvokkaaksi. Pöytäkoneelle 1Password maksaa 39,99 euroa ja puhelimeen 8,99 euroa. Oman 1Passwordin ostin pöytäkoneeseen muistaakseni parin kympin hintaan muutama vuosi sitten.
 
@@ -54,7 +54,7 @@ Valitettavasti 1Passwordin käyttö tulee aika arvokkaaksi. Pöytäkoneelle 1Pas
   <noscript><img src="/assets/img/posts/app-icon-things.png" alt="Things App -ikoni" /></noscript>
 </amp-img>
 
-[Things](http://itunes.apple.com/us/app/things/id284971781?mt=8) on toinen ohjelma, jonka tehokäyttö vaatii myös [työpöytäsovelluksen](http://itunes.apple.com/app/things/id407951449?mt=12) omistamisen. Things on kätevä taskien / todo -listojen hallintaohjelma henkilökohtaiseen käyttöön. Uuden kakkosversion ansiosta ei tarvitse enää kikkailla Dropboxin kanssa vaan käytössä on Things Cloud, jonka avulla pystyy synkronisoimaan eri laitteiden Things-sovellukset.
+[Things](https://itunes.apple.com/us/app/things-3/id904237743?mt=8) on toinen ohjelma, jonka tehokäyttö vaatii myös [työpöytäsovelluksen](https://itunes.apple.com/us/app/1password/id443987910?mt=12) omistamisen. Things on kätevä taskien / todo -listojen hallintaohjelma henkilökohtaiseen käyttöön. Uuden kakkosversion ansiosta ei tarvitse enää kikkailla Dropboxin kanssa vaan käytössä on Things Cloud, jonka avulla pystyy synkronisoimaan eri laitteiden Things-sovellukset.
 
 Omassa käytössä Things on ollut melkein ohjelman alkuvaiheista asti. Työpöytä sovelluksen hinta on nykyään aika suolaiset 39,99 euroa ja iPhone sovellus 8,99 euroa.
 
@@ -64,7 +64,7 @@ Omassa käytössä Things on ollut melkein ohjelman alkuvaiheista asti. Työpöy
   <noscript><img src="/assets/img/posts/app-icon-issh.png" alt="iSSH App -ikoni" /></noscript>
 </amp-img>
 
-[iSSH](http://itunes.apple.com/us/app/issh-ssh-vnc-console/id287765826?mt=8) on ssh-asiakassovellus, jota voi käyttää ssh-yhteyksien lisäksi VNC-yhteyksien käyttämiseen. Nykyään iPhonelle löytyy monta muutakin vastaavaa sovellusta, joita kannattaa testata. iSSH valikoitui siksi, että tämä oli ainoa ohjelma, missä näppäimistön sai läpinäkyväksi. Tämä tarkoittaa sitä, että koko näytön saa hyötykäyttöön.
+[iSSH](https://itunes.apple.com/ru/app/issh-2/id1254742822?mt=8) on ssh-asiakassovellus, jota voi käyttää ssh-yhteyksien lisäksi VNC-yhteyksien käyttämiseen. Nykyään iPhonelle löytyy monta muutakin vastaavaa sovellusta, joita kannattaa testata. iSSH valikoitui siksi, että tämä oli ainoa ohjelma, missä näppäimistön sai läpinäkyväksi. Tämä tarkoittaa sitä, että koko näytön saa hyötykäyttöön.
 
 iSSH:n hinta on 8,99 euroa.
 

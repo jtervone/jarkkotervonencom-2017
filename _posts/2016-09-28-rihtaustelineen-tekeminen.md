@@ -19,20 +19,20 @@ Tässä on viimeinen kuukausi tehty kaikkea muuta kuin pyöräilty. Yhden huonee
 
 Jos olisin huomannut, että näitä rihtaustelineitä saa muutamalla kympillä, niin olisin vielä kerran miettinyt alanko tekemään tätä itse. Oli vain jäänyt mieleen kuva monta sataa euroa maksavista pukeista. Katsoin vähän mallia Googlen kuvahausta [hakusanalla rihtauspukki](https://www.google.fi/search?q=rihtauspukki&amp;tbm=isch) ja sieltä löytyikin monta hyvää esimerkkiä, joista ottaa mallia.
 
-<amp-img src="/assets/img/posts/rihtauspukki-kasaus-0.jpeg" alt="Rihtauspukin hitsaaminen" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/rihtauspukki-kasaus-0.jpeg" alt="Rihtauspukin hitsaaminen" /></noscript>
+<amp-img src="/assets/img/posts/rihtauspukki-kasaus-0.jpg" alt="Rihtauspukin hitsaaminen" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/rihtauspukki-kasaus-0.jpg" alt="Rihtauspukin hitsaaminen" /></noscript>
 </amp-img>
 
 Päätin pysyä 90- ja 45-asteen kulmissa, koska näiden kanssa selviytyy helpommin. Mittalin 1,5mm paksusta neliön mallisesta (15mmx15mm) huonekaluputkesta neljä 50 senttimetrin pätkää sekä kaksi 23 senttimetrin pätkää, josta tulee rihtauspukin runko. Lisäksi sahasin haarukkaa varten yhden senttimetrin pituisen pätkän sekä 10 senttimetrint pituisen pätkän. Hitsailin nämä yhteen käyttäen apuna magneetteja ja onnistuin aika hyvin pitämään paketin suorana.
 
-<amp-img src="/assets/img/posts/rihtauspukki-kasaus-1-e1475047978882.jpeg" alt="Rihtauspukin haarukat" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/rihtauspukki-kasaus-1-e1475047978882.jpeg" alt="Rihtauspukin haarukat" /></noscript>
+<amp-img src="/assets/img/posts/rihtauspukki-kasaus-1.jpg" alt="Rihtauspukin haarukat" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/rihtauspukki-kasaus-1.jpg" alt="Rihtauspukin haarukat" /></noscript>
 </amp-img>
 
 Tämän jälkeen kyhäsin säädettävän haarukan lattaraudasta sekä neliön muotoisesta rautatangosta. Tästä tuli yllättävän hyvä vaikka hieman epäilin tukevuutta. Muistin jopa porata reiät eri säätöjen lukitusruuveja varten ennen hitsausta. Yleensä unohdan tämän enkä sitten pysty käyttämään pylväsporakonetta hyväksi porauksissa.
 
-<amp-img src="/assets/img/posts/rihtauspukki-maalaus-e1475048059712.jpeg" alt="Rihtauspukin pohjamaalaus" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/rihtauspukki-maalaus-e1475048059712.jpeg" alt="Rihtauspukin pohjamaalaus" /></noscript>
+<amp-img src="/assets/img/posts/rihtauspukki-maalaus.jpg" alt="Rihtauspukin pohjamaalaus" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/rihtauspukki-maalaus.jpg" alt="Rihtauspukin pohjamaalaus" /></noscript>
 </amp-img>
 
 Kun osat oli liimailtu yhteen suoritin maalauksen käyttämällä kilikolimaaleja niin pohja- kuin varsinaisen maalipinnan tekemiseen. Ennen maalausta pukkiin hitsattujen mutterien kierteet kannattaa suojata pulteilla.

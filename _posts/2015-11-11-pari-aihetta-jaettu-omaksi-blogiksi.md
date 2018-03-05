@@ -23,10 +23,10 @@ Päätin jakaa muutaman aihealueen omaksi blogiksi. Oikeastaan tähän ei ole mu
 
 [Splatweb](http://splatweb.net/) on ensimmäinen blogi, jonka aihealueena on ollut paintball. Splatwebiin olen kirjoittanut vuodesta 1999 lähtien. Sinne lähinnä päivittelen paintballiin liittyviä uutisia. Valitettavasti tähän liittyvät jutut ovat vähentyneet ja samoin oma aika lajin parissa. Tätä ei kuitenkaan ole kuopattu.
 
-[Martimoaapa.com](http://www.martimoaapa.com/) on myös ollut omana bloginaan jo pari vuotta. Tänne kirjoitamme Elisan kanssa kirjoitetaan Martimoaapaan liittyviä juttuja. Tällä sivulla on mukava määrä viikottaisia kävijöitä ja [Facebookissa Martimoaapa.comista tykkää](https://www.facebook.com/martimoaapacom/) 80 henkilöä. Muut retkeilyjutut löytyvät jatkossa [Autiotupa.comista](http://autiotupa.com/).
+[Martimoaapa.com](http://www.martimoaapa.com/) on myös ollut omana bloginaan jo pari vuotta. Tänne kirjoitamme Elisan kanssa kirjoitetaan Martimoaapaan liittyviä juttuja. Tällä sivulla on mukava määrä viikottaisia kävijöitä ja [Facebookissa Martimoaapa.comista tykkää](https://www.facebook.com/martimoaapacom/) 80 henkilöä. Muut retkeilyjutut löytyvät jatkossa Autiotupa.comista.
 
 Myös musiikkiin liittyvät jutut ajattelin siirtää omaksi [Musiikkikanava-blogiksi](http://musiikkikanava.com/). Tämän blogin lähestymiskulma musiikkiin on vielä vähän hukassa, mutta eiköhän se ala löytymään pikkuhiljaa.
 
-~~Näiden lisäksi uusimman harrastukseni eli Ford Granada -merkkisen auton kunnostukseen liittyvät kirjoitukset löytyvät [Ford Granada -nimisestä blogista](http://ford-granada.fi).~~ Pistin tämän jäihin...
+~~Näiden lisäksi uusimman harrastukseni eli Ford Granada -merkkisen auton kunnostukseen liittyvät kirjoitukset löytyvät Ford Granada -nimisestä blogista.~~ Pistin tämän jäihin...
 
 Nämä ylläolevat ovat siis jatkossa omissa blogeissaan ja sekalaiset jutut pysyvät täällä vanhassa nurkkauksessaan.

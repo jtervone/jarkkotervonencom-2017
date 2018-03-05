@@ -17,7 +17,7 @@ tags:
 - kotiolut
 comments: []
 ---
-Puolitoista vuotta olen harrastanut oman oluen panemista. Mitenkään rohkeita kokeiluja en ole tehnyt vaan ihan muutaman oluen reseptejä pyöritellyt. Valmistusprosessia olen jalostanut [alkuajoista](/2016/02/oluen-valmistus/) sen verran, että investoin norjalaiseen [Brewcrafter25-olutpannuun](http://www.brewcrafterstore.com/), josta voisin kertoa enemmän joku toinen kerta.
+Puolitoista vuotta olen harrastanut oman oluen panemista. Mitenkään rohkeita kokeiluja en ole tehnyt vaan ihan muutaman oluen reseptejä pyöritellyt. Valmistusprosessia olen jalostanut [alkuajoista](/2016/02/16/oluen-valmistus/) sen verran, että investoin norjalaiseen [Brewcrafter25-olutpannuun](http://www.brewcrafterstore.com/), josta voisin kertoa enemmän joku toinen kerta.
 
 Syksyllä olisi tarkoitus viettää häitä ja niitä varten olen urakoinut olutta. Reseptiksi on valikoitunut [Kotiolut.com-foorumilta](http://www.kotiolut.com/) napattu [Sierra Nevada Pale Ale -kopio](http://www.kotiolut.com/viewtopic.php?t=2805). Olen tätä useamman erän tehnyt ja se on maistunut itselle kuin kavereillenikin. Tämä olut on valmistuskertojen myötä muovautunut seuraavanlaiseksi.
 

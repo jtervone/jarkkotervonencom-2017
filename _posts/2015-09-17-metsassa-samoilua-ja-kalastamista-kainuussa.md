@@ -32,7 +32,7 @@ Metsään lähtiessä unohtui ottaa kamera mukaan. Harmittaa vieläkin, koska pi
 
 Edellisen kerran saman lenkin olen kiertänyt isän kanssa ~10 vuotiaana. Kiva oli käydä uudestaan. Syvällä metsässä olleen ison tervahaudan paikan vielä muistin.
 
-Vaalasta takaisin Kempeleeseen ajettiin pienen mutkan kautta. Vesiputoukset ovat aina kiinostaneet ja päätimme käydä katsomassa Hepokönkään vesiputousta Puolangalla [Hepokönkään luonnonsuojelualueella](http://www.luontoon.fi/retkikohteet/muutsuojelualueet/hepokongas/Sivut/Default.aspx). Hepoköngäs on 24 metriä korkea vesiputous Kiiminkijoen latvoilla.
+Vaalasta takaisin Kempeleeseen ajettiin pienen mutkan kautta. Vesiputoukset ovat aina kiinostaneet ja päätimme käydä katsomassa Hepokönkään vesiputousta Puolangalla [Hepokönkään luonnonsuojelualueella](http://www.luontoon.fi/hepokongas). Hepoköngäs on 24 metriä korkea vesiputous Kiiminkijoen latvoilla.
 
 Hepokönkään vesiputous oli vähän liiankin helposti saavutettava. Asfalttitieltä oli matkaa putoukselle noin 600 metriä. Tietysti on kiva, että liikkumarajoitteisetkin pääsevät katsomaan näitä luonnon nähtävyyksiä. Putouksen alle pääsee vaikka pyörätuolilla kelaamaan, joskin lankutettu kulku-ura on sateella aika liukas.
 

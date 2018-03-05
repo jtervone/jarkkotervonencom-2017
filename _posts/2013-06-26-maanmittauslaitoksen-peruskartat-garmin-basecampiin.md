@@ -28,6 +28,6 @@ Tämän jälkeen asennus on helppoa. Lataa OS X -yhteensopiva karttaimage [http:
   <noscript><img src="/assets/img/posts/garmin-basecamp-mtk-kartat.jpg" alt="Garmin Basecamp ja MTK-kartat" /></noscript>
 </amp-img>
 
-Samat karttapaketit saa käsittääkseni ladattua myös GPS-laitteisiin, mutta tästä itsellä ei ole parempaa tietoa, koska käytän [Garminin eTrex -sarjan kymppiversiota](http://sites.garmin.com/etrex/), mikä ei karttoja tue.
+Samat karttapaketit saa käsittääkseni ladattua myös GPS-laitteisiin, mutta tästä itsellä ei ole parempaa tietoa, koska käytän [Garminin eTrex -sarjan kymppiversiota](https://buy.garmin.com/fi-FI/FI/p/87768), mikä ei karttoja tue.
 
 Parasta tässä on se, että tämä on ihan laillinen tapa käyttää ilmaiseksi Maanmittauslaitoksen materiaalia, koska he ovat jakaneet aineistoaan ilmaiseksi vuoden 2012 toukokuun alusta alkaen.

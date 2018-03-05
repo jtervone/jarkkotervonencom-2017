@@ -18,7 +18,7 @@ tags:
 - levyjarru
 comments: []
 ---
-Kävipä niin, että pari vuotta sitten ostetusta loistavasti toimineesta Canyon Yellowstone AL 6.9 -maastopyörästä alkoi takalevy laahaamaan. Tässä Canyonissa on [SRAM Avid Elixir 1 -levyjarru](https://www.sram.com/avid/products/elixir-1-hydraulic-disc-brake), jota yritettiin ensihätään keskittää, mutta tästä ei apua ollut. Lopulta jarru jumi täysin.
+Kävipä niin, että pari vuotta sitten ostetusta loistavasti toimineesta Canyon Yellowstone AL 6.9 -maastopyörästä alkoi takalevy laahaamaan. Tässä Canyonissa on SRAM Avid Elixir 1 -levyjarru, jota yritettiin ensihätään keskittää, mutta tästä ei apua ollut. Lopulta jarru jumi täysin.
 
 Irroitin jarrusatulan rungosta ja poistin jarrupalat. Varovasti jarrukahvaapainamalla huomasin, että ulompi jarrumäntä ei palautunut vaan jäi vähän koholle. Internet tarjosi vaihtoehdoksi jarrumännän puhdistamista kevyesti jarrunestettä käyttäen. Tein tämän aluksi ilman jarrunestettä ja lopuksi jarrunesteen kanssa. Jarrunestehän vie helposti maalipinnan ja roiskuessaan jarrulevyyn ja paloihin heikentää huomattavasti jarrujen tehoa. Tällä ei ollut mitään vaikutusta vaikka yritin jarrumäntiä pumpata edestakaisin.
 

@@ -18,7 +18,7 @@ tags:
 - vaihto
 comments: []
 ---
-Pari viikkoa sitten [Ford Focus sai taakse uudet takaiskunvaimentimet](http://jarkkotervonen.com/2014/03/ford-focus-ja-takaiskunvaimentimien-vaihto/). Seuraavaksi vuorossa oli etupäähän etuvaakaan yhdystankojen eli koiranluiden vaihto. Vasen yhdystanko oli väljä, mutta päätin vaihtaa samalla tangot molemmille puolille. Tämä on ammattilaiselle vajaan parin tunnin homma ja siltä se aluksi tuntuikin. Vaihtohan on todella helppoa, jos vain ruostuneet mutterit, joita on kaksi kappaletta per tanko, aukeavat helposti.
+Pari viikkoa sitten [Ford Focus sai taakse uudet takaiskunvaimentimet](/2014/03/06/ford-focus-ja-takaiskunvaimentimien-vaihto/). Seuraavaksi vuorossa oli etupäähän etuvaakaan yhdystankojen eli koiranluiden vaihto. Vasen yhdystanko oli väljä, mutta päätin vaihtaa samalla tangot molemmille puolille. Tämä on ammattilaiselle vajaan parin tunnin homma ja siltä se aluksi tuntuikin. Vaihtohan on todella helppoa, jos vain ruostuneet mutterit, joita on kaksi kappaletta per tanko, aukeavat helposti.
 
 Homma alko nostamalla auton etupää pukeille ja irroittamalla eturengas oikealta puolelta. Jälkikäteen luettuna korjausopas ehdotti myös akun napojen irroittamista ennen vaihtamisen aloittamista. Koiranluut löytyvät heti etummaisen iskunvaimentajan takaa ja ne ovat parilla mutterilla kiiinni. Yläpää iskunvaimentimessa ja alapää etuvakaajassa.
 

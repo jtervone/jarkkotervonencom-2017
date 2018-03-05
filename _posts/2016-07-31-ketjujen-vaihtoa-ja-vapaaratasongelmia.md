@@ -31,8 +31,8 @@ Seuraavaksi sitten Cuben kimppuun. Pistin ketjut pesuun ja aloin irroittelemaan 
 
 Muuten homma sitten meni mukavasti, mutta ketjun missing linkin onnistuin hukkaamaan.
 
-<amp-img src="/assets/img/posts/ostokset-2016-07-29-1024x683.jpg" alt="Ostokset 2016-07-29" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/ostokset-2016-07-29-1024x683.jpg" alt="Ostokset 2016-07-29" /></noscript>
+<amp-img src="/assets/img/posts/ostokset-2016-07-29.jpg" alt="Ostokset 2016-07-29" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/ostokset-2016-07-29.jpg" alt="Ostokset 2016-07-29" /></noscript>
 </amp-img>
 
 Heti, kun pyörä oli ketjuja vaille paketissa, sain tiedon kaveriltani, että hänen kanssaan tilaamat tavarat olivat saapuneet postiin. Olin tilannut mm. takarenkaaseen uuden kumin eli pääsin heti perään ottamaan kumin vanteilta ja laittamaan uuden. Vanha oli päässyt kulahtamaan keskeltä aika sileäksi. Olen näillä renkailla ajanut 1060 kilometriä. Eturengas tuntuu kestävän huomattavasti paremmin kuin takarengas.

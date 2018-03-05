@@ -17,7 +17,7 @@ comments: []
 ---
 Vuoden toinen kesäloma alkoi matkalla Nilsiään ja ohjelmana oli mm. käydä retkeilemässä [Tiilikkajärven kansallispuistossa](http://www.luontoon.fi/Retkikohteet/kansallispuistot/tiilikkajarvi/Sivut/Default.aspx). Puisto ja sen reitit olivat uusia tuttavuuksia enkä ollut koko Tiilikkajärvestä kuullut aiemmin.
 
-Tiilikkajärven kansallispuisto sijaitsee pääasiassa Rautavaaran kunnan alueella kantatie 87 pohjoispuolella. Kansallispuisto on perustettu 1982, joten tänä vuonna juhlitaan Tiilikkajärven 30-vuotisjuhlia. Kansallispuisto koostuu Tiilikkajärveä halkovista hiekkaharjuista sekä järveä ympäröivistä aapasoista. Kokonaisuudessaan mahtavan näköistä maastoa vaikkei suot vedä henkilökohtaiselle suosikilleni [Martimoaavalle](http://www.luontoon.fi/retkikohteet/muutsuojelualueet/martimoaapa/Sivut/Default.aspx).
+Tiilikkajärven kansallispuisto sijaitsee pääasiassa Rautavaaran kunnan alueella kantatie 87 pohjoispuolella. Kansallispuisto on perustettu 1982, joten tänä vuonna juhlitaan Tiilikkajärven 30-vuotisjuhlia. Kansallispuisto koostuu Tiilikkajärveä halkovista hiekkaharjuista sekä järveä ympäröivistä aapasoista. Kokonaisuudessaan mahtavan näköistä maastoa vaikkei suot vedä henkilökohtaiselle suosikilleni [Martimoaavalle](http://www.luontoon.fi/martimoaapa).
 
 Tarkoituksemme oli käydä patikoimassa noin seitsemän kilometrin pituinen Uitonkierto sillä poikkeuksella, että käymme syömässä eväät Venäjänhiekalla noin puolessa välissä reittiä. Venäjänhiekka on hiekkaranta Tiilikkanjärven rannallaja toinen alueella olevista paikoista, joissa leiriytyminen on sallittua.
 

@@ -17,9 +17,9 @@ tags:
 - osx
 comments: []
 ---
-[Sparrow-sähköpostiohjelma](http://sprw.me/) on vanha tuttu ja testattu viime talvena ilmaisella kokeiluversiolla. Ainoa puute oli se, että fontteja ohjelmasta ei voi säätää mieleisekseen. Luultavasti en pysty tottumaan koskaan muihin kuin monospace-fontteihin posteja kirjoittaessa.
+Sparrow-sähköpostiohjelma on vanha tuttu ja testattu viime talvena ilmaisella kokeiluversiolla. Ainoa puute oli se, että fontteja ohjelmasta ei voi säätää mieleisekseen. Luultavasti en pysty tottumaan koskaan muihin kuin monospace-fontteihin posteja kirjoittaessa.
 
-Nyt olen kuunnellut työkaverin (terveisiä Samille) viikon verran ja saunaolusissa innostuin ostamaan tuon Sparrowin OS X:lle. Enpä ostaessa muistanut tuota fonttiongelmaa, joten joutui turvautumaan Googleen. Googlen avulla löytyi [blogipostaus](http://horewi.cz/hai-sparrow-can-i-has-fixed-width-fontz-kthxbye/), missä kerrottiin että ulkoasua pääsee muuttamaan Sparrowin CSS-tiedostoista.
+Nyt olen kuunnellut työkaverin (terveisiä Samille) viikon verran ja saunaolusissa innostuin ostamaan tuon Sparrowin OS X:lle. Enpä ostaessa muistanut tuota fonttiongelmaa, joten joutui turvautumaan Googleen. Googlen avulla löytyi blogipostaus, missä kerrottiin että ulkoasua pääsee muuttamaan Sparrowin CSS-tiedostoista.
 
 Fonttien muuttaminen on helppoa muuta vain seuraavia tiedostoja hakemistossa `/Applications/Sparrow.app/Contents/Resources/`:
 

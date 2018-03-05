@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Node.js asennus Debianiin
-image: /assets/img/postscompiling-nodejs.jpg
+image: /assets/img/posts/compiling-nodejs.jpg
 image_text: Node.js:n kääntämistä
 author: Jarkko Tervonen
 date: '2014-10-30 21:27:38 +0200'

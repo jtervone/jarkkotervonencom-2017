@@ -15,7 +15,7 @@ tags:
 - musiikki
 comments: []
 ---
-Jokin aika sitten tulleessa [Filllarimania-ohjelmassa](/radio-suomen-fillarimania/) tarinoinnin lomassa soitettiin pyöräilyaiheisia kappaleita. Ohjelmassa suurin osa kappaleista oli ulkomaalaisia. Tämän innoittamana päätin etsimään muutaman kotimaisen pyöräilyaiheisen kappaleen.
+Jokin aika sitten tulleessa [Filllarimania-ohjelmassa](/2016/05/24/radio-suomen-fillarimania/) tarinoinnin lomassa soitettiin pyöräilyaiheisia kappaleita. Ohjelmassa suurin osa kappaleista oli ulkomaalaisia. Tämän innoittamana päätin etsimään muutaman kotimaisen pyöräilyaiheisen kappaleen.
 
 ## 1. Freeman - Ajetaan tandemilla
 

@@ -32,6 +32,6 @@ Tässä muutamia parhaita kuvia retkeltä ja lisää löytyy tuolta [Martimoaapa
   <noscript><img src="/assets/img/posts/kuuraista-pirunpeltoa.jpg" alt="Kuuraista pirunpeltoa Kivalon autiotuvalla" /></noscript>
 </amp-img>
 
-<amp-img src="/assets/img/posts/lumiaapa-1024x678.jpg" alt="Lumiaapa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/lumiaapa-1024x678.jpg" alt="Lumiaapa" /></noscript>
+<amp-img src="/assets/img/posts/lumiaapa.jpg" alt="Lumiaapa" width="4" height="3" layout="responsive">
+  <noscript><img src="/assets/img/posts/lumiaapa.jpg" alt="Lumiaapa" /></noscript>
 </amp-img>

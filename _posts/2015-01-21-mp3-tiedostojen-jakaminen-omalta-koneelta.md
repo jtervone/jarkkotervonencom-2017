@@ -92,8 +92,8 @@ EJECTCD=y
 
 Tämän jälkeen komennolla `abcde` CD-levy kääntyy melkein automaattisesti `/mnt/storage1/music`-hakemistoon. `abcde` hakee CDDB:stä levyjen tiedot ja nimeää mp3-tiedostot yllä olevassa asetustiedostossa määrätyllä tavalla.
 
-Kun CD:t on MP3:na koneella, niin ei kuin kuuntelemaan. Webbikäyttöliittymä on ihan riittävä desktop-käytössä mutta iPhonelle latasin [SubHub nimisen applikaation](https://itunes.apple.com/us/app/subhub/id665005634?mt=8).
+Kun CD:t on MP3:na koneella, niin ei kuin kuuntelemaan. Webbikäyttöliittymä on ihan riittävä desktop-käytössä mutta iPhonelle latasin SubHub nimisen applikaation.
 
 Tämän jälkeen komennolla `abcde` CD-levy kääntyy melkein automaattisesti `/mnt/storage1/music`-hakemistoon. `abcde` hakee CDDB:stä levyjen tiedot ja nimeää mp3-tiedostot yllä olevassa asetustiedostossa määrätyllä tavalla.
 
-Kun CD:t on MP3:na koneella, niin ei kuin kuuntelemaan. Webbikäyttöliittymä on ihan riittävä desktop-käytössä mutta iPhonelle latasin [SubHub nimisen applikaation](https://itunes.apple.com/us/app/subhub/id665005634?mt=8).
+Kun CD:t on MP3:na koneella, niin ei kuin kuuntelemaan. Webbikäyttöliittymä on ihan riittävä desktop-käytössä mutta iPhonelle latasin SubHub nimisen applikaation.
