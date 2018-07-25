@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blogitekstit kategorioittain
+description: Tässä blogini kirjoitukset aihealueittain. Erilliset sivut löytyvät navigaatiopalkista.
 nav_text: Arkisto
 permalink: /arkisto/
 ---

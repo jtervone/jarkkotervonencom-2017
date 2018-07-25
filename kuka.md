@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kuka on Jarkko Tervonen?
+description: Jarkko Tervonen on webin monitoimimies, hiihtäjä, pyöräilijä, retkeilijä sekä paljon muuta touhuava myöhäisen 70-luvun tuotos.
 nav_text: Kuka?
 permalink: /kuka/
 ---

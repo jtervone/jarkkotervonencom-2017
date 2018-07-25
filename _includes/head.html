@@ -40,9 +40,9 @@
     <meta property="og:description" content="{{ site.description | escape }}" />
   {% endif %}
   {% if page.image %}
-    <meta property="og:image" content="{{ page.image.file }}" />
+    <meta property="og:image" content="{{ page.image }}" />
   {% else if post.image %}
-    <meta property="og:image" content="{{ post.image.file }}" />
+    <meta property="og:image" content="{{ post.image }}" />
   {% else %}
     <meta property="og:image" content="/assets/img/cover-image.jpg" />
   {% endif %}
