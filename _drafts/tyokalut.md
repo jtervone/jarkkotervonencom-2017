@@ -20,3 +20,6 @@ Tässäpä sekalainen setti työkaluja webbidevaukseen. Lähinnä omaan käyttö
   - [Shotsnapp](https://shotsnapp.com/)
 - Database
   - [DBDiff](https://dbdiff.github.io/DBDiff/)
+- Server
+  - [Ansible](https://www.ansible.com/)
+  - [Docker](https://www.docker.com/)
