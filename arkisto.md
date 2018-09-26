@@ -3,6 +3,8 @@ layout: page
 title: Blogitekstit kategorioittain
 description: Tässä blogini kirjoitukset aihealueittain. Erilliset sivut löytyvät navigaatiopalkista.
 nav_text: Arkisto
+image: /assets/img/calendar.jpg
+image_text: Kalenteri
 permalink: /arkisto/
 ---
 Tässä blogista löytyvät postaukset aihealueittain. Parempi arkistosivu on työnalla.

@@ -1,16 +1,12 @@
 <!DOCTYPE html>
-<html ⚡ lang="{{ page.lang | default: site.lang | default: "fi" }}" itemscope itemtype="http://schema.org/WebPage">
+<html lang="{{ page.lang | default: site.lang | default: "fi" }}" itemscope itemtype="http://schema.org/WebPage">
   {% include head.html %}
   <body>
     <div class="container">
-      <div class="left">
-        {% include navigation.html %}
-      </div>
-      <div class="right">
-        <div class="content">
-          {{ content }}
-        </div>
-      </div>
+      {% include header.html %}
+      {% include navigation.html %}
+
+      {{ content }}
     </div>
     {% include footer.html %}
   </body>

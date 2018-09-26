@@ -3,9 +3,13 @@ layout: page
 title: Sivuston muutoshistoria
 description: Blogiin tehdyt muutokset. Lähinnä vain omaa käyttöäni varten. Muille tästä tuskin on iloa.
 nav_text: Muutoshistoria
+image: /assets/img/books.jpg
+image_text: Kirjasto
 permalink: /muutoshistoria/
 ---
 
+- __26.9.2018:__
+  - Blogin ulkoasu muutettu. Vielä muutamia pieniä korjauksia jäi tehtäväksi tulevaisuuteen.
 - __5.3.2018:__
   - [Tervahiihto 2018](/2018/03/05/tervahiihto-2018/) -kirjoitus lisätty
   - Rikkinäisiä linkkejä korjailtu ja poisteltu kirjoituksista

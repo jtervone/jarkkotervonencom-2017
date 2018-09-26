@@ -2,27 +2,18 @@
 layout: default
 ---
 
-<div class="article">
-  <h1><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h1>
-  <div class="info">
-    <div class="date">Kirjoitettu: {{ page.date | date: "%d.%m.%Y %H:%M" }}</div>
-    <div class="tags">Tagit: {% for tag in page.tags %}<div class="tag">{{ tag }}, </div>{% endfor %}</div>
-  </div>
-  {% if page.image %}
-    <div class="article-image">
-      <amp-img src="{{ page.image }}" alt="{{ page.image_text }}" width="4" height="3" layout="responsive">
-        <noscript><img src="{{ page.image }}" alt="{{ page.image_text }}" /></noscript>
-      </amp-img>
-    </div>
-  {% endif %}
-  <div class="story">{{ page.content }}</div>
-  <div class="comments">
-    <amp-iframe width=600 height=140
-      layout="responsive"
-      sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
-      resizable
-      src="https://pit.rcode.fi/disqus/jarkkotervonen.com/#{{ page.url | escape }}">
-      <div overflow tabindex=0 role=button aria-label="">Lue lisää...</div>
-    </amp-iframe>
-  </div>
-</div>
+<article>
+  <section class="header {% if page.image %}with-image{% endif %}" {% if page.image %}style="background-image: url({{ page.image }});"{% endif %}>
+    <h1><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h1>
+    <p class="descript">
+        {{ page.date | date: "%d.%m.%Y %H:%M" }}<br />
+        {% for tag in page.tags %}{{ tag }} {% endfor %}
+    </p>
+  </section>
+
+  <section>
+    {{ page.content }}
+  </section>
+
+  {% include comments.html %}
+</article>

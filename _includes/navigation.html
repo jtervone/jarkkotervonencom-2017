@@ -1,22 +1,11 @@
-<nav>
-  <div class="logo">
-    <a href="{{ "/" | relative_url}}">
-      <amp-img src="/assets/img/logo.png" alt="Jarkko Tervonen" width="87" height="87" layout="fixed">
-        <noscript><img src="/assets/img/logo.png" alt="Jarkko Tervonen" /></noscript>
-      </amp-img>
-    </a>
-    <h1><a href="{{ "/" | relative_url}}">{{ site.title | escape }}</a></h1>
-
-    <p>{{ site.description | escape }}</p>
-  </div>
-
-  <ul>
-    <li> <a href="{{ "/" | relative_url}}"><span>Etusivu</span></a> </li>
+<nav class="navbar">
+  <ul class="navbar-list">
+    <li class="navbar-item"> <a href="{{ "/" | relative_url}}" class="navbar-link">Etusivu</a> </li>
     {% for my_page in site.pages %}
       {% if my_page.title %}
-        <li> <a href="{{ my_page.url | relative_url }}"><span>{{ my_page.nav_text | escape }}</span></a> </li>
+        <li class="navbar-item"> <a href="{{ my_page.url | relative_url }}" class="navbar-link">{{ my_page.nav_text | escape }}</a> </li>
       {% endif %}
     {% endfor %}
-    <li> <a href="{{ "/feed.xml" | relative_url }}"><span>RSS-syöte</span></a> </li>
+    <li class="navbar-item"> <a href="{{ "/feed.xml" | relative_url }}" class="navbar-link">RSS-syöte</a> </li>
   </ul>
 </nav>

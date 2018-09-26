@@ -1,15 +1,9 @@
-<amp-analytics type="googleanalytics">
-  <script type="application/json">
-  {
-    "vars": {
-      "account": "UA-639843-5"
-    },
-    "triggers": {
-      "trackPageview": {
-        "on": "visible",
-        "request": "pageview"
-      }
-    }
-  }
-  </script>
-</amp-analytics>
+<!-- Yleinen sivustotagi (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-639843-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-639843-5');
+</script>

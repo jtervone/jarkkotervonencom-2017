@@ -1,14 +1,17 @@
 ---
 layout: default
 ---
-<div class="article">
-  <h2><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h2>
-  {% if page.image %}
-    <div class="article-image">
-      <amp-img src="{{ page.image }}" alt="{{ page.image_text }}" width="4" height="3" layout="responsive">
-        <noscript><img src="{{ page.image }}" alt="{{ page.image_text }}" /></noscript>
-      </amp-img>
-    </div>
-  {% endif %}
-  <div class="story">{{ content }}</div>
-</div>
+
+<article>
+  <section class="header {% if page.image %}with-image{% endif %}" {% if page.image %}style="background-image: url({{ page.image }});"{% endif %}>
+    <h1><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h1>
+    <p class="descript">
+      {{ page.date | date: "%d.%m.%Y %H:%M" }}<br />
+      {% for tag in page.tags %}{{ tag }} {% endfor %}
+    </p>
+  </section>
+
+  <section>
+    {{ content }}
+  </section>
+</article>
