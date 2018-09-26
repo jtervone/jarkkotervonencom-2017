@@ -20,6 +20,4 @@ Tässä on mennyt arki-illat niputtaessa autotallissa levällään olevaa vuoden
 
 Viikolla ostin Motonetistä STP:n jäähdyttimen puhdistusainetta. Huuhtelin jäähdyttimen ensiksi vedellä ja lopulta pistin jäähdyttimeen tuon puhdistusaineen ja vettä perään. Purkin kyljen ohje kertoi, että moottoria tulisi käyttää puolituntia tyhjäkäynnillä ja tämän jälkeen puhdistaa jäähdytin vedellä ennenkä uudet jäähdytinnesteet laitetaan sisään. Näinhän minä tein ja kuvasin alla olevan videon. Valitettavasti pystyasennossa, kun oli tarkoitus Instagrammiin ladata tämä video, mutta päätinkin laittaa Youtubeen.
 
-<amp-iframe width="560" height="315" sandbox="allow-scripts allow-same-origin" layout="responsive" src="https://www.youtube.com/embed/aSF9RAv3iIA?ecver=1">
-  <noscript><iframe src="https://www.youtube.com/embed/aSF9RAv3iIA?ecver=1" width="560" height="315"></iframe></noscript>
-</amp-iframe>
+<iframe src="https://www.youtube.com/embed/aSF9RAv3iIA?ecver=1" width="560" height="315"></iframe>

@@ -21,15 +21,11 @@ Vaan eihän siinä niin käynyt. Tällä kertaa emme päässeet Rokualle kuin va
 
 Seuraavaksi aloimme kehittelemään plan-b:tä. Yöpyminen jossain lähempänä Rokuan kylpylää tai sitten ajamme Rokuan eteläpuolelle etsimään leiriytymispaikkaa. Päätimme tässä vaiheessa oikaista kunnolla ja suunnata Pitkäjärven kodalle, minkä kohdalla oli kartassa telttapaikan kuva.
 
-<amp-img src="/assets/img/posts/tuikun-valossa.jpg" alt="Tuikun valossa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/tuikun-valossa.jpg" alt="Tuikun valossa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/tuikun-valossa.jpg" alt="Tuikun valossa" />
 
 Pitkäjärven parkkipaikalta matkaa kodalle oli vajaan kilometrin verran. Väsymys alkoi painamaan, kun autossa oli tottunut jo niin lämpimiin oloihin. Kävelimme kuitenkin kodalle ja pystytimme teltan lähelle järven rantaa. Iltapalaksi söimme vain leivät, oluen ja muutaman palan juustoa Elvis-viinin kanssa. Sitten oltiinkin valmiita nukkumaan.
 
-<amp-img src="/assets/img/posts/huomenta.jpg" alt="KHuomenta RokuaUVA" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/huomenta.jpg" alt="Huomenta Rokua" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/huomenta.jpg" alt="Huomenta Rokua" />
 
 Aamulla heräsimme seitsemän aikaan ja alkoi laiskottamaan eikä oikein metsässä tallusteleminen enää kiinnostanut. Olin luvannut mennä illaksi auttamaan vanhempia risusavotassa. Sama kai se on lähteä jo nyt heti aamusta puita kaatamaan ettei tarvitse sunnuntaina jatkaa.
 

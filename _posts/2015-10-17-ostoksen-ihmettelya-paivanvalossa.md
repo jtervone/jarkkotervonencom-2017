@@ -20,37 +20,25 @@ comments: []
 
 Ostos on pihassa ja aurinko paistaa. Nyt on hyvä ilma tarkistella mitä on tullut ostettua. Päällisin puolin pelleistä löytyy pari reikää, mihin ruoste on alkanut pesiytymään.
 
-<amp-img src="/assets/img/posts/reika-sivupellissa.jpg" alt="Reikä pellissä" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/reika-sivupellissa.jpg" alt="Reikä pellissä" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/reika-sivupellissa.jpg" alt="Reikä pellissä" />
 
 Lienee tässä ministeritason autossa olleen lippusalko näillä kohdin :)
 
-<amp-img src="/assets/img/posts/reika-tuulilasin-kulmassa.jpg" alt="Reikä tuulilasin kulmassa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/reika-tuulilasin-kulmassa.jpg" alt="Reikä tuulilasin kulmassa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/reika-tuulilasin-kulmassa.jpg" alt="Reikä tuulilasin kulmassa" />
 
 Tästä taitaa valua vesi sisälle asti, koska apukuskin puolella kasvoi sammal matossa ja näyttipä lattiassa olevan reikäkin.
 
-<amp-img src="/assets/img/posts/ford-keulateksti.jpg" alt="Keulateksti" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/ford-keulateksti.jpg" alt="Keulateksti" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/ford-keulateksti.jpg" alt="Keulateksti" />
 
 Ilahduttavaa on se, että kaikki listat on tallella ja kohtalaisen hyvässä kunnossa. Mukaan tuli umpio paikallaan olevan veden runteleman umpion tilalle. Lisäksi mukana oli jarruvaloille lasit.
 
-<amp-img src="/assets/img/posts/etupenkit-ennen.jpg" alt="Etupenkit ennen" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/etupenkit-ennen.jpg" alt="Etupenkit ennen" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/etupenkit-ennen.jpg" alt="Etupenkit ennen" />
 
-<amp-img src="/assets/img/posts/mittaristo-ennen.jpg" alt="Mittaristo ennen" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/mittaristo-ennen.jpg" alt="Mittaristo ennen" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/mittaristo-ennen.jpg" alt="Mittaristo ennen" />
 
 Sisältä Granada oli eläneen näköinen, mutta verhoilut olivat pääosin ehjiä. Mittarit toimivat, mutta valoja näissä ei paljon näkynyt.
 
-<amp-img src="/assets/img/posts/ford-v6-2300-ennen-1.jpg" alt="Moottori ennen" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/ford-v6-2300-ennen-1.jpg" alt="Moottori ennen" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/ford-v6-2300-ennen-1.jpg" alt="Moottori ennen" />
 
 Konepellin alta ei löytynyt mitään yllätyksiä. Huonommassa kunnossa olevia konehuoneita on näkynyt.
 

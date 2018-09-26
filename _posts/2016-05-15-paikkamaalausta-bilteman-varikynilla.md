@@ -17,25 +17,19 @@ comments: []
 ---
 Käytön jälkiä naarmujen muodossa tahtoo tulla pyöriin vaikka kuinka niitä yrittäisi vältellä. Nykyään yleisissä alumiinisissa rungoissa naarmut eivät niin vakavia ole kuin teräsrungoissa, mutta onhan nuo isoimmat hyvä peitellä. Ei ainakaan pistä silmään niin kovasti.
 
-<amp-img src="/assets/img/posts/varikynan-karki.jpg" alt="Värikynän kärki" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/varikynan-karki.jpg" alt="Värikynän kärki" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/varikynan-karki.jpg" alt="Värikynän kärki" />
 
 Ostin kokeeksi [Bilteman mattamustan värikynän](http://www.biltema.fi/fi/Autonhoito/Maalit-ja-lakat/Varikyna/) sekä lakkaa. Nämä on tarkoitettu juuri pienien naarmujen paikkailuihin. Kynässä on kynän lisäksi pensseli, jolla voi isompia naarmuja paikkailla. Hintaa kynällä oli 6,99 euroa.
 
 Testasin kynää ensiksi Canyonin maastopyörän runkoon, joka on kiiltävämpi kuin Cuben runko. Puhdistin aluksi maalattavat alueet jarrujen puhdistusaineella, jonka jälkeen maalasin naarmun pensselillä.
 
-<amp-img src="/assets/img/posts/canyon-ennen-jalkeen.jpg" alt="Canyon ennen ja jälkeen" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/canyon-ennen-jalkeen.jpg" alt="Canyon ennen ja jälkeen" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/canyon-ennen-jalkeen.jpg" alt="Canyon ennen ja jälkeen" />
 
 Maali oli mattamustaa ja tarkoitus oli vetää vielä päälle lakka, mutta aika lähellä alkuperäistä väriä päästiin tuolla mattamustalla.
 
 Cubessa vuorostaan oli hieman erilainen maalipinta. Tämä ei ole kiiltävää eikä mattaa, joten en ollut aivan varma mitä tästä tulee. Luultavasti tämä ei ainakaan huonommaksi muutu.
 
-<amp-img src="/assets/img/posts/cube-ennen-jalkeen.jpg" alt="Cube ennen ja jälkeen" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/cube-ennen-jalkeen.jpg" alt="Cube ennen ja jälkeen" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/cube-ennen-jalkeen.jpg" alt="Cube ennen ja jälkeen" />
 
 Yllättävän hyvähän tästäkin tuli. Naarmut eivät tietysti olleet isoja, mutta kun olivat tuossa yläputkessa ja näkösällä aina ajaessa niin päätin nekin häivyttää pois.
 

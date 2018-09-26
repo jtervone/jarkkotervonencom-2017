@@ -17,9 +17,7 @@ comments: []
 ---
 Viimeisen viikon aikana onkin hajonnut jokaisesta pyörästä jotain. Viime viikonloppuna päätin tehdä neitsytmatkan kunnostamallani DBS Golden Flashillä paikalliseen kuppilaan. Ensimmäinen kilometri menikin mallikkaasti kruisaillessa, kunnes vapaaratas alkoi lyömään tyhjää. No eipä tuokaan takavanne täyskuntoisena ollut romulavalle joutunut.
 
-<amp-img src="/assets/img/posts/shimano-deore-xt-takavaihtaja-vauriot-e1469740585105.jpg" alt="Shimano Deore XT -takavaihtajan vauriot" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/shimano-deore-xt-takavaihtaja-vauriot-e1469740585105.jpg" alt="Shimano Deore XT -takavaihtajan vauriot" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/shimano-deore-xt-takavaihtaja-vauriot-e1469740585105.jpg" alt="Shimano Deore XT -takavaihtajan vauriot" />
 
 Alkuviikolla kurvailin Köykkyriin Canyonilla. Tunnin verran rymisteltiin metsässä, kunnes huomasin, että satulatolppa on vääntynyt. Luultavasti tämä tapahtui jo edellisellä viikolla Iinatissa, kun tein alastulon jalat poissa polkimilta. Ihme ettei käynyt pahemmin. Myös takavaihtaja on ottanut osumaa eikä vaihtaja osu enää aivan jokaiselle kiekolle.
 

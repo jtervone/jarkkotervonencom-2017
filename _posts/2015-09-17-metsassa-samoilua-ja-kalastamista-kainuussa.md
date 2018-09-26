@@ -24,9 +24,7 @@ Matoa koukussa ei tarvinnut uittaa vedessä minuuttiakaan, kun koho alkoi sukelt
 
 [Kansalaisen karttapaikan](http://kansalaisen.karttapaikka.fi/) muunnostyökalun avulla koordinaatit saatiin muutettua ETRS89-muotoon, joka vastaa lähestulkoon WGS84-koordinaatistoa.
 
-<amp-img src="/assets/img/posts/siirasoja.jpg" alt="Siirasoja" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/siirasoja.jpg" alt="Siirasoja" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/siirasoja.jpg" alt="Siirasoja" />
 
 Metsään lähtiessä unohtui ottaa kamera mukaan. Harmittaa vieläkin, koska pimeisiin notkoihin tuli kivasti valoa ja varjoja aurinkoisen päivän johdosta. Vieressä iPhonen kameralla otettu kuva Siirasojasta. Melkein kuin jostain viidakosta.
 
@@ -36,12 +34,8 @@ Vaalasta takaisin Kempeleeseen ajettiin pienen mutkan kautta. Vesiputoukset ovat
 
 Hepokönkään vesiputous oli vähän liiankin helposti saavutettava. Asfalttitieltä oli matkaa putoukselle noin 600 metriä. Tietysti on kiva, että liikkumarajoitteisetkin pääsevät katsomaan näitä luonnon nähtävyyksiä. Putouksen alle pääsee vaikka pyörätuolilla kelaamaan, joskin lankutettu kulku-ura on sateella aika liukas.
 
-<amp-img src="/assets/img/posts/hepokongas-polku.jpg" alt="Polku Hepokönkäälle" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/hepokongas-polku.jpg" alt="Polku Hepokönkäälle" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/hepokongas-polku.jpg" alt="Polku Hepokönkäälle" />
 
-<amp-img src="/assets/img/posts/hepokongas.jpg" alt="Hepoköngäs" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/hepokongas.jpg" alt="Hepoköngäs" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/hepokongas.jpg" alt="Hepoköngäs" />
 
 Ensi kerralla kalastukseen enemmän aikaa ja evästä matkalle. Myös [Rokuan](http://www.luontoon.fi/retkikohteet/kansallispuistot/rokua/Sivut/Default.aspx) maastoon pitää päästä. Ainakin kiertämään pohjoisempi puolikas Keisarinkierroksesta, joka on käymättä.

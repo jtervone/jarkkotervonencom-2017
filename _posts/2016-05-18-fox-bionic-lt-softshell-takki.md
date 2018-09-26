@@ -19,16 +19,12 @@ Olen tässä pidemmän aikaa etsinyt sopivaa sateen kestävää takkia. Kun koko
 
 Foxin tuotteet on sellaisia, että niillä on lähes sama hinta joka puolella maailmaa. Alennusmyynneistä löytyi lähes puoleen hintaan näitä Bionic LT Softshell -takkeja, mutta tarpeeksi isoja kokoja ei löytynyt. Marssin sitten Motonettiin ja ostin takin pois.
 
-<amp-img src="/assets/img/posts/fox-bionic-softshell-takki.jpg" alt="Fox Bionic Softshell -takki" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/fox-bionic-softshell-takki.jpg" alt="Fox Bionic Softshell -takki" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/fox-bionic-softshell-takki.jpg" alt="Fox Bionic Softshell -takki" />
 
 Fox Bionic LT Softshell -takki on jämäkän tuntuinen. Speksit lupaa 10K/10K takin vedenpitävyydeksi ja hengittävyydeksi. Vetoketjut ovat kumimaisia ja tuntuvat hyvin tiiviiltä. Myös hihojen suita voi kiristää tarranauhoilla, jolloin vesi ei pääse kiipeämään sitä kautta takin sisään.
 
 Takista löytyy kaksi sivutaskua, joista toisessa on paikka puhelimelle ja reikä sisäpuolelle kuulokkeita varten. Kolmas tasku löytyy selän puolelta.
 
-<amp-img src="/assets/img/posts/fox-bionic-softshell-takki-taskut.jpg" alt="Fox Bionic Softshell" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/fox-bionic-softshell-takki-taskut.jpg" alt="Fox Bionic Softshell" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/fox-bionic-softshell-takki-taskut.jpg" alt="Fox Bionic Softshell" />
 
 Tiistaina ajattelin pitää etäpäivää, mutta aamulla alkoi satamaan sopivasti, joten päätin fillaroida töihin.

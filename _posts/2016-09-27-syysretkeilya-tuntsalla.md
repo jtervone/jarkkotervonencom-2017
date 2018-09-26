@@ -25,21 +25,15 @@ Ilta oli hieman kostea. Pieniä vesikuuroja pyyhkäisi Tuntsan yli tasaisin väl
 
 Aamulla teimme teltalla aamupalan ja päätimme suunnata yhdeksi yöksi Murhahaaran autiotuvalle samaa reittiä kuin viime vuonnakin. Eli palasimme autolla lähemmäksi erotusaidan lähistölle, josta jatkoimme jalan kohti Murhahaaraa.
 
-<amp-img src="/assets/img/posts/pitkospuut.jpg" alt="Pitkospuut Tuntsalla" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/pitkospuut.jpg" alt="Pitkospuut Tuntsalla" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/pitkospuut.jpg" alt="Pitkospuut Tuntsalla" />
 
 Edellisenä vuonna retkeämme ennen satoi todella rankasti edellisenä päivänä. Metsä oli paljon märempi kuin nyt vaikka kesä on ollut paljon kosteampi. Varusteet tuntuivat toimivan paremmin kuin olin ajatellut. Jopa matkassa olleella ensikertalaisella ei ollut ongelmia ostamiensa tai lainaamiensa varusteiden kanssa.
 
-<amp-img src="/assets/img/posts/maaruska.jpg" alt="Maaruskaa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/maaruska.jpg" alt="Maaruskaa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/maaruska.jpg" alt="Maaruskaa" />
 
 Pidimme yhden pidemmän ruokatauon Tuulenkaatomaan maisemia katsellessa. Peruslounas eli Lämminkuppi, leipää ja kahvit. Ruska on ollut tänä syksynä hieman hillitympi verrattuna viime vuoteen. Luin jostakin, että osa syynä saattaisi olla koivuja vaivanneet sienitaudit. Maasta sentään löytyi ruskanvärejä sitäkin enemmän. Tai ehkä niitä ei viime kerralla huomioinut, koska lehtipuut loistivat ruskan väreissä ja varastivat huomion.
 
-<amp-img src="/assets/img/posts/murhahaaran-autiotupa.jpg" alt="Murhahaaran autiotupa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/murhahaaran-autiotupa.jpg" alt="Murhahaaran autiotupa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/murhahaaran-autiotupa.jpg" alt="Murhahaaran autiotupa" />
 
 Murhahaaran autiotuvalle oli jo ennen meitä saapunut metsästäjä koirineen, joka oli lämmitellyt tuvan valmiiksi. Siirryimme kuitenkin nuotiopaikalle keittelemään pannullisen kahvia ja istuskelemaan hetkeksi ennenkä siirryimme sisälle valmistamaan ruokaa. Ruuaksi teimme italian patapussin, jonka kyytipojaksi mustapapuja sekä linssejä. Pataruuat ovat todella maittavia näin luonnossa.
 
@@ -47,21 +41,15 @@ Ruuan jälkeen ei tarvinnut kovin kauaa odotella, että alkoi nukkumaan meno hou
 
 Seuraavana päivänä suuntasimme takaisin autolle. Käytännössä kuljettiin sama reitti ja pidettiin tauko lähes samalla paikalla kuin tullessakin. Paluumatka meni nopeasti ja olimme jo kahden perästä autolla.
 
-<amp-img src="/assets/img/posts/porot-kuskoivalla-1.jpg" alt="Porot Kuskoivalla" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/porot-kuskoivalla-1.jpg" alt="Porot Kuskoivalla" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/porot-kuskoivalla-1.jpg" alt="Porot Kuskoivalla" />
 
 Telttailu ei vieläkään kiinnostanut ensikertalaista joten siirryimme autolla Nuoluskurun kodalle, jossa valmistimme kasvishernekeittoa lounaaksi ja suuntasimme Kuskoivan laelle katsomaan auringonlaskua. Matkalla laelle isohko porotokka väisti meitä siirtyen hetkeksi sivuun laiduntamaan.
 
-<amp-img src="/assets/img/posts/auringonlasku-2.jpg" alt="Auringonlasku" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/auringonlasku-2.jpg" alt="Auringonlasku" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/auringonlasku-2.jpg" alt="Auringonlasku" />
 
 Auringonlaskua saimme odotella melkein kolmetuntia, kun matka tunturin päälle sujui huomattavasti nopeammin kuin ajattelimme. Onneksi mukaan tuli kiikarit, jolla tarkkailimme mitä naapurituntureilla tapahtuu ja katselimme hieman pidemmällekin. Harmikseni jossain vaiheessa onnistuin särkemään kamerani linssin tällä reissulla. Kuvasin jalustalta enkä omasta mielestäni ole mihinkään kameraani lyönyt. Linssi vain halkesi itsestään.
 
-<amp-img src="/assets/img/posts/taysikuu-maanvarjo.jpg" alt="Täysikuu ja maan varjo" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/taysikuu-maanvarjo.jpg" alt="Täysikuu ja maan varjo" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/taysikuu-maanvarjo.jpg" alt="Täysikuu ja maan varjo" />
 
 Auringonlaskun lisäksi saimme ihastella täysikuun nousua maanvarjon takaa. Kävipä meillä tuuri. Tämän jälkeen palasimme kodalle ja teimme vähän iltapalaa. Ilma tuntui kylmenevän, joten pidimme vähän tulia, jotta nukahtaminen sujuisi helpommin. Kota paljastui yllättävän reikäiseksi ja pieni veto kävi vähän vaikka mistä raosta. Pakkastakin oli puolenkymmentä astetta, joten pistin vielä aamuyöstä tulet, jotta herääminen olisi mukavempaa.
 

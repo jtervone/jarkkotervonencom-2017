@@ -28,33 +28,25 @@ Google Play Musicin käyttöliittymä on selkeä ja musiikkia pääsee helposti
 
 Rekisteröitymisen jälkeen pari kertaa kuunneltuani Kollaa kestää -bändin levyt läpi, alkoi aika olemaan valmis seuraavalle bändille. Totuttuun tapaan katsomaan mitä palvelu itse ehdottaisi. Pieni pettymys on ettei Googlen samankaltaisten artistien lista onnistu löytämään yhtään suomalaista artistia eikä artistit ehkä muutenkaan osu aivan kohdalleen.
 
-<amp-img src="/assets/img/posts/google-play-kollaa-kestaa.png" alt="Google Play Musicin lista Kollaa kestää -bändiä muistuttavista bändeistä" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/google-play-kollaa-kestaa.png" alt="Google Play Musicin lista Kollaa kestää -bändiä muistuttavista bändeistä" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/google-play-kollaa-kestaa.png" alt="Google Play Musicin lista Kollaa kestää -bändiä muistuttavista bändeistä" />
 
 Google Play Musicin lista Kollaa kestää -bändiä muistuttavista artisteista
 
 ja sitten Spotifyn vastaava lista:
 
-<amp-img src="/assets/img/posts/spotify-kollaa-kestaa.png" alt="Spotifyn lista Kollaa kestää -bändiä muistuttavista bändeistä" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/spotify-kollaa-kestaa.png" alt="Spotifyn lista Kollaa kestää -bändiä muistuttavista bändeistä" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/spotify-kollaa-kestaa.png" alt="Spotifyn lista Kollaa kestää -bändiä muistuttavista bändeistä" />
 
 Spotifyn lista Kollaa kestää -bändiä muistuttavista artisteist
 
 Spotify vei kyllä tämän selvästi. Sama toistuu myös ulkomaisten artistien kohdalla.
 
-<amp-img src="/assets/img/posts/google-play-kruiz.png" alt="Google Play Musicin lista Kruizia muistuttavista bändeistä" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/google-play-kruiz.png" alt="Google Play Musicin lista Kruizia muistuttavista bändeistä" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/google-play-kruiz.png" alt="Google Play Musicin lista Kruizia muistuttavista bändeistä" />
 
 Google Play Musicin lista Kruiz-bändiä muistuttavista artisteista
 
 Ja sama lista Spotifyltä:
 
-<amp-img src="/assets/img/posts/spotify-kruiz.png" alt="Spotifyn lista Kruizia muistuttavista bändeistä" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/spotify-kruiz.png" alt="Spotifyn lista Kruizia muistuttavista bändeistä" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/spotify-kruiz.png" alt="Spotifyn lista Kruizia muistuttavista bändeistä" />
 
 Spotifyn lista Kruiz-bändiä muistuttavista artisteista
 

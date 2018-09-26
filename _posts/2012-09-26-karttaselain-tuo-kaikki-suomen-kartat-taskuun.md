@@ -18,9 +18,7 @@ comments: []
 ---
 Viikonloppuna kuulin sovelluksesta, mistä olen vain haaveillut. Olen halunut [Retkikartta.fi-palvelusta](http://www.retkikartta.fi/) puhelimeen helppokäyttöisenä sovelluksena. Retkikartasta löytyy maastokartat sekä erilaisia kohteita ja retkeilyreittejä. Retkikartta.fi-palvelu päivittyi syyskuun alussa, mutta edelleenkään sen käyttäminen kännykällä tai tableteilla ei ole mielekästä.
 
-<amp-img src="/assets/img/posts/karttaselain-galaxy-tab-89.jpg" alt="Karttaselain Galaxy Tab 8.9" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/karttaselain-galaxy-tab-89.jpg" alt="Karttaselain Galaxy Tab 8.9" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/karttaselain-galaxy-tab-89.jpg" alt="Karttaselain Galaxy Tab 8.9" /></noscript>
 
 Viikonloppuna kuulin oululaisen AccelBit Oy:n [Karttaselain](http://www.karttaselain.fi/) nimisestä sovelluksesta, joka on saatavilla lähes jokaiselle Suomessa käytössä olevalle (äly)puhelinmallille sekä Android- ja iPad-tableteille. Karttaselaimessa on Suomen maastokartat mittakaavassa 1:2000 - 1:800000 sekä Norjan maastokartta.
 
@@ -30,8 +28,6 @@ Yllämainittujen ominaisuuksien lisäksi Karttaselain sisältää paljon muitaki
 
 Karttaselain on kohtalaisen kevyt ja pyörii siedettävästi jopa hitaassa Samsung Galaxy Tab 8.9:ssä. iPhonella softa pyöri todella jouhevasti. Ainoa puute iPhone-versiossa oli se, ettei softaa voinut käyttää vaakasuunnassa eikä kohdetyypeistä voi valita kuin yhden kerrallaan näytettäväksi esim. vaellusreitit tai autiotuvat.
 
-<amp-img src="/assets/img/posts/karttaselain-iphone.png" alt="Karttaselain iPhone" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/karttaselain-iphone.png" alt="Karttaselain iPhone" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/karttaselain-iphone.png" alt="Karttaselain iPhone" /></noscript>
 
 Valitettavasti kännyköissä ja tableteissa pyörivät karttaohjelmat eivät vielä käytettävyydeltään korvaa paperikarttoja. Virrankulutus on sitä luokkaa, ettei karttaa useamman päivän reissulla kannata kovin montaa kertaa puhelimella käyttää eikä kännykkäverkkojen kattavuus ole sitä luokkaa, että missä vain voisi kartat ladata. Mutta hätätapauksiin ja pienemmille retkille karttasovellukset ajavat asiansa. Pari kertaa tälläinen maastokarttasovellus olisi taannut sen, että olisin päässyt kuivin jaloin perille.

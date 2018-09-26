@@ -22,9 +22,7 @@ Ruokatunnilla kävin hakemassa ruokaa lähimmästä marketista polkuja pitkin aj
 
 Kun tehtaan pilli soi, hyppäsin pyörän selkään. Unohdin jostain syystä tämän asfaltinvälttelyhaasteen, joten parisataa ensimmäistä metriä ajoin pyörätietä vaikka vieressä meni kuntopolku. Tämän jälkeen käskin pyöräni kohti metsäpolkuja.
 
-<amp-iframe width="560" height="315" sandbox="allow-scripts allow-same-origin" layout="responsive" src="https://www.strava.com/activities/686123891/embed/6ba77b4ec4c02fb9c7f791c39219c22636987d30">
-  <noscript><iframe src="https://www.strava.com/activities/686123891/embed/6ba77b4ec4c02fb9c7f791c39219c22636987d30" width="560" height="315"></iframe></noscript>
-</amp-iframe>
+<iframe src="https://www.strava.com/activities/686123891/embed/6ba77b4ec4c02fb9c7f791c39219c22636987d30" width="560" height="315"></iframe>
 
 Ajoin moottoritien länsipuolta Elektroniikkatieltä aina Iskoon asti, missä siirryin moottoritien itäpuolelle. Iskosta ajelin polkuja pitkin Puolivälinkankaalle, missä kompassi sekosi täysin ja ajoin vahingossa Välivainiolle vaikka piti ajaa vesitornin ohi Hintan suuntaan. Välivainion seikkailussa tuli turhia asfalttikilometrejä vaikka sielläkin polkuja pitkin ajelin.
 
@@ -34,9 +32,7 @@ Lintulan kohdilla taas alitin moottoritien, kun siirryin Hiirosen puolelle. Nest
 
 Kaakkurissa vaihdoin taas moottoritien toiselle puolelle ja ajelin radanvartta pitkin Huhtakalliontielle mistä jatkoin pyörätietäpitkin Ouluntullinnesteen parkkipaikalle. Parkkipaikalta etsin polun, mistä pääsisi taas moottoritien meluvallin päälle ajamaan. Reitiltä löytyikin minulle tuntematon alikulku, missä kuvasin pyöräni.
 
-<amp-img src="/assets/img/posts/canyon-yellowstone-al-tunneli.jpg" alt="Canyon Yellowstone AL - Tunneli" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/canyon-yellowstone-al-tunneli.jpg" alt="Canyon Yellowstone AL - Tunneli" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/canyon-yellowstone-al-tunneli.jpg" alt="Canyon Yellowstone AL - Tunneli" />
 
 Ouluntullin ja Kokkokankaantien välisellä pätkällä oli metsässä mukavaa polkua ajettavaksi. Metsästä tullessani ajoin pikku pätkän Kokkokankaan tietäpitkin ja suuntasin peltojen läpi kulkevalle tielle. Leirintäalueen ohitettua jatkoin radan vartta pitkin Komeetantielle. Komeetan tieltä matka jatkui pyörätietä pitkin Pirilän vieressä olevaan kuusimetsään, mistä löytyy myös mukavaa polkua ajettavaks Hovilantien päähän asti. Ajelin Hovilantietä pitkin terveyskeskuksen kulmille, mistä pääsinkin polkuja pitkin Sarkkirannan Siwan lähelle asti. Vähän pyörätietä ja pari polkua ja tämän jälkeen oltiinkin jo kotipihassa.
 

@@ -20,18 +20,10 @@ Muistelin tuossa eilen valokuva-albumin kautta ensimmäistä patikointiretkeämm
 
 Tässä muutamia parhaita kuvia retkeltä ja lisää löytyy tuolta [Martimoaapa.comin jutusta](http://www.martimoaapa.com/blogi/patikointiretken-ensimmainen-paiva-lokakuussa-2011.html).
 
-<amp-img src="/assets/img/posts/jaatynyt-lampi.jpg" alt="Jäätynyt lampi Kivaloilla" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/jaatynyt-lampi.jpg" alt="Jäätynyt lampi Kivaloilla" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/jaatynyt-lampi.jpg" alt="Jäätynyt lampi Kivaloilla" />
 
-<amp-img src="/assets/img/posts/kivalon-autiotupa.jpg" alt="Kivalon autiotupa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/kivalon-autiotupa.jpg" alt="Kivalon autiotupa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/kivalon-autiotupa.jpg" alt="Kivalon autiotupa" />
 
-<amp-img src="/assets/img/posts/kuuraista-pirunpeltoa.jpg" alt="Kuuraista pirunpeltoa Kivalon autiotuvalla" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/kuuraista-pirunpeltoa.jpg" alt="Kuuraista pirunpeltoa Kivalon autiotuvalla" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/kuuraista-pirunpeltoa.jpg" alt="Kuuraista pirunpeltoa Kivalon autiotuvalla" />
 
-<amp-img src="/assets/img/posts/lumiaapa.jpg" alt="Lumiaapa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/lumiaapa.jpg" alt="Lumiaapa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/lumiaapa.jpg" alt="Lumiaapa" />

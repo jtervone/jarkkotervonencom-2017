@@ -19,21 +19,15 @@ Moni sanoo, että meille vähän tukevammille ihmisille pyöräily on mitä para
 
 Edellisessä postauksessa jo kerroin saapuneesta Bike Discountin -tilauksesta. Muc-Off -pullo oli pettänyt ja kastellut koko lähetyksen. Vahinkoja ei tullut ja ystävällinen reklamointikirje tuotti tulokseksi 10 euron lahjakortin Bike Discountiin. Tilauksessa tuli uusi mm. satulatolppa sekä takavaihtaja.
 
-<amp-img src="/assets/img/posts/vaantynyt-ritchey-satulatolppa.jpg" alt="Vääntynyt Ritchey-satulatolppa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/vaantynyt-ritchey-satulatolppa.jpg" alt="Vääntynyt Ritchey-satulatolppa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/vaantynyt-ritchey-satulatolppa.jpg" alt="Vääntynyt Ritchey-satulatolppa" />
 
 Olin jo aikaisemmin Canyoniin satulatolpan vaihtanut, kun alkuperäinen vääntyi. Tilalle ostamani Ritcheyn tolppa vääntyi vielä enemmän, kun päätinkin etten kaadu vaan tulen ilman jalkoja hyppyristä alas. Eihän tuo vielä paljoa taipunut, mutta haittasi ajoa, kun aina pelkäsi tolpan lopullista pettämistä. Selailin Bike Discountin tarjontaa ja siellä Thompsonin tolppaa markkinoitiin 40% vahvempana kuin muut tolpat on. Nyt mentiin ihan markkinointipuheiden perusteella tolpan valinnassa. Uusitun tolpan ainoa huono puoli on se, että uuden tolpan rinnalla satula näyttää kovin kuluneelta.
 
-<amp-img src="/assets/img/posts/thompson-satulatolppa.jpg" alt="Thompson-satulatolppa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/thompson-satulatolppa.jpg" alt="Thompson-satulatolppa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/thompson-satulatolppa.jpg" alt="Thompson-satulatolppa" />
 
 Toinen päivityskohde oli takavaihtaja. Entinen normaali Deoren XT -vaihtaja vaihtui Shadow+ -malliin. Olihan tuo entinen aika rupelille vääntynyt. Pitää kokeilla taivutella tuo takaisin entisiin kuosiin, jotta siitä saisi varavaihtajan hyllyyn.
 
-<amp-img src="/assets/img/posts/kolhuja-ottanut-shimanon-deore-xt-takavaihtaja.jpg" alt="Kolhuja ottanut Shimanon Deore XT -takavaihtaja" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/kolhuja-ottanut-shimanon-deore-xt-takavaihtaja.jpg" alt="Kolhuja ottanut Shimanon Deore XT -takavaihtaja" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/kolhuja-ottanut-shimanon-deore-xt-takavaihtaja.jpg" alt="Kolhuja ottanut Shimanon Deore XT -takavaihtaja" />
 
 Uuden vaihtajan säätäminen ei onnistunut väsyneenä ja nälkäisenä loppuillasta. Odottelin perjantai-iltaan ja ajattelin pari asennusolutta ottaa asennusta auttamaan. Eihän tuota ehtinyt ensimmäistäkään hörppyä ottaa, kun vaihtaja vaihtoi nätisti pakan jokaiselle rissalle.
 

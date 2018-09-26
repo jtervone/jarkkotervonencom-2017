@@ -31,14 +31,10 @@ Eli melko tarkkaan vuosi sitten sain käyttööni iPhone 4:sen. Ongelmaksi tuli 
 
 Korttileikkurit ovat kuitenkin ihan turhia ja normaalin SIM-kortin voi aika ronskisti leikata keittiösaksilla MicroSIM-kokoon. Turhat ilmat vain pois piirin ympäriltä ja lovi samaan kulmaan kuin se on normaalissa SIM-kortissa. Alla on kuvassa normaali SIM-kortti ja normaalista kortista leikattu MicroSIM-kortti.
 
-<amp-img src="/assets/img/posts/sim-microsim.jpg" alt="SIM-kortti ja leikattu MicroSIM-kortti" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/sim-microsim.jpg" alt="SIM-kortti ja leikattu MicroSIM-kortti" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/sim-microsim.jpg" alt="SIM-kortti ja leikattu MicroSIM-kortti" /></noscript>
 
 Aluksi kannattaa jättää vähän piirin ympärille muovia ja testata sitä esimerkiksi iPhonen MicroSIM-kelkkaan. Lopputuloksen pitäisi näyttää tältä:
 
-<amp-img src="/assets/img/posts/iphone-microsim-tray.jpg" alt="Leikattu MicroSIM iPhone 4:n MicroSIM-kelkassa" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/iphone-microsim-tray.jpg" alt="Leikattu MicroSIM iPhone 4:n MicroSIM-kelkassa" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/iphone-microsim-tray.jpg" alt="Leikattu MicroSIM iPhone 4:n MicroSIM-kelkassa" /></noscript>
 
 Oma leikelty kortti on kestänyt hyvin vuoden päivät, joten varma tapa tämä on. Tietenkin jokainen leikkaa korttinsa omalla vastuullaan. Ei muuta kuin iloisia askarteluhetkiä :-)

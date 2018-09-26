@@ -19,9 +19,7 @@ Paras ohjaustangon leveys ja muoto tuntuu olevan sellainen asia, joka vaihtelee 
 
 Nettikauppojen tarjouksia selaillessa huomasi, että olisi saanut halvalla jopa hiilikuituisia 680 millimetriä leveitä riser-tankoja samaan hintaan kuin flätimpiä 720 millimetriä leveitä alumiinisia tankoja.
 
-<amp-img src="/assets/img/posts/ritchey-wcs-2x-ohjaustanko-drop.jpg" alt="Ritchey WCS 2X -ohjaustangon drop / rise" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/ritchey-wcs-2x-ohjaustanko-drop.jpg" alt="Ritchey WCS 2X -ohjaustangon drop / rise" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/ritchey-wcs-2x-ohjaustanko-drop.jpg" alt="Ritchey WCS 2X -ohjaustangon drop / rise" />
 
 Valitsin tangoksi [Ritcheyn WCS 2X -tangon](http://ritcheylogic.com/wcs-trail-2x-blatte-mountain-bar), missä saa 5mm dropin tai riserin. Alunperin silmäilin noita 20-30 euron tankoja, mutta piti alkaa hieman grammoja viilaamaan ja valita tämä noin 50 euron hintainen tanko. Tuskin käytössäni eroa huomaa, mutta minkäs teet kun tekee mieli kalliimpaa.
 

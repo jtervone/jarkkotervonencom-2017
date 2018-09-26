@@ -44,14 +44,10 @@ Ford Focuksen takaiskareiden tiesin olevan kiinni vain parilla pultilla ja muute
 
 Lauantaina sitten auto pukille ja oikean puoleinen rengas pois ja iskareita irroittamaan. Alimmainen pultti lähti nätisti pois, mutta ylimmäiset ovat hankalassa paikassa. Ylimmäinen pultti aukesi muutaman kierroken kunnes jumahti täysin. Aikani äherrettyä oli pakko nöyrtyä ja pistää rengas paikalleen ja ajaa auto ulos. Ulkona uskalsi antaa toholla lämpöä vastapuolella olevalle mutterille vaikka se sijaitsikin aika lähellä bensatankin letkuja. Vaikka ulkolämpötila oli karvan verran pakkasen puolella eikä valoa ollut pientä ledilamppua enempää, niin ei se pahasti haitannut. Olisi näitä voinut tehdä aiemminkin ulkona ilman tallia.
 
-<amp-img src="/assets/img/posts/iskunvaimennin-vanha.jpg" alt="Ford Focuksen vanha takaiskunvaimennin" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/iskunvaimennin-vanha.jpg" alt="Ford Focuksen vanha takaiskunvaimennin" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/iskunvaimennin-vanha.jpg" alt="Ford Focuksen vanha takaiskunvaimennin" />
 
 Seuraavana päivänä vuorossa oli vasemman puoleinen iskunvaimennin. Optimistisesti tämänkin vaihto aloitettiin tallissa missä se tehtiin loppuun asti ilman tulitöitä. Oikean puoleisen iskunvaimentimen vaihtamisesta tämä erosi sillä tavalla, että pakoputken päällä oleva lämpösuoja piti poistaa, jotta pääsee ylimmäiseen pulttiin käsiksi. Lämpösuojan poistaminen oli kohtalaisen helppoa, koska ei se enää ollut autossa millään kiinni :-)
 
-<amp-img src="/assets/img/posts/lampokilpi.jpg" alt="Ford Focus: Lämpökilpi" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/lampokilpi.jpg" alt="Ford Focus: Lämpökilpi" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/lampokilpi.jpg" alt="Ford Focus: Lämpökilpi" />
 
 Kirjoitin tästä lähinnä siksi, että en omaa autoista muuta kokemusta kuin mitä ratin takana voi saada. Pari iltaa olen autosta etsinyt tietoa Googlen avulla ja vähän silmäillyt korjausopasta sekä auton alustaa. Ihan loogisia hommia ainakin nämä alustaremontit ovat. Seuraavalla viikolla olisi vuorossa vaihtaa taakse pitkittäistukivarsien etummaiset helat sekä eteen kallistuksen vaimentimien tangot.

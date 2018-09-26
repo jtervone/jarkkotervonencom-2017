@@ -48,6 +48,4 @@ div.-sparrow-quickReplyTextContents {
 
 Tuloksena onkin huomattavasti helppolukuisemmat sähköpostit.
 
-<amp-img src="/assets/img/posts/sparrow-screenshot.png" alt="Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta" width="4" height="3" layout="responsive">
-  <noscript><img src="/assets/img/posts/sparrow-screenshot.png" alt="Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta" /></noscript>
-</amp-img>
+<img src="/assets/img/posts/sparrow-screenshot.png" alt="Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta" /></noscript>
