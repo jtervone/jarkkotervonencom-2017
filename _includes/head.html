@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <link rel="canonical" href="{{ page.url }}" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <meta name="theme-color" content="#54707f">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
@@ -54,9 +54,9 @@
   {% if page.image.file %}<meta name="twitter:image" content="{{ site.url }}{{ page.image.file }}" />{% endif %}
   <meta name="twitter:card" content="summary_large_image" />
 
-  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400' rel='stylesheet' type='text/css'>
 
-  <link rel="stylesheet" href="/assets/css/normalize.css">
+  <link rel="stylesheet" href="/assets/css/normalize.css" defer>
   <link rel="stylesheet" href="/assets/css/skeleton.css">
-  <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="stylesheet" href="/assets/css/custom.css" defer>
 </head>
