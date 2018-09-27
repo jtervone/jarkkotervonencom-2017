@@ -15,7 +15,7 @@ tags:
 - hiihtoretki
 comments: []
 ---
-Viime viikonloppuna kävimme tekemässä parin päivän hiihtoretki Martimoaavalla. Tästä soidensuojelualueesta on tullut yksi lempialueista ja sinne olen tehnyt vajaa kymmenen retkeä. Tällä kertaa tarkoitus oli käydä katsastamassa [Martimo-ojan niittytupa](http://www.martimoaapa.com/martimoaapa/autiotuvat-ja-muut-taukopaikat/martimo-ojan-niittytupa.html), joka on ainoa taukopaikoista, joilla en ole käynyt. Paikalla on ollut niittysauna 1800-luvun lopulta alkaen, kunnes se paloi vuonna 1998. Uusi tupa on rakennettu vuonna 2002. Martimo-ojan niittytuvalle kulkeminen kesällä on hankalaa, joten näin talvella hiihtäen oli helppo käydä katsomassa millainen tupa sieltä löytyy.
+Viime viikonloppuna kävimme tekemässä parin päivän hiihtoretki Martimoaavalla. Tästä soidensuojelualueesta on tullut yksi lempialueista ja sinne olen tehnyt vajaa kymmenen retkeä. Tällä kertaa tarkoitus oli käydä katsastamassa [Martimo-ojan niittytupa](https://www.martimoaapa.com/taukopaikat/martimo-ojan-niittytupa.html), joka on ainoa taukopaikoista, joilla en ole käynyt. Paikalla on ollut niittysauna 1800-luvun lopulta alkaen, kunnes se paloi vuonna 1998. Uusi tupa on rakennettu vuonna 2002. Martimo-ojan niittytuvalle kulkeminen kesällä on hankalaa, joten näin talvella hiihtäen oli helppo käydä katsomassa millainen tupa sieltä löytyy.
 
 <img src="/assets/img/posts/latu-martimoaavalla.jpg" alt="Latu Martimoaavalla" />
 
