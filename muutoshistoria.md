@@ -8,6 +8,8 @@ image_text: Kirjasto
 permalink: /muutoshistoria/
 ---
 
+- __27.9.2018:__
+  - Korjauksia ja mobiilioptimointia.
 - __26.9.2018:__
   - Blogin ulkoasu muutettu. Vielä muutamia pieniä korjauksia jäi tehtäväksi tulevaisuuteen.
 - __5.3.2018:__

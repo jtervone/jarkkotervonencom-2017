@@ -20,22 +20,24 @@ layout: default
   </article>
 {% endfor %}
 
-<div class="pagination">
-  <div class="prev">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">&#8656; Edellinen</a>
-  {% else %}
-    <span class="previous">&#8656; Edellinen</span>
-  {% endif %}
+<section>
+  <div class="pagination">
+    <div class="prev">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">&#8656; Edellinen</a>
+    {% else %}
+      <span class="previous">&#8656; Edellinen</span>
+    {% endif %}
+    </div>
+    <div class="pages">
+      <span class="page_number ">Sivu {{ paginator.page }} / {{ paginator.total_pages }}</span>
+    </div>
+    <div class="next">
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Seuraava &#8658;</a>
+    {% else %}
+      <span class="next">Seuraava &#8658;</span>
+    {% endif %}
+    </div>
   </div>
-  <div class="pages">
-    <span class="page_number ">Sivu {{ paginator.page }} / {{ paginator.total_pages }}</span>
-  </div>
-  <div class="next">
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Seuraava &#8658;</a>
-  {% else %}
-    <span class="next">Seuraava &#8658;</span>
-  {% endif %}
-  </div>
-</div>
+</section>

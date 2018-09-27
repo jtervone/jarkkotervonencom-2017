@@ -1,8 +1,15 @@
 ---
 ---
 
+$text-color: #222;
+$background-color: #2a5062;
+$link-color: #33c3f0;
+
+$color-gray: #eee;
+$color-white: #fff;
+
 body {
-  background-color: #2a5062;
+  background-color: $background-color;
 }
 
 header {
@@ -14,21 +21,22 @@ header {
 
     a, :hover {
       text-decoration: none;
-      color: #000;
+      color: $text-color;
     }
   }
 
   img.logo {
     border-radius: 50%;
     padding: 5px;
-    background-color: #2a5062;
+    background-color: $background-color;
   }
 }
 
 .container {
+  width: 100%;
   max-width: 1200px;
-  padding: 6rem 6rem;
-  background-color: #fff;
+  padding: 2rem 2rem;
+  background-color: $color-white;
 }
 
 article {
@@ -56,18 +64,18 @@ article {
 
     &.header {
       margin-top: 0rem;
-      color: #fff;
+      color: $color-white;
       background-size: cover;
       background-repeat: no-repeat;
       background-position: 50% 50%;
 
       a {
-        color: #000;
+        color: $text-color;
         text-decoration: none;
       }
 
       h1 {
-        color: #000;
+        color: $text-color;
       }
 
       &.with-image {
@@ -76,11 +84,11 @@ article {
         padding-top: 20rem;
 
         h1 {
-          color: #fff;
+          color: $color-white;
         }
 
         a {
-          color: #fff;
+          color: $color-white;
           text-decoration: none;
         }
       }
@@ -90,6 +98,11 @@ article {
 
 /* Larger than phone */
 @media (min-width: 550px) {
+  .container {
+    width: 80%;
+    padding: 6rem 6rem;
+  }
+
   h2 {
     margin-top: 1rem;
   }
@@ -102,10 +115,10 @@ article {
 .navbar {
   display: block;
   height: 6.5rem;
-  background: #fff;
+  background: $color-white;
   z-index: 99;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid $color-gray;
+  border-bottom: 1px solid $color-gray;
   margin-bottom: 1.5em;
   text-align: center;
 }
@@ -125,14 +138,14 @@ article {
       margin-right: 35px;
       text-decoration: none;
       line-height: 6.5rem;
-      color: #222;
+      color: $text-color;
 
       &.active {
-        color: #33C3F0;
+        color: $link-color;
       }
 
       &:hover {
-        color: #33C3F0;
+        color: $link-color;
       }
     }
   }
@@ -141,10 +154,9 @@ article {
 .pagination {
   display: flex;
   justify-content: space-between;
-  margin: 50px;
 
   a {
-    color: #33C3F0;
+    color: $link-color;
     text-decoration: none;
 
 
