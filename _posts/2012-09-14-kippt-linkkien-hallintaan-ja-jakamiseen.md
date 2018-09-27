@@ -38,7 +38,7 @@ Chromen kirjanmerkkien käyttö on hieman hankalaa varsinkin, kun kunnollista ha
 
 Pari viikkoa sitten törmäsin suomalaiseen noin vuoden vanhaan palveluun nimeltään Kippt]. Kevyen ja helppokäyttöisen näköinen palvelu houkutteli rekisteröitymään ja testaamaan palvelua. Kipptin avulla linkit voi jakaa listoihin ja määritellä listojen näkyvyyden julkiseksi tai yksityiseksi. Muut käyttäjät voivat valita julkisia listoja seurattavakseen. Seuratut listat näkyvät Kipptin etusivun feedissä.
 
-<img src="/assets/img/posts/screenshot-clippt.png" alt="Kuvaruutukaappaus Clippt-sovelluksesta" /></noscript>
+<img src="/assets/img/posts/screenshot-clippt.png" alt="Kuvaruutukaappaus Clippt-sovelluksesta" />
 
 Linkkien siirto Deliciousista onnistuu lataamalla Deliciousin linkit omalle koneelle ja lataamalla ne edelleen Kipptiin. Deliciousista tuodut linkit tulevat mukavasti Kipptiin lukuun ottamatta Facebookista raavittuja linkkejä. joiden otsikot puuttuivat.</p>
 

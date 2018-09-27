@@ -48,4 +48,4 @@ div.-sparrow-quickReplyTextContents {
 
 Tuloksena onkin huomattavasti helppolukuisemmat sähköpostit.
 
-<img src="/assets/img/posts/sparrow-screenshot.png" alt="Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta" /></noscript>
+<img src="/assets/img/posts/sparrow-screenshot.png" alt="Kuvaruutukaappaus Sparrow-sähköpostiohjelmasta" />

@@ -32,13 +32,13 @@ _Huomio, että ohjelman ikonia klikkaamalla pääset suoraan Appstoreen ohjelman
 
 ## Chrome
 
-<img src="/assets/img/posts/app-icon-chrome.png" alt="Chrome App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-chrome.png" alt="Chrome App -ikoni" />
 
 [Chrome](http://itunes.apple.com/us/app/chrome/id535886823?mt=8) ei varmasti esittelyjä kaipaa. Paras selain OS X:lle sekä iPhonelle. Selain on ainakin nopeamman tuntuinen kuin iPhonen mukana tuleva Safari. Selaimen parhaista ominaisuuksista on se, että sen avulla näkee muissa laitteissa olevat Chromen välilehdet ja ne voi avata helposti myös puhelimen selaimeen. Tämä tietysti vaatii sen, että kaikki selaimet on synkronoitu Google-tunnuksien avulla. Chrome on ilmainen kaikille alustoille.
 
 ## 1Password
 
-<img src="/assets/img/posts/app-icon-1password.png" alt="1Password App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-1password.png" alt="1Password App -ikoni" />
 
 [1Password](https://itunes.apple.com/fi/app/1password/id568903335?l=fi&mt=8) on käytössä siitä syystä, että käytän sitä myös pöytäkoneissa. Elämä ilman tätä ohjelmaa olisi turvatonta tai hankalaa. 1Passwordin avulla pystyy helposti käyttämään eri salasanaa jokaisessa nettipalvelussa. Selainlaajennosten ansiosta pöytäkoneissa ei tarvitse muistaa kuin yksi salasana ja laajennos osaa hakea 1Passwordin tietokannasta palvelukohtaisen tunnus+salasana-parin sekä kirjautua sisään palveluun. Valitettavasti tätä ominaisuutta ei ole iPhone-selaimille, joten salasanat pitää käydä copypasteemassa 1Passwordista käsin.
 
@@ -46,7 +46,7 @@ Valitettavasti 1Passwordin käyttö tulee aika arvokkaaksi. Pöytäkoneelle 1Pas
 
 ## Things
 
-<img src="/assets/img/posts/app-icon-things.png" alt="Things App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-things.png" alt="Things App -ikoni" />
 
 [Things](https://itunes.apple.com/us/app/things-3/id904237743?mt=8) on toinen ohjelma, jonka tehokäyttö vaatii myös [työpöytäsovelluksen](https://itunes.apple.com/us/app/1password/id443987910?mt=12) omistamisen. Things on kätevä taskien / todo -listojen hallintaohjelma henkilökohtaiseen käyttöön. Uuden kakkosversion ansiosta ei tarvitse enää kikkailla Dropboxin kanssa vaan käytössä on Things Cloud, jonka avulla pystyy synkronisoimaan eri laitteiden Things-sovellukset.
 
@@ -54,7 +54,7 @@ Omassa käytössä Things on ollut melkein ohjelman alkuvaiheista asti. Työpöy
 
 ## iSSH
 
-<img src="/assets/img/posts/app-icon-issh.png" alt="iSSH App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-issh.png" alt="iSSH App -ikoni" />
 
 [iSSH](https://itunes.apple.com/ru/app/issh-2/id1254742822?mt=8) on ssh-asiakassovellus, jota voi käyttää ssh-yhteyksien lisäksi VNC-yhteyksien käyttämiseen. Nykyään iPhonelle löytyy monta muutakin vastaavaa sovellusta, joita kannattaa testata. iSSH valikoitui siksi, että tämä oli ainoa ohjelma, missä näppäimistön sai läpinäkyväksi. Tämä tarkoittaa sitä, että koko näytön saa hyötykäyttöön.
 
@@ -62,7 +62,7 @@ iSSH:n hinta on 8,99 euroa.
 
 ## Prowl: Growl Client
 
-<img src="/assets/img/posts/app-icon-prowl-growl-client.png" alt="Prowl: Growl Client App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-prowl-growl-client.png" alt="Prowl: Growl Client App -ikoni" />
 
 [Prowlilla](https://itunes.apple.com/us/app/prowl-growl-client/id320876271) on ohjelma, joka mahdollistaa iOS Push -ilmoitusten lähettämisen lähes mistä tahansa puhelimeen. Prowlin omilta sivuilta löytyy tarkempaa [tietoa käytettävistä rajapinnoista](http://www.prowlapp.com/), joita voi käyttää ilmoitusten lähettämiseen. Käytän tätä ohjelmaa palvelimien hälytysviestien vastaanottamiseen.
 
@@ -70,7 +70,7 @@ Hintaa Prowlilla on 2,69 euroa.
 
 ## Flowdock
 
-<img src="/assets/img/posts/app-icon-flowdock.png" alt="Flowdock App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-flowdock.png" alt="Flowdock App -ikoni" />
 
 [Flowdock](http://www.flowdock.com/) on aivan huikea palvelu kehitys- ja asiakaspalvelutiimien käyttöön. Flowdockissa käytävän keskustelun lisäksi siihen voi helposti lisätä ilmoituksia rajapintojen kautta, jotka näkyvät keskusteluista erotetussa Team Inboxissa. Suurimpaan osaan tärkeimmistä palveluista löytyy valmiit rajapinnat.
 
@@ -78,7 +78,7 @@ Flowdockin iOS App on ilmainen, mutta itse palvelun hinta liikkuu 19-159 dollari
 
 ## Navigon Nordics
 
-<img src="/assets/img/posts/app-icon-navigon-nordics.png" alt="Navigon Nordics App -ikoni" /></noscript>
+<img src="/assets/img/posts/app-icon-navigon-nordics.png" alt="Navigon Nordics App -ikoni" />
 
 [Navigon Nordics](https://itunes.apple.com/fi/app/navigon-nordics/id320268679) on perinteinen navigaattoriohjelma, joka sisältää Suomen, Ruotsin, Tanskan ja Norjan kartat. Kunkin maan kartat voi ladata tarpeen mukaan erikseen, mikä vähentää ohjelman muistin tarvetta. Navigaattori on toiminut hyvin. Pohjana on [Navteqin](http://www.navteq.com/) karttamateriaali.
 
