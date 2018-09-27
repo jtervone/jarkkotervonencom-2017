@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sivuston muutoshistoria
-description: Blogiin tehdyt muutokset. Lähinnä vain omaa käyttöäni varten. Muille tästä tuskin on iloa.
+description: Blogiin tehdyt muutokset. Lähinnä vain omaa käyttöäni varten. Toivottavasti muistan pitää tätä ajantasalla. Muille tästä tuskin on iloa.
 nav_text: Muutoshistoria
 image: /assets/img/books.jpg
 image_text: Kirjasto

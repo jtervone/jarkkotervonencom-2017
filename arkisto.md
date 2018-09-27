@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogitekstit kategorioittain
-description: Tässä blogini kirjoitukset aihealueittain. Erilliset sivut löytyvät navigaatiopalkista.
+description: Tässä blogini kirjoitukset aihealueittain. Tarkoitus on hieman kehittää arkistojen selaamista käyttäjäystävällisemmäksi. Erilliset sivut löytyvät navigaatiopalkista.
 nav_text: Arkisto
 image: /assets/img/calendar.jpg
 image_text: Kalenteri

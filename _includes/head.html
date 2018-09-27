@@ -1,15 +1,19 @@
 <head>
   <meta charset="utf-8">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-  <meta name="theme-color" content="#54707f">
+  <meta name="theme-color" content="#2a5062">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% if paginator.page > 1 %} - Sivu {{ paginator.page }} / {{ paginator.total_pages }}{% endif %}</title>
   {% if page.url == '/' %}
-    <meta name="description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% if paginator.page > 1 %} - Sivu {{ paginator.page }} / {{ paginator.total_pages }}{% endif %}">
   {% else %}
-    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    {% if page.excerpt %}
+      <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    {% else %}
+      <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% if paginator.page > 1 %} - Sivu {{ paginator.page }} / {{ paginator.total_pages }}{% endif %}">
+    {% endif %}
   {% endif %}
 
   <link rel="shortcut icon" href="/assets/img/favicon.png">
