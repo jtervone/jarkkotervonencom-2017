@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article>
+<div class="article">
   <section class="header {% if page.image %}with-image{% endif %}" {% if page.image %}style="background-image: url({{ page.image }});"{% endif %}>
     <h1><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h1>
     <p class="descript">
@@ -14,4 +14,4 @@ layout: default
   <section>
     {{ content }}
   </section>
-</article>
+</div>

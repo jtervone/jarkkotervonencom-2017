@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-  <article>
+  <div class="article">
     <section class="header {% if post.image %}with-image{% endif %}" {% if post.image %}style="background-image: url({{ post.image }});"{% endif %}>
-      <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       <p class="descript">
           {{ post.date | date: "%d.%m.%Y %H:%M" }}<br />
           {% for tag in post.tags %} {{ tag }} {% endfor %}
@@ -17,7 +17,7 @@ layout: default
       <a href="{{ post.url | relative_url }}">Lue koko kirjoitus...</a>
     </section>
 
-  </article>
+  </div>
 {% endfor %}
 
 <section>
