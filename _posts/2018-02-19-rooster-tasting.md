@@ -3,7 +3,7 @@ layout: post
 status: published
 published: true
 title: Neljä olutta / Neljä ruokalajia / Neljä Nikkasen valintaa
-image: /assets/img/posts/2018-02-20-rooster-tasting.jpg
+image: /assets/img/posts/2018-02-20-rooster-tasting.jp2
 image_text: Rooster Tasting
 author: Jarkko Tervonen
 date: '2018-02-20 10:00:20 +0300'

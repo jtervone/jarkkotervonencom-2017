@@ -3,7 +3,7 @@
 
 $text-color: #222;
 $background-color: #2a5062;
-$link-color: #33c3f0;
+$link-color: #0070a0;
 
 $color-gray: #eee;
 $color-white: #fff;
@@ -62,6 +62,10 @@ article {
 
     img {
       width: 100%;
+    }
+
+    a {
+      color: $link-color;
     }
 
     &.header {

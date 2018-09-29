@@ -3,7 +3,7 @@ layout: post
 status: published
 published: true
 title: Joulun viettoa maalla
-image: /assets/img/posts/2017-12-24-korvenkyla.jpg
+image: /assets/img/posts/2017-12-24-korvenkyla.jp2
 image_text: Korvenkylä
 author: Jarkko Tervonen
 date: '2017-12-28 08:22:20 +0300'

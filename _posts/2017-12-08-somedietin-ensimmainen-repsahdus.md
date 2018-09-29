@@ -3,7 +3,7 @@ layout: post
 status: published
 published: true
 title: Somedietin ensimmäinen repsahdus
-image: /assets/img/posts/2017-12-08-maanjaristys-lumijoki.png
+image: /assets/img/posts/2017-12-08-maanjaristys-lumijoki.jp2
 image_text: Maanjäristys Lumijoella 8.12.2017
 author: Jarkko Tervonen
 date: '2017-12-08 21:22:20 +0300'
