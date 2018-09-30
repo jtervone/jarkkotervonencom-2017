@@ -1,21 +1,21 @@
 {
-  "short_name": "jarkkot",
+  "short_name": "jarkko",
   "name": "Jarkko Tervonen",
   "icons": [
     {
-      "src": "/assets/img/icons-192.png",
+      "src": "/assets/img/logo-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/assets/img/icons-512.png",
+      "src": "/assets/img/logo-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": "/",
-  "background_color": "#2a5062",
+  "background_color": "#273e4d",
   "display": "standalone",
-  "scope": "/maps/",
-  "theme_color": "#2a5062"
+  "scope": "/",
+  "theme_color": "#273e4d"
 }

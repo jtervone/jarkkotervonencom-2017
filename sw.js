@@ -1,4 +1,4 @@
-const version = "0.0.2";
+const version = "0.0.3";
 const cacheName = `jarkkotervonen-${version}`;
 
 self.addEventListener('install', e => {
@@ -6,9 +6,15 @@ self.addEventListener('install', e => {
     caches.open(cacheName).then(cache => {
       return cache.addAll([
         `/`,
-        `/kuka/`
+        `/kuka/`,
+        '/assets/img/logo.png',
+        '/assets/img/logo-152.png',
+        '/assets/img/logo-192.png',
+        '/assets/css/normalize.css',
+        '/assets/css/skeleton.css',
+        '/assets/css/custom.css',
       ])
-          .then(() => self.skipWaiting());
+        .then(() => self.skipWaiting());
     })
   );
 });
