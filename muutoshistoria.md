@@ -8,6 +8,8 @@ image_text: Kirjasto
 permalink: /muutoshistoria/
 ---
 
+- __04.10.2018:__
+  - [Syyskuu chillailtu](/2018/10/04/syyskuu-chillailtu/) -kirjoitus lisätty.
 - __27.9.2018:__
   - Korjauksia ja mobiilioptimointia.
 - __26.9.2018:__
