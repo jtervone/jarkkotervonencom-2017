@@ -27,15 +27,9 @@ Tammikuun puolessa välissä päästiin vihdoin Granadan kimppuun. Verhoilun pur
 
 Etupenkit olivat kohtalaisen hyvässä kunnossa, mutta kaikki menee uusiksi. Säätömekanismit toimivat molemmissa penkeissä moitteettomasti.
 
-<img src="/assets/img/posts/penkintuki.jpg" alt="Penkin tuki" />
-
-Penkkien muoto rakentuu tälläisillä rautalangoilla.
-
 <img src="/assets/img/posts/takapenkki.jpg" alt="Takapenkki" />
 
 Takapenkin alla oli iso hiirenpesä. Pesän rakennusmateriaaleja oli otettu mm. takapenkin verhoilusta.
-
-<img src="/assets/img/posts/lippuja.jpg" alt="Lippuja" />
 
 <img src="/assets/img/posts/lappuja.jpg" alt="Lappuja" />
 

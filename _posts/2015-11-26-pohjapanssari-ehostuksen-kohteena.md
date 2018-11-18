@@ -25,8 +25,6 @@ Ensimmäiseksi rapsutin enimmät ruosteet kulmahiomakoneen teräsharjan avulla p
 
 Kun enimmät ruosteet oli saatu irroitettua, kävi selväksi pohjapanssarin alkuperäinen väri, joka oli musta. Löytyipä pohjapanssarista Fordin leimakin, joten ennakkoarvailusta poiketen tämä ei ole mikään itsekyhätty pohjapanssari.
 
-<img src="/assets/img/posts/pohjapanssari-maalauksessa.jpg" alt="Pohjapanssari maalauksessa" />
-
 Autotallin puolella ei lämmitys ole päällä, joten maalaaminen suoritettiin pannuhuoneen puolella. Sivelin pohjapanssarin pintaan 2-3 kerrosta mustaa Hammertite-maalia, jota sattui olemaan hyllyssä puoli purkkia.
 
 <img src="/assets/img/posts/pohjapanssari.jpg" alt="Pohjapanssari" />
