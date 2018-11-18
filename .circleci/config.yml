@@ -61,6 +61,10 @@ jobs:
           at: ./
 
       - run:
+          name: Install rsync
+          command: sudo apt install -y rsync
+
+      - run:
           name: Deploy to the server
           command: rsync -v -e ssh -o "StrictHostKeyChecking no" -r ~/repo/_site/* circleci@pit.rcode.fi:/var/www/jarkkotervonencom/
 
