@@ -9,11 +9,12 @@ gem install jekyll bundler
 bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
-
-## Deployment
-
-To deploy just run deploy script
+## Testing
 
 ```
-./deploy.sh
+bundle exec htmlproofer ./_site \
+              --allow-hash-href \
+              --check-favicon  \
+              --check-html \
+              --disable-external
 ```
