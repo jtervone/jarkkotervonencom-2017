@@ -18,10 +18,10 @@ jobs:
     steps:
       - checkout
 
-      - restore_cache:
-          keys:
-            - rubygems-v1-{{ checksum "Gemfile.lock" }}
-            - rubygems-v1-fallback
+#      - restore_cache:
+#          keys:
+#            - rubygems-v1-{{ checksum "Gemfile.lock" }}
+#            - rubygems-v1-fallback
 
       - run:
           name: Bundle Install
@@ -40,10 +40,10 @@ jobs:
               --check-html \
               --disable-external
 
-      - save_cache:
-          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
-          paths:
-            - vendor/bundle
+#      - save_cache:
+#          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
+#          paths:
+#            - vendor/bundle
 
       - persist_to_workspace:
           root: ./
