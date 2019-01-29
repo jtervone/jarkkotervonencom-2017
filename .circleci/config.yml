@@ -8,11 +8,12 @@ jobs:
     <<: *defaults
 
     docker:
-      - image: circleci/ruby:2.5
+      - image: circleci/ruby:2.6.0-node
 
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+      BUNDLER_VERSION: 2.0.1
 
     steps:
       - checkout
