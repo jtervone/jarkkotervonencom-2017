@@ -8,7 +8,7 @@ jobs:
     <<: *defaults
 
     docker:
-      - image: circleci/ruby:2.5
+      - image: circleci/ruby:2.5-stretch
 
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
@@ -52,10 +52,10 @@ jobs:
     <<: *defaults
 
     docker:
-      - image: circleci/python:3.6.3
+      - image: circleci/python:2.7.14-stretch
 
     steps:
-      - add_ssh_keys
+      - add_ssh_keys:
 
       - attach_workspace:
           at: ./
@@ -66,7 +66,7 @@ jobs:
 
       - run:
           name: Deploy to the server
-          command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/repo/_site/* circleci@pit.rcode.fi:/var/www/jarkkotervonencom/
+          command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/repo/_site/* circleci@field.rcode.fi:/var/www/jarkkotervonencom/
 
 workflows:
   version: 2
