@@ -13,7 +13,6 @@ jobs:
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-      BUNDLER_VERSION: 2.0.1
 
     steps:
       - checkout
@@ -22,13 +21,6 @@ jobs:
           keys:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
             - rubygems-v1-fallback
-
-      - run:
-        name: Configure Bundler
-        command: |
-          echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
-          source $BASH_ENV
-          gem install bundler
 
       - run:
           name: Bundle Install
