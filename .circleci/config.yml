@@ -74,7 +74,7 @@ jobs:
 
       - run:
           name: Deploy to the server
-          command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/repo/_site/* circleci@field.rcode.fi:/var/www/jarkkotervonencom/
+          command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/repo/_site/* circleci@field.rcode.fi:/var/www/jarkkotervonen.com/
 
 workflows:
   version: 2
