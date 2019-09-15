@@ -16,8 +16,10 @@ header {
   width: 100%;
   text-align: center;
 
-  h1 {
+  .site-name {
+    font-size: 5rem;
     letter-spacing: 5px;
+    margin-bottom: 5px;
 
     a, :hover {
       text-decoration: none;

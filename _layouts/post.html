@@ -6,8 +6,8 @@ layout: default
   <section class="header {% if page.image %}with-image{% endif %}" {% if page.image %}style="background-image: url({{ page.image }});"{% endif %}>
     <h1><a href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h1>
     <p class="descript">
-        {{ page.date | date: "%d.%m.%Y %H:%M" }}<br />
-        {% for tag in page.tags %}{{ tag }} {% endfor %}
+      {{ page.date | date: "%d.%m.%Y %H:%M" }}<br />
+      {% for tag in page.tags %}{{ tag }} {% endfor %}
     </p>
   </section>
 
