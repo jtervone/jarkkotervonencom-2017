@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 50 treeniloki
 description: Viikon 50 treenejä varjosti pienen flunssan jälkioireet sekä joka vuotuiset loppuvuoden ruuhkaviikot.
-image: assets/img/posts/2017-12-12-strava-heatmap.png
+image: /assets/img/posts/2017-12-12-strava-heatmap.png
 image_text: Strava Heat Map
 author: Jarkko Tervonen
 date: '2017-12-19 10:21:00 +0300'

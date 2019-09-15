@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Hiihtokausi taputeltu
 description: Talven 2017-2018 hiihdot on nyt hiihdetty. Kilometrejä kertyi ladulta mukaan 1282 kilometriä. Suurin syy muhkeaan lukuun on loistava hiihtotalvi.
-image: assets/img/posts/2018-04-24-renkaan-litkuttaminen.jpg
+image: /assets/img/posts/2018-04-24-renkaan-litkuttaminen.jpg
 image_text: DT Swiss X 1700 SPLINE kiekkojen litkuttaminen
 author: Jarkko Tervonen
 date: '2018-04-24 09:00:00 +0300'

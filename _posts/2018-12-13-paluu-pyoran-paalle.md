@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Paluu pyörän päälle?
 description: Viikko sitten kävin ajamassa kolmipäiväisen Saariselkä MTB:n, joka oli samalla vuosi sitten asetettu kauden päätavoite.
-image: assets/img/posts/2018-12-13-grand-canyon-al-runko.jpg
+image: /assets/img/posts/2018-12-13-grand-canyon-al-runko.jpg
 image_text: Saariselkä MTB maisemia
 author: Jarkko Tervonen
 date: '2018-12-13 15:55:00 +0300'

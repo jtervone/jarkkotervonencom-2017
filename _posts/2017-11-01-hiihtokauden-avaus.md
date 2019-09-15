@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Hiihtokauden avaus
 description: Talvelle 2017 - 2018 on hiihtokausi avattu. Perinteisen suksilla vapaata hiihtoa vajaa 12 kilometriä.
-image: assets/img/posts/2017-11-01-hiihtokauden-avaus.jpg
+image: /assets/img/posts/2017-11-01-hiihtokauden-avaus.jpg
 image_text: Hiihtokauden 2017-2018 avaus
 author: Jarkko Tervonen
 date: '2017-11-01 23:15:16 +0300'

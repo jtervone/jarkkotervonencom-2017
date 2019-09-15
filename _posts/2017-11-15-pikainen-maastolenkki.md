@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Pikainen maastolenkki
 description: Maastopyöräilyä kiireisen päivän päätteeksi. Ei välttämättä mikään viisain ratkaisu, mutta tulipahan tehtyä.
-image: assets/img/posts/2017-11-15-sarkkirannan-pururadalla.jpg
+image: /assets/img/posts/2017-11-15-sarkkirannan-pururadalla.jpg
 image_text: Sarkkirannan grindausta
 author: Jarkko Tervonen
 date: '2017-11-15 23:21:00 +0300'

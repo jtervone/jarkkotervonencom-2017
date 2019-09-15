@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Limingan maastopyöräreitit
 description: Ohjelmassa oli kolmen tunnin maastopyörälenkki, joten suuntasin tarkistamaan Limingan maastopyöräreitistön.
-image: assets/img/posts/2017-10-23-canyon-pukilla.jpg
+image: /assets/img/posts/2017-10-23-canyon-pukilla.jpg
 image_text: Cube Oulunsalon Varjakassa
 author: Jarkko Tervonen
 date: '2017-10-23 09:35:16 +0300'

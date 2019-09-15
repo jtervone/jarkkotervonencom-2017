@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Murron MTB-reitti Tyrnävällä
 description: Tyrnävälle Murron kylään aivan Kempeleen rajalle on merkitty 6,76 kilometrin pituinen maastopyöräilyreitti.
-image: assets/img/posts/2018-07-18-canyon-murron-mtb-reitilla.jpg
+image: /assets/img/posts/2018-07-18-canyon-murron-mtb-reitilla.jpg
 image_text: Canyon Murron MTB-reitillä
 author: Jarkko Tervonen
 date: '2018-07-19 10:00:00 +0300'

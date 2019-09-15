@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Kalusto-ongelmia
 description: Syksy aiheuttaa ongelmia kesällä kulutetuille renkaille tappajasepelin muodossa. Joka lenkille pitäisi ottaa paikkausvälineet mukaan.
-image: assets/img/posts/2017-11-10-selfie.jpg
+image: /assets/img/posts/2017-11-10-selfie.jpg
 image_text: Selfie öissä
 author: Jarkko Tervonen
 date: '2017-11-10 06:21:00 +0300'

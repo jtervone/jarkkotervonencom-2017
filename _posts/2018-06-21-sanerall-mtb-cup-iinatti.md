@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Sanerall MTB Cupin Iinatin osakilpailu
 description: Kävin katsomassa Sanerall MTB Cupin kolmatta osakilpailua Iinatissa, jonka järjestämisestä vastasi Paksukumi Team
-image: assets/img/posts/2018-06-21-sanerall-mtb-cup-iinatti.jpg
+image: /assets/img/posts/2018-06-21-sanerall-mtb-cup-iinatti.jpg
 image_text: Sanerall MTB Cup Iinatti
 author: Jarkko Tervonen
 date: '2018-06-21 07:20:00 +0300'

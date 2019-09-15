@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 47 treeniloki
 description: Viikon 47 treenit koostuivat tällä kertaa neljästä pyörälenkistä ja yhdestä uintikerrasta. Mikä parasta niin ennätyksiäkin tuli.
-image: assets/img/posts/2017-11-27-lumisade-alakylantie.jpg
+image: /assets/img/posts/2017-11-27-lumisade-alakylantie.jpg
 image_text: Alakyläntie lumisateessa
 author: Jarkko Tervonen
 date: '2017-11-27 16:21:00 +0300'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 48 treeniloki
 description: Viikon 48 treenit koostuivat viidestä pyörälenkistä ja yhdestä varovaisesta kävelylenkistä flunssan painaessa.
-image: assets/img/posts/2017-11-27-lumisade-alakylantie.jpg
+image: /assets/img/posts/2017-11-27-lumisade-alakylantie.jpg
 image_text: Alakyläntie lumisateessa
 author: Jarkko Tervonen
 date: '2017-12-07 16:21:00 +0300'

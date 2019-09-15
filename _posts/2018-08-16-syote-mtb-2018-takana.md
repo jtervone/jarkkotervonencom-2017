@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Syöte MTB takana Rokua MTB edessä
 description: Pari viikkoa sitten ajettiin Syötteellä maastopyörillä Syöte MTB:n merkeissä. Tämän viikon lauantaina vuorossa olisi Rokua MTB.
-image: assets/img/posts/2018-07-16-syote-mtb-2018-lahto.jpg
+image: /assets/img/posts/2018-07-16-syote-mtb-2018-lahto.jpg
 image_text: Canyon Murron MTB-reitillä
 author: Jarkko Tervonen
 date: '2018-08-16 14:30:00 +0300'

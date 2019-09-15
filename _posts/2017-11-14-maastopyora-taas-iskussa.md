@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Maastopyörä taas iskussa
 description: Maastopyörän kiekkojen kanssa on ollut pientä ongelmaa, mutta nyt ne ovat melkein selätetty. Pinnat ovat kireällä ja se on hyvä asia.
-image: assets/img/posts/2017-11-13-sarkkirannan-grindausta.jpg
+image: /assets/img/posts/2017-11-13-sarkkirannan-grindausta.jpg
 image_text: Sarkkirannan grindausta
 author: Jarkko Tervonen
 date: '2017-11-14 06:21:00 +0300'

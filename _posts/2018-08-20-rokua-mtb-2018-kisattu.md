@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Rokua MTB 2018 kisattu
 description: Viime lauantaina ajettiin Rokua MTB. Tämä oli ensimmäinen isompi kisa, jonka ajoin toista kertaa.
-image: assets/img/posts/2018-08-20-rokua-mtb-2018.jpg
+image: /assets/img/posts/2018-08-20-rokua-mtb-2018.jpg
 image_text: Rokua MTB:n maalissa ryhdikkäänä (reidet krampissa :D)
 author: Jarkko Tervonen
 date: '2018-08-20 10:15:00 +0300'

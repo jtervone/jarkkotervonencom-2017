@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Cyclocrossia Oulunsalossa
 description: Vaihteeksi Cube alle ja pientä vauhtileikittelyä Oulunsalon suuntaan. Samalla testailin uusia kenkäsuojia talvea varten.
-image: assets/img/posts/2017-10-19-cube-varjakka.jpg
+image: /assets/img/posts/2017-10-19-cube-varjakka.jpg
 image_text: Cube Oulunsalon Varjakassa
 author: Jarkko Tervonen
 date: '2017-10-19 20:35:16 +0300'

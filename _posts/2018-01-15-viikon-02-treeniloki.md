@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 2 treeniloki
 description: Viikon 2 treenit. Vuosi alkoi hiihtopainotteisesti mutta myös yksi pyöräilytreeniksi luokiteltava lenkki mahtui mukaan.
-image: assets/img/posts/2018-01-13-oulunsalon-hiekkamontut.jpg
+image: /assets/img/posts/2018-01-13-oulunsalon-hiekkamontut.jpg
 image_text: Oulunsalon hiekkamontut talvella
 author: Jarkko Tervonen
 date: '2018-01-15 21:21:00 +0300'

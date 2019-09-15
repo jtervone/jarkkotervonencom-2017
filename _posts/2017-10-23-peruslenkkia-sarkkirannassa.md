@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Vaihteeksi peruslenkkiä Sarkkirannassa
 description: Uusien jarrujen ja voimansiirron testausta Sarkkirannan XC-radalla. Ajettavuus parani uusien jarrujen myötä huomattavasti.
-image: assets/img/posts/2017-10-23-canyon-sarkkiranta.jpg
+image: /assets/img/posts/2017-10-23-canyon-sarkkiranta.jpg
 image_text: Canyon Sarkkirannan valoissa
 author: Jarkko Tervonen
 date: '2017-10-23 22:55:16 +0300'

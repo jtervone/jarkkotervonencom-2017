@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Maastopyörälenkki Mourunkiin
 description: Peruslenkki Sarkkiranta - Linnakangas - Köykkyri - Juurussuo - Mourunki - Köykkyri - Sarkkiranta. Neulaspolkua sekä hiekka- ja sorateitä.
-image: assets/img/posts/2017-10-28-magicshine-lumisade.jpg
+image: /assets/img/posts/2017-10-28-magicshine-lumisade.jpg
 image_text: Luminen tie Magic Shinen valossa
 author: Jarkko Tervonen
 date: '2017-10-28 10:05:16 +0300'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Saariselkä MTB 2018 ajettu
 description: Viikko sitten kävin ajamassa kolmipäiväisen Saariselkä MTB:n, joka oli samalla vuosi sitten asetettu kauden päätavoite.
-image: assets/img/posts/2018-09-04-saariselka-mtb-2018.jpg
+image: /assets/img/posts/2018-09-04-saariselka-mtb-2018.jpg
 image_text: Saariselkä MTB maisemia
 author: Jarkko Tervonen
 date: '2018-09-04 21:55:00 +0300'

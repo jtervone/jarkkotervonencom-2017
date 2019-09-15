@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Vauhtileikittelya Köykkyrissä
 description: Vauhtileikittelylenkki Köykkyrin maastoissa poluilla ja sen ulkopuolilla. Vauhdin pitäminen matalana on haastavaa.
-image: assets/img/posts/2017-10-17-canyon-haukkasuolla.jpg
+image: /assets/img/posts/2017-10-17-canyon-haukkasuolla.jpg
 image_text: Rex Domestique -ketjuöljyllä öljytyt ketjut
 author: Jarkko Tervonen
 date: '2017-10-17 13:55:16 +0300'

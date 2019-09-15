@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 20. Tahko MTB ajettu
 description: Viime viikonloppuna Tahko MTB järjestettiin 20. kertaa. Tosin itselle tämä oli vasta ensimmäinen kerta Tahkolla maastopyörän selässä :)
-image: assets/img/posts/2018-07-04-maastopyorat-tahko-mtb-jalkeen.jpg
+image: /assets/img/posts/2018-07-04-maastopyorat-tahko-mtb-jalkeen.jpg
 image_text: Canyon-maastopyörät Tahko MTB:n jälkeen
 author: Jarkko Tervonen
 date: '2018-07-04 09:05:00 +0300'

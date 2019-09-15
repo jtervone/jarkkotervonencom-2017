@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Vaihteeksi työmatkapyöräilyä
 description: Talvi tekee tuloaan hitaasti, mutta uskallauduin kuitenkin työmatkalle cyclocrossilla kesäkelin varustein.
-image: assets/img/posts/2017-10-31-tyomatkapyorailija.jpg
+image: /assets/img/posts/2017-10-31-tyomatkapyorailija.jpg
 image_text: Eilisen Strava-reitti
 author: Jarkko Tervonen
 date: '2017-10-31 19:25:16 +0300'

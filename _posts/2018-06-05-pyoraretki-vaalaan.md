@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Pyöräretki Vaalaan
 description: Kesän ensimmäinen pidempi pyöräretki tehtiin Vaalan suuntaan. Asfalttia pitkin Vaalaan ja hiekkateitä pitkin takaisin kotiin.
-image: assets/img/posts/2018-06-05-pyorailyretki.jpg
+image: /assets/img/posts/2018-06-05-pyorailyretki.jpg
 image_text: Kempele - Muhos - Nuojua - Kylmälänkylä - Tyrnävä - Kempele -pyöräretki
 author: Jarkko Tervonen
 date: '2018-06-05 09:55:00 +0300'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Maastopyöräilyä Rokualla ja Kempeleessä
 description: Kävin ajelemassa maastopyörällä tavallisten Kempele-lenkkien lisäksi Rokuan jäkäläkankailla kansallispuiston kupeessa.
-image: assets/img/posts/2017-10-25-linnakangas-magicshine.jpg
+image: /assets/img/posts/2017-10-25-linnakangas-magicshine.jpg
 image_text: Linnakankaan polut Magic Shinen valossa
 author: Jarkko Tervonen
 date: '2017-10-25 21:25:16 +0300'

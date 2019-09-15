@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Ensimmäinen ohjelman mukainen treeni takana
 description: Nyt on ensimmäinen treeniohjelman mukainen treeni takana ja luottavainen fiilis jatkoa ajatellen. Tämä ei varmasti jää tähän.
-image: assets/img/posts/2017-10-16-rex-lube-ketjuoljylla-oljytyt-ketjut.jpg
+image: /assets/img/posts/2017-10-16-rex-lube-ketjuoljylla-oljytyt-ketjut.jpg
 image_text: Rex Domestique -ketjuöljyllä öljytyt ketjut
 author: Jarkko Tervonen
 date: '2017-10-16 22:25:16 +0200'

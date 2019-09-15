@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Päivitys kirjoitustauon jälkeen
 description: Päivitystä pienen tauon jälkeen. Onneksi tauko koskenut vain kirjoittelua sillä sukset ovat nielleet kilometrejä tasaiseen tahtiin.
-image: assets/img/posts/2018-02-13-aurinkolatu-vuokatti.jpg
+image: /assets/img/posts/2018-02-13-aurinkolatu-vuokatti.jpg
 image_text: Vuokatin Aurinkolatu
 author: Jarkko Tervonen
 date: '2018-03-12 13:31:00 +0300'

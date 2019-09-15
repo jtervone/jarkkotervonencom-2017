@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 3 treeniloki
 description: Viikon 3 treenit koostuivat kuudesta hiihtolenkistä. Ladulla tuli viiletettyä suksilla melkein sadan kilometrin verran.
-image: assets/img/posts/2018-01-13-oulunsalon-hiekkamontut.jpg
+image: /assets/img/posts/2018-01-13-oulunsalon-hiekkamontut.jpg
 image_text: Oulunsalon hiekkamontut talvella
 author: Jarkko Tervonen
 date: '2018-01-24 8:45:00 +0300'

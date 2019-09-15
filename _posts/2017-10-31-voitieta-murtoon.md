@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Voitietä Murtoon
 description: Sarkkiranta - Köykkyri - Mourunki - Murto - Sarkkiranta. Hiekka- ja soratietä tuli nieltyä reilun 30 kilometrin verran.
-image: assets/img/posts/2017-10-31-strava-reitti.jpg
+image: /assets/img/posts/2017-10-31-strava-reitti.jpg
 image_text: Eilisen Strava-reitti
 author: Jarkko Tervonen
 date: '2017-10-31 10:05:16 +0300'

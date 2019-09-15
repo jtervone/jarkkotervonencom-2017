@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 49 treeniloki
 description: Viikon 49 treenit jäivät vähän vähälle, koska alku viikko meni flunssasta toipuessa ja hiihtokelejä odotellessa.
-image: assets/img/posts/2017-12-12-strava-heatmap.png
+image: /assets/img/posts/2017-12-12-strava-heatmap.png
 image_text: Strava Heat Map
 author: Jarkko Tervonen
 date: '2017-12-12 10:21:00 +0300'

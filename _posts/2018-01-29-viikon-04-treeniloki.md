@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 4 treeniloki
 description: Viikon 4 treenit koostuivat jälleen vain hiihtolenkeistä. Testasin pakkasessa hiihtämistä. Pukeutuminen ei ollut ongelma, mutta voitelu oli.
-image: assets/img/posts/2018-01-13-oulunsalon-hiekkamontut.jpg
+image: /assets/img/posts/2018-01-13-oulunsalon-hiekkamontut.jpg
 image_text: Oulunsalon hiekkamontut talvella
 author: Jarkko Tervonen
 date: '2018-01-29 10:45:00 +0300'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Pyöräilyblogin uudelleen lämmittely
 description: Pyorailija.com blogin uudelleen lämmittely ja ensimmäinen kirjoitus. Jatkossa blogista löytyy treeniyhteenvetoja sekä muita pyöräilyyn liittyviä kirjoituksia.
-image: assets/img/posts/2017-10-14-cube-cross-race-handlebars.jpg
+image: /assets/img/posts/2017-10-14-cube-cross-race-handlebars.jpg
 image_text: Cube Cross Race Pro 2012 -ohjaustanko
 author: Jarkko Tervonen
 date: '2017-10-13 18:25:16 +0200'

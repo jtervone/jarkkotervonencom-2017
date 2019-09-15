@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Nopea lenkki ampumaradalle
 description: Taisin löytää uuden tien Köykkyrin ja Mourungin väliltä tai ainakaan näin pitkää matkaa tätä Kangastietä en ole ajanut.
-image: assets/img/posts/2017-11-02-kangastie-valossa.jpg
+image: /assets/img/posts/2017-11-02-kangastie-valossa.jpg
 image_text: Kangastie valossa
 author: Jarkko Tervonen
 date: '2017-11-02 23:15:16 +0300'

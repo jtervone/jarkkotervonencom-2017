@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 51 treeniloki
 description: Viikon 51 treenit koostuivat pääasiassa hiihtämisestä. Viikko huipentui hiihtolenkkiin Nilsiän Halssin laduilla.
-image: assets/img/posts/2017-12-26-nilsia-halssi.jpg
+image: /assets/img/posts/2017-12-26-nilsia-halssi.jpg
 image_text: Nilsiän Halssin hiihtostadion
 author: Jarkko Tervonen
 date: '2017-12-26 10:21:00 +0300'

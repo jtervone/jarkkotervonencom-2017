@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Pannut Haukiputaalla
 description: Syksyllä pitäisi muistaa, että päivän aikana pyöräilykelit helposti muuttuvat iltaa kohti haastavammiksi.
-image: assets/img/posts/2017-11-06-cube-heinapaa.jpg
+image: /assets/img/posts/2017-11-06-cube-heinapaa.jpg
 image_text: Cube Heinäpään kukkuloilla
 author: Jarkko Tervonen
 date: '2017-11-06 20:55:16 +0300'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Canyonin päivitystä
 description: Canyon Yellowstone sai uutta palikkaa nyt ihan urakalla. Tehokkaampia jarruja ja kevyempää välitystä.
-image: assets/img/posts/2017-10-21-shimano-xt-brakes-sunrace-11-50.jpg
+image: /assets/img/posts/2017-10-21-shimano-xt-brakes-sunrace-11-50.jpg
 image_text: Shimano XT -jarrut ja SunRace 11-50t -pakka
 author: Jarkko Tervonen
 date: '2017-10-21 23:35:16 +0300'

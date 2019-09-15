@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Kaupunkipyöräilyä pääkaupunkiseudulla
 description: Kävin työmatkalla pääkaupunkiseudulla ja käytin ensimmäistä kertaa HSL:n Alepa-pyöriä. Tästä palvelusta ei ole muuta kuin positiivista sanottavaa.
-image: assets/img/posts/2018-06-19-alepapyora.jpg
+image: /assets/img/posts/2018-06-19-alepapyora.jpg
 image_text: HSL:n Alepa-pyörän ohjaamo
 author: Jarkko Tervonen
 date: '2018-06-19 09:35:00 +0300'

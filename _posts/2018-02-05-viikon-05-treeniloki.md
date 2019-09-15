@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Viikon 5 treeniloki
 description: Viikon 5 treenit koostuivat tuttuun tapaan viidestä hiihtolenkistä. Tällä kertaa yksi Tahkon suunnalla.
-image: assets/img/posts/2018-02-05-voitelupoyta.jpg
+image: /assets/img/posts/2018-02-05-voitelupoyta.jpg
 image_text: Rossignolin voitelupöytä
 author: Jarkko Tervonen
 date: '2018-02-05 13:31:00 +0300'

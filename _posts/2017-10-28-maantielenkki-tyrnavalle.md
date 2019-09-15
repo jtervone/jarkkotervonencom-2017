@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Maantiepyörälenkki Tyrnävälle
 description: Perusmaantielenkki Sarkkiranta - Murto - Tyrnävä - Tupos - Sarkkiranta. Tätä lenkkiä on tullut ajeltua vuosien ajan erilaisilla pyörillä.
-image: assets/img/posts/2017-10-28-cuben-ohjaamo.jpg
+image: /assets/img/posts/2017-10-28-cuben-ohjaamo.jpg
 image_text: Cuben uusittu ohjaamo punaisine tankoteippeineen ja vaijerin kuorineen
 author: Jarkko Tervonen
 date: '2017-10-28 14:15:16 +0300'
