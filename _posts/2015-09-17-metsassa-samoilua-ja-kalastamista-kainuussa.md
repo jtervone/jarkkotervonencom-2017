@@ -38,4 +38,4 @@ Hepokönkään vesiputous oli vähän liiankin helposti saavutettava. Asfalttiti
 
 <img src="/assets/img/posts/hepokongas.jpg" alt="Hepoköngäs" />
 
-Ensi kerralla kalastukseen enemmän aikaa ja evästä matkalle. Myös [Rokuan](http://www.luontoon.fi/retkikohteet/kansallispuistot/rokua/Sivut/Default.aspx) maastoon pitää päästä. Ainakin kiertämään pohjoisempi puolikas Keisarinkierroksesta, joka on käymättä.
+Ensi kerralla kalastukseen enemmän aikaa ja evästä matkalle. Myös [Rokuan](https://www.luontoon.fi/rokua) maastoon pitää päästä. Ainakin kiertämään pohjoisempi puolikas Keisarinkierroksesta, joka on käymättä.
