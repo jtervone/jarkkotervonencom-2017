@@ -1,6 +1,8 @@
-_site
-.sass-cache
-.jekyll-metadata
 .DS_Store
-.bundle
-vendor
+*.log
+.cache
+src/.temp
+node_modules
+dist
+/static/feed.xml
+/service-worker.js

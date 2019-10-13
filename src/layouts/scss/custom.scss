@@ -1,0 +1,287 @@
+$background-color: #273e4d;
+$text-color: #222;
+$link-color: #0070a0;
+$link-color-active: #0070a0;
+
+$color-gray: #eee;
+$color-black: #000;
+$color-code: #d0d0d0;
+
+$heading-background: #080600;
+
+$color-white: #ffF;
+
+/* latin-ext */
+@font-face {
+  font-family: 'Wendy One';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 400;
+  src: local('Wendy One'), local('WendyOne-Regular'), url(https://fonts.gstatic.com/s/wendyone/v8/2sDcZGJOipXfgfXV5wgzZmW5Kb8VZBHR.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Wendy One';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 400;
+  src: local('Wendy One'), local('WendyOne-Regular'), url(https://fonts.gstatic.com/s/wendyone/v8/2sDcZGJOipXfgfXV5wgzaGW5Kb8VZA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 600;
+  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwPIsWqhPANqczVsq4A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 600;
+  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwPIsWqZPANqczVs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+body {
+  background-color: $background-color;
+
+  a {
+    color: $link-color;
+
+    &:hover {
+      color: $link-color-active;
+    }
+  }
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.75rem;
+  color: #f8f8f2;
+  background-color: $background-color;
+}
+
+pre.highlight {
+  border: 0;
+  background-color: transparent;
+
+  code {
+    color: $color-code;
+    background: $color-black;
+    border: 0;
+    border-radius: 3px;
+  }
+}
+
+header {
+  width: 100%;
+  text-align: center;
+
+  a,
+  :hover {
+    text-decoration: none;
+    color: $text-color;
+
+    .heading {
+      font-size: 5rem;
+      line-height: 1.2;
+      margin: 0.67em 0;
+      letter-spacing: 8px;
+    }
+  }
+
+  img.logo {
+    width: 87px;
+    height: 87px;
+    border-radius: 50%;
+    padding: 15px;
+    background-color: $background-color;
+  }
+}
+
+footer {
+  text-align: center;
+  padding-top: 4rem;
+  border-top: 1px solid $color-gray;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  padding: 2rem 2rem;
+  border-radius: 2px;
+  background-color: $color-white;
+}
+
+.article {
+  section {
+    padding: 1rem 0;
+    margin-bottom: 0;
+
+    p {
+      font-size: 2rem;
+    }
+
+    ul {
+      margin-bottom: 0;
+      margin-top: 0;
+
+      li {
+        font-size: 2rem;
+        margin-bottom: 0;
+      }
+    }
+
+    img {
+      width: 100%;
+    }
+
+    &.header {
+      margin-top: 0rem;
+      color: $color-black;
+
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+
+      a {
+        color: $text-color;
+        text-decoration: none;
+      }
+
+      h1, h2 {
+        margin-top: 1rem;
+        font-size: 4.5rem;
+        letter-spacing: 0.8rem;
+        color: $text-color;
+      }
+
+      &.with-image {
+        text-align: center;
+        height: 30rem;
+        padding-top: 20rem;
+
+        h1 {
+          color: $color-white;
+        }
+
+        a {
+          color: $color-white;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+.navbar {
+  display: inline;
+  background-color: $color-white;
+  border-top: 1px solid $color-gray;
+  border-bottom: 1px solid $color-gray;
+  text-align: center;
+}
+
+.navbar-list {
+  list-style: none;
+  margin-bottom: 0;
+
+  .navbar-item {
+    display: block;
+    border-top: 1px solid $color-gray;
+    border-bottom: 1px solid $color-gray;
+
+    .navbar-link {
+      text-transform: uppercase;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .2rem;
+      margin-right: 35px;
+      text-decoration: none;
+      line-height: 6.5rem;
+      color: $text-color;
+
+      &.active {
+        color: $link-color-active;
+      }
+
+      &:hover {
+        color: $link-color-active;
+      }
+    }
+  }
+}
+
+/* Larger than phone */
+@media (min-width: 550px) {
+  .container {
+    width: 90%;
+    padding: 6rem 6rem;
+  }
+
+  h2 {
+    margin-top: 1rem;
+  }
+
+  section {
+    padding: 6rem 0;
+  }
+
+  .navbar {
+    display: block;
+    height: 6.5rem;
+    margin-bottom: 1.5em;
+  }
+
+  .navbar-list {
+    display: block;
+
+    .navbar-item {
+      display: inline;
+
+      border: 0;
+    }
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+    padding: 10px;
+    border: solid 1px $color-gray;
+
+    &:hover {
+      text-decoration: underline;
+      background-color: $color-gray;
+    }
+  }
+}

@@ -1,61 +1,34 @@
 defaults: &defaults
-  working_directory: ~/repo
+  working_directory: ~/blog
 
-version: 2
-
+version: 2.1
 jobs:
   build:
     <<: *defaults
 
     docker:
-      - image: circleci/ruby:2.5-stretch
-
-    environment:
-      BUNDLE_PATH: ~/repo/vendor/bundle
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-      BUNDLER_VERSION: 2.0.1
-
+      - image: circleci/node:10.16.3
     steps:
       - checkout
-
+      - run:
+          name: update-npm
+          command: 'sudo npm install -g npm@latest'
       - restore_cache:
-          keys:
-            - rubygems-v1-{{ checksum "Gemfile.lock" }}
-            - rubygems-v1-fallback
-
+          key: dependency-cache-{{ checksum "package-lock.json" }}
       - run:
-          name: Configure Bundler
-          command: |
-            echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
-            source $BASH_ENV
-            gem install bundler
-
-      - run:
-          name: Bundle Install
-          command: bundle check || bundle install
-
-      - run:
-          name: Jekyll build
-          command: bundle exec jekyll build
-
-      - run:
-          name: HTMLProofer tests
-          command: |
-            bundle exec htmlproofer ./_site \
-              --allow-hash-href \
-              --check-favicon  \
-              --check-html \
-              --disable-external
-
+          name: install-npm
+          command: npm install
       - save_cache:
-          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
+          key: dependency-cache-{{ checksum "package-lock.json" }}
           paths:
-            - vendor/bundle
-
+            - ./node_modules
+      - run:
+          name: Build
+          command: npm run build
       - persist_to_workspace:
           root: ./
           paths:
-            - _site
+            - dist
   deploy:
     <<: *defaults
 
@@ -64,6 +37,8 @@ jobs:
 
     steps:
       - add_ssh_keys:
+          fingerprints:
+            - "95:b5:4f:44:16:d8:6f:57:3f:fd:3b:a9:bc:ac:47:d3"
 
       - attach_workspace:
           at: ./
@@ -74,12 +49,12 @@ jobs:
 
       - run:
           name: Deploy to the server
-          command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/repo/_site/* circleci@field.rcode.fi:/var/www/jarkkotervonen.com/
+          command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/blog/dist/* circleci@field.rcode.fi:/var/www/jarkkotervonen.com/
 
 workflows:
-  version: 2
+  version: 2.1
 
-  test-deploy:
+  build-and-deploy:
     jobs:
       - build
       - deploy:
