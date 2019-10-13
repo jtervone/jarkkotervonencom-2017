@@ -31,7 +31,7 @@ Ebaystä löytyy "Windscreen wiper motor linkage repair kit" -hakusanalla videol
 
 Piirsin ohjausvivuston pään ääriviivat pahvin palalle, jonka leikkasin ja käytin sabluunana, kun hahmottelin haarukan muotoja pellin palaselle.
 
-![Työstetty osa](./images/venajanhityostetty-osa-valmiinaekka.jpg)
+![Työstetty osa](./images/tyostetty-osa-valmiina.jpg)
 
 Mikään kaunis palahan tästä ei tullut, mutta tämä ei olekaan kauneuskilpailu. Kiinnitin haarukan M5-ruuvilla ja mutterilla vipuun. Vivussa oli jo valmiina sopiva reikä, joten siihen sitä ei tarvinnut porata. Valitettavasti en saanut kuvaa korjatusta pallonivelestä, koska se jäi niin pahasti piiloon, enkä jaksanut koko vivustoa irroittaa kuvan ottamista varten.
 

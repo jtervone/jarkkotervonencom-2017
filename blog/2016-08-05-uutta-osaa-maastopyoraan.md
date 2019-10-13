@@ -18,7 +18,7 @@ Edellisessä postauksessa jo kerroin saapuneesta Bike Discountin -tilauksesta. M
 
 Olin jo aikaisemmin Canyoniin satulatolpan vaihtanut, kun alkuperäinen vääntyi. Tilalle ostamani Ritcheyn tolppa vääntyi vielä enemmän, kun päätinkin etten kaadu vaan tulen ilman jalkoja hyppyristä alas. Eihän tuo vielä paljoa taipunut, mutta haittasi ajoa, kun aina pelkäsi tolpan lopullista pettämistä. Selailin Bike Discountin tarjontaa ja siellä Thompsonin tolppaa markkinoitiin 40% vahvempana kuin muut tolpat on. Nyt mentiin ihan markkinointipuheiden perusteella tolpan valinnassa. Uusitun tolpan ainoa huono puoli on se, että uuden tolpan rinnalla satula näyttää kovin kuluneelta.
 
-![Thompson-satulatolppa](./imagesthompson-satulatolppa.jpg)
+![Thompson-satulatolppa](./images/thompson-satulatolppa.jpg)
 
 Toinen päivityskohde oli takavaihtaja. Entinen normaali Deoren XT -vaihtaja vaihtui Shadow+ -malliin. Olihan tuo entinen aika rupelille vääntynyt. Pitää kokeilla taivutella tuo takaisin entisiin kuosiin, jotta siitä saisi varavaihtajan hyllyyn.
 

@@ -8,7 +8,7 @@
         </p>
       </section>
       <section>
-        <g-image :src="$page.blogPost.image" :alt="$page.blogPost.imageText" />
+        <g-image v-if="$page.blogPost.image" :src="$page.blogPost.image" :alt="$page.blogPost.imageText" />
         <div class="content" v-html="$page.blogPost.content" />
       </section>
     </div>
