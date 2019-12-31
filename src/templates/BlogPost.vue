@@ -40,7 +40,7 @@ export default {
       date (format: "D.M.Y")
       content
       image
-      imageText
+      image_text
     }
   }
 </page-query>

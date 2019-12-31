@@ -31,13 +31,13 @@
       }
       edges {
         node {
-          _id
+          id
           title
           date (format: "D.M.YYYY")
           content
           description
           image
-          imageText
+          image_text
           path
         }
       }

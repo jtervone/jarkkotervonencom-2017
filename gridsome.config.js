@@ -8,7 +8,7 @@ module.exports = {
       options: {
         path: "blog/*.md",
         typeName: "BlogPost",
-        route: "/:year/:month/:day/:slug"
+        route: "/:year/:month/:day/:title"
       }
     },
     {
@@ -46,6 +46,7 @@ module.exports = {
           name: "feed.xml"
         }
       }
-    }
+    },
+    { use: "@gridsome/plugin-google-analytics", options: { id: "UA-639843-5" } }
   ]
 };
