@@ -11,8 +11,8 @@ jobs:
     steps:
       - checkout
       - run:
-          name: install util-linux
-          command: apk add -U util-linux
+          name: install utils
+          command: apk --no-cache add -U shadow gcc musl-dev autoconf automake make libtool nasm tiff jpeg zlib zlib-dev file pkgconf jpegoptim util-linux
       - run:
           name: update-npm
           command: 'npm install -g npm@latest'
