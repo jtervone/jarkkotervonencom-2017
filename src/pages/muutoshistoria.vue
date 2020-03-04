@@ -8,6 +8,11 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>4.3.2020:</strong>
+              <ul>
+                <li> Gridsome päivitetty versioon 0.7.13 </li>
+              </ul>
+            </li>
             <li> <strong>31.12.2019:</strong>
               <ul>
                 <li> <g-link to="/2019/12/31/yhteenveto-vuodesta-2019-ja-suunnitelmia-vuodelle-2020/">Yhteenveto vuodesta 2019 ja suunnitelmia vuodelle 2020</g-link> -kirjoitus lisätty. </li>
