@@ -11,6 +11,9 @@ jobs:
     steps:
       - checkout
       - run:
+          name: install util-linux
+          command: apk add -U util-linux
+      - run:
           name: update-npm
           command: 'npm install -g npm@latest'
       - restore_cache:
