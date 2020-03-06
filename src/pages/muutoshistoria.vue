@@ -8,6 +8,11 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>5.3.2020:</strong>
+              <ul>
+                <li> RSS-syötteen URLit korjattu </li>
+              </ul>
+            </li>
             <li> <strong>4.3.2020:</strong>
               <ul>
                 <li> Gridsome päivitetty versioon 0.7.13 </li>
