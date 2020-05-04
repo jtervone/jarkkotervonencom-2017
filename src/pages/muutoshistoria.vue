@@ -8,6 +8,11 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>4.5.2020:</strong>
+              <ul>
+                <li> <g-link to="/2020/05/04/pakollinen-koronapaeivitys/">Pakollinen koronapäivitys</g-link> -kirjoitus lisätty </li>
+              </ul>
+            </li>
             <li> <strong>5.3.2020:</strong>
               <ul>
                 <li> RSS-syötteen URLit korjattu </li>
