@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <header>
-      <div><g-link :to="{ name: 'home' }"><g-image src="~/assets/images/logo-192.png" alt="\0" class="logo" /></g-link></div>
+      <div><g-link :to="{ name: 'home' }"><g-image src="~/assets/images/logo-192.png" alt="Jarkko Tervonen" class="logo" /></g-link></div>
       <div><g-link :to="{ name: 'home' }">
         <h1 class="heading">Jarkko Tervonen</h1>
       </g-link></div>
