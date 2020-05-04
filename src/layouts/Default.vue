@@ -3,7 +3,7 @@
     <header>
       <div><g-link :to="{ name: 'home' }"><g-image src="~/assets/images/logo-192.png" alt="\0" class="logo" /></g-link></div>
       <div><g-link :to="{ name: 'home' }">
-        <component :is="titleTag" class="heading">{{ config.siteName }}</component>
+        <component :is="titleTag" class="heading">Jarkko Tervonen</component>
       </g-link></div>
     </header>
     <nav class="navbar">
@@ -33,15 +33,10 @@
 </template>
 
 <script>
-import config from '~/.temp/config.js';
-
 export default {
   computed: {
     titleTag () {
       return this.$route.name === 'home' ? 'h1' : 'h6'
-    },
-    config () {
-      return config
     }
   }
 }
