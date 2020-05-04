@@ -3,7 +3,7 @@
     <header>
       <div><g-link :to="{ name: 'home' }"><g-image src="~/assets/images/logo-192.png" alt="\0" class="logo" /></g-link></div>
       <div><g-link :to="{ name: 'home' }">
-        <component :is="titleTag" class="heading">Jarkko Tervonen</component>
+        <h1 class="heading">Jarkko Tervonen</h1>
       </g-link></div>
     </header>
     <nav class="navbar">
