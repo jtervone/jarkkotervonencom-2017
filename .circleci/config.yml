@@ -12,7 +12,7 @@ jobs:
       - checkout
       - run:
           name: install utils
-          command: apk --no-cache add -U shadow gcc musl-dev autoconf automake make libtool nasm tiff jpeg zlib zlib-dev file pkgconf jpegoptim util-linux
+          command: apk --no-cache add -U shadow gcc musl-dev autoconf automake make libtool nasm tiff jpeg zlib zlib-dev file pkgconf jpegoptim util-linux python python-dev py-pip build-base
       - run:
           name: update-npm
           command: 'npm install -g npm@latest'
