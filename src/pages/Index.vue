@@ -9,7 +9,7 @@
           <span v-html="node.date"/>
         </p>
         <g-link v-if="node.image" :to="node.path">
-          <g-image v-if="node.image" :src="node.image" :alt="node.imageText" />
+          <g-image :src="node.image" :alt="node.imageText" />
         </g-link>
       </section>
       <section>
