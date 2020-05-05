@@ -13,7 +13,7 @@
         </g-link>
       </section>
       <section>
-        <p v-html="node.content.split('\n')[0]" />
+        <div v-html="node.content.split('\n')[0]" />
       </section>
     </div>
     <section>
