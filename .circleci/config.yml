@@ -15,7 +15,7 @@ jobs:
           command: apk --no-cache add -U shadow gcc musl-dev autoconf automake make libtool nasm tiff jpeg zlib zlib-dev file pkgconf jpegoptim util-linux python python-dev py-pip build-base
       - run:
           name: update-npm
-          command: 'npm install -g npm@latest'
+          command: npm install -g npm
       - restore_cache:
           key: dependency-cache-{{ checksum "package-lock.json" }}
       - run:
@@ -55,8 +55,6 @@ jobs:
           command: rsync -v -e "ssh -o StrictHostKeyChecking=no" -r ~/blog/dist/* circleci@field.rcode.fi:/var/www/jarkkotervonen.com/
 
 workflows:
-  version: 2.1
-
   build-and-deploy:
     jobs:
       - build
