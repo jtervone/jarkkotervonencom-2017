@@ -2,7 +2,7 @@
   <Layout>
     <div class="article">
       <section class="header">
-        <h1>Arkistop</h1>
+        <h1>Arkisto</h1>
       </section>
       <section>
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
