@@ -8,6 +8,16 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>28.7.2020:</strong>
+              <ul>
+                <li> <g-link to="/2020/07/28/ennaetyshillakesae/">Ennätyshillakesä</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>22.7.2020:</strong>
+              <ul>
+                <li> <g-link to="/2020/07/22/melomassa-simojaervellae/">Melomassa Simojärvellä</g-link> -kirjoitus lisätty. </li>
+              </ul>
+            </li>
             <li> <strong>1.7.2020:</strong>
               <ul>
                 <li> <g-link to="/2020/07/01/kalastusta-ja-luonnossa-liikkumista/">Kalastusta ja luonnossaliikkumista</g-link> -kirjoitus lisätty </li>
