@@ -1,5 +1,8 @@
 module.exports = {
   siteName: `Jarkko Tervonen`,
+  siteUrl: process.env.NODE_ENV === "development"
+      ? "http://localhost:8080"
+      : "https://jarkkotervonen.com",
   titleTemplate: `%s - Jarkko Tervonen`,
   icon: "./src/favicon.png",
   plugins: [
@@ -47,6 +50,12 @@ module.exports = {
         }
       }
     },
-    { use: "@gridsome/plugin-google-analytics", options: { id: "UA-639843-5" } }
+    {
+      use: "@gridsome/plugin-google-analytics",
+      options: { id: "UA-639843-5" }
+    },
+    {
+      use: '@gridsome/plugin-sitemap',
+    }
   ]
 };
