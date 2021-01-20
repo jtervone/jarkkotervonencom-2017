@@ -2,7 +2,7 @@
 title: "Hiihtoladut Kempele: Sarkkiranta"
 description:
 image: ./images/2021-01-19-kempele-sarkkiranta-urheilukeskus-latu.jpg
-image_text: Pikkuvarpuset oksalla
+image_text: Sarkkirannan urheilukeskus Kempeleessä
 author: Jarkko Tervonen
 date: 2021-01-19 13:40:00
 categories:
