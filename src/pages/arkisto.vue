@@ -23,7 +23,7 @@ export default {
         {
           key: 'description',
           name: 'description',
-          content: 'Tälle sivulle on tulossa blogikirjoitusarkisto.'
+          content: 'Tälle sivulle on tulossa blogikirjoitusarkisto. Ja se näyttää vieläkin vuonna 2021 odottavan tuloaan. Pitää vain odotella.'
         }
       ]
     }
