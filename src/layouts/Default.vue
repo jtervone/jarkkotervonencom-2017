@@ -3,7 +3,8 @@
     <header>
       <div><g-link :to="{ name: 'home' }"><g-image src="~/assets/images/logo-192.png" alt="Jarkko Tervonen" class="logo" /></g-link></div>
       <div><g-link :to="{ name: 'home' }">
-        <h1 class="heading">Jarkko Tervonen</h1>
+        <h1 v-if="$route.name === 'home'" class="heading">Jarkko Tervonen</h1>
+        <h6 v-if="$route.name !== 'home'" class="heading">Jarkko Tervonen</h6>
       </g-link></div>
     </header>
     <nav class="navbar">
@@ -34,11 +35,6 @@
 
 <script>
 export default {
-  computed: {
-    titleTag () {
-      return this.$route.name === 'home' ? 'h1' : 'h6'
-    }
-  }
 }
 </script>
 
