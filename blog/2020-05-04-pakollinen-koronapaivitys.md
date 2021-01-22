@@ -1,6 +1,6 @@
 ---
 title: Pakollinen koronapäivitys
-description: Lähes pakollinen koronapäivitys eli miten tämä erikoinen vuosi on kulunut
+description: Pakollinen koronapäivitys. Tämä erikoinen vuosi on kulunut terveenä liikkuen luonnossa entistä enemmän.
 image: ./images/2020-05-04-varessaikka.jpg
 image_text: Varessäikän edusta vappuna 2020
 author: Jarkko Tervonen

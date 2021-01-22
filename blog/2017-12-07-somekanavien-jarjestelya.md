@@ -1,6 +1,6 @@
 ---
 title: Somekanavien järjestely
-description: Sosiaalisten medioiden siivous antaa tilaa omille ajatuksille.
+description: Sosiaalisten medioiden siivous antaa tilaa omille ajatuksille. Ei kannata päättömästi tykätä kaikesta mikä somessa liikkuu.
 image: ./images/macbook-air.jpg
 image_text: Rokua MTB 2017
 author: Jarkko Tervonen

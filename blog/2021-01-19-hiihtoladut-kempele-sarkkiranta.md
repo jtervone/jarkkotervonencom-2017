@@ -1,6 +1,6 @@
 ---
 title: "Hiihtoladut Kempele: Sarkkiranta"
-description: Esittelyssä Kempeleen Sarkkirannan urheilukeskuksen hiihtolatu
+description: Esittelyssä Kempeleen Sarkkirannan urheilukeskuksen hiihtolatu, jonka ympäriltä löytyy paikkoja muillekin harrastuksille.
 image: ./images/2021-01-19-kempele-sarkkiranta-urheilukeskus-latu.jpg
 image_text: Sarkkirannan urheilukeskus Kempeleessä
 author: Jarkko Tervonen

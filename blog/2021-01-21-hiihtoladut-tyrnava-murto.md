@@ -1,6 +1,6 @@
 ---
 title: "Hiihtoladut Tyrnävä: Murron hiihtolatu"
-description: Esittelyssä Tyrnävän Murron kylässä oleva valaistu hiihtolatu
+description: Esittelyssä Tyrnävän Murron kylässä oleva valaistu hiihtolatu, mistä löytyy haastavia nousuja ja laskuja.
 image: ./images/2021-01-21-tyrnava-murto-hiihtolatu.jpg
 image_text: Murron hiihtolatujen valaistua osaa
 author: Jarkko Tervonen

@@ -1,6 +1,6 @@
 ---
 title: Uudet vaijerit polkupyöriin
-description: Molemmat polkupyöräni sai uudet vaijerit kesän kunniaksi.
+description: Molemmat polkupyöräni sai uudet vaijerit kesän kunniaksi. Tämä pieni huolto teki vaihteista lähes uuden veroiset.
 image: ./images/2017-07-22-cube-crossrace-vaijeriremontti.jpg
 image_text: Cube Cross Race Pro 2012
 author: Jarkko Tervonen

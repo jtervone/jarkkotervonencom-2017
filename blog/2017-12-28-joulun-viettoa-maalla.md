@@ -1,6 +1,6 @@
 ---
 title: Joulun viettoa maalla
-description: Tämän vuoden joulu vietettiin rauhassa maaseudulla
+description: Tämän vuoden joulu vietettiin rauhassa maaseudulla. Onneksi sattui selkeä ilma niin sain harjoitella yökuvausta.
 image: ./images/2017-12-24-korvenkyla.jpg
 image_text: Korvenkylä
 author: Jarkko Tervonen

@@ -1,6 +1,6 @@
 ---
 title: Kesän maalailut
-description: Kesällä on tullut maalailtua yhtä sun toista ruiskulla.
+description: Kesällä on tullut maalailtua yhtä sun toista ruiskulla. Mm. auto, lattia sekä lamput ovat saaneet uutta maalipintaa.
 image: ./images/2017-08-02-lamput-maalattu.jpg
 image_text: Maalatut kattovalaisimet
 author: Jarkko Tervonen

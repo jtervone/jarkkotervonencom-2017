@@ -1,6 +1,6 @@
 ---
 title: Vuodenvaihteen kuulumisia v. 2020-2021
-description: Nopeasti kuluneen vuoden yhteenveto sekä suunnitelmat vuodelle 2021
+description: Nopeasti kuluneen vuoden yhteenveto sekä suunnitelmat vuodelle 2021. Tällä kertaa suunnitelmat listattuna.
 image: ./images/2020-01-05-pikkuvarpuset.jpg
 image_text: Pikkuvarpuset oksalla
 author: Jarkko Tervonen
