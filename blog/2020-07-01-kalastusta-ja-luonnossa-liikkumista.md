@@ -1,6 +1,6 @@
 ---
 title: Kalastusta ja luonnossa liikkumista
-description: Tänä keväänä ja kesänä on tullut liikuttua aiempia vuosia enemmän luonnossa.
+description: Tänä keväänä ja kesänä on tullut liikuttua aiempia vuosia enemmän luonnossa. Varsinkin kalastamista on tullut harrasteltua tuloksekkaasti.
 image: ./images/2020-07-01-kalastuskanootti.jpg
 image_text: Varessäikän edusta vappuna 2020
 author: Jarkko Tervonen

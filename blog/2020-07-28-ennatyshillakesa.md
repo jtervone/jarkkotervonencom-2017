@@ -1,6 +1,6 @@
 ---
 title: Ennätyshillakesä
-description: Tänä vuonna on hilloja ollut soilla ympäri maan.
+description: Tänä vuonna on hilloja ollut soilla ympäri maan ja tämähän innoitti minutkin lähtemään hillasoille keräämään oma osani näistä maukkaista marjoista.
 image: ./images/2020-07-28-hilla-kuksa.jpg
 image_text: Kuksallinen hilloja
 author: Jarkko Tervonen
