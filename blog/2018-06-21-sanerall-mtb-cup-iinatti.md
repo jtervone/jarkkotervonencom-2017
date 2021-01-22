@@ -15,7 +15,7 @@ tags:
 - paksukumi team
 - iinatti
 ---
-Eilen ajettiin entisen Iinatin moottoriradan alueella [Sanerall MTB Cupin](http://www.fillarifoorumi.fi/forum/showthread.php?58567-Sanerall-MTB-cup-(Oulu-Raahe)) kolmas osakilpailu, jonka järjestämisvastuussa oli [Paksukumi Team](http://www.paksukumiteam.fi/). Olihan nämä itselläkin suunnitelmissa ajaa, mutta ensimmäisen kierroksen aikaan vointi ei ollut mikään paras ja toiselle kierrokselle en olisi päässyt muutenkaan. Kävin kuitenkin katsomassa tätä kolmatta osakilpailua, joten tavoitteet melkein saavutettu tämänkin osalta :)
+Eilen ajettiin entisen Iinatin moottoriradan alueella Sanerall MTB Cupin kolmas osakilpailu, jonka järjestämisvastuussa oli [Paksukumi Team](http://www.paksukumiteam.fi/). Olihan nämä itselläkin suunnitelmissa ajaa, mutta ensimmäisen kierroksen aikaan vointi ei ollut mikään paras ja toiselle kierrokselle en olisi päässyt muutenkaan. Kävin kuitenkin katsomassa tätä kolmatta osakilpailua, joten tavoitteet melkein saavutettu tämänkin osalta :)
 
 Olihan tuo mukavaa katsoa varsinkin, kun sää oli mitä mainioin. Ainoastaan navakka tuuli varmasti hieman häiritsi ajamista, mutta valokuvaajille tämä toi paljon lisää kuviin pöllyävän hiekan muodossa.
 
