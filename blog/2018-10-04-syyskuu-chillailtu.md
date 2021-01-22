@@ -1,5 +1,6 @@
 ---
 title: Syyskuu chillailtu
+description: Syyskuu on lepäilty ja palauduttu vauhdikkaasta elokuusta
 image: ./images/2018-10-04-zatelliitti-liittyma.jpg
 image_text: Kempeleen Zatelliitin uusi liittymä
 author: Jarkko Tervonen

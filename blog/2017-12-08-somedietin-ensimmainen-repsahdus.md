@@ -1,5 +1,6 @@
 ---
 title: Somedietin ensimmäinen repsahdus
+description: Yöllinen maanjäristys keskeytti hyvin alkaneen somedietin.
 image: ./images/2017-12-08-maanjaristys-lumijoki.png
 image_text: Maanjäristys Lumijoella 8.12.2017
 author: Jarkko Tervonen

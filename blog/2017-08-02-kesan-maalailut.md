@@ -1,5 +1,6 @@
 ---
 title: Kesän maalailut
+description: Kesällä on tullut maalailtua yhtä sun toista ruiskulla.
 image: ./images/2017-08-02-lamput-maalattu.jpg
 image_text: Maalatut kattovalaisimet
 author: Jarkko Tervonen

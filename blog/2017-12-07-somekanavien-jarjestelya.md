@@ -1,5 +1,6 @@
 ---
 title: Somekanavien järjestely
+description: Sosiaalisten medioiden siivous antaa tilaa omille ajatuksille.
 image: ./images/macbook-air.jpg
 image_text: Rokua MTB 2017
 author: Jarkko Tervonen

@@ -1,6 +1,6 @@
 ---
 title: "Hiihtoladut Oulunsalo: Lentokentän ympäryslatu"
-description:
+description: Esittelyssä Oulunsalon lentokentän ympäryslatu
 image: ./images/2021-01-20-oulunsalo-hiihtolatu.jpg
 image_text: Lentokentäntien alikulku
 author: Jarkko Tervonen

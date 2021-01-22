@@ -1,5 +1,6 @@
 ---
 title: Joulun viettoa maalla
+description: Tämän vuoden joulu vietettiin rauhassa maaseudulla
 image: ./images/2017-12-24-korvenkyla.jpg
 image_text: Korvenkylä
 author: Jarkko Tervonen

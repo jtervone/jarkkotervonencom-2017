@@ -1,6 +1,6 @@
 ---
 title: "Hiihtoladut Liminka: Rantakylän hiihtolatu"
-description:
+description: Esittelyssä Limingan Rantakylän ulkoilualueella oleva hiihtolatu
 image: ./images/2021-01-21-liminka-rantakyla-hiihtolatu.jpg
 image_text: Limingan Rantakylän hiihtoladun maalialue
 author: Jarkko Tervonen

@@ -1,5 +1,6 @@
 ---
 title: Uudet vaijerit polkupyöriin
+description: Molemmat polkupyöräni sai uudet vaijerit kesän kunniaksi.
 image: ./images/2017-07-22-cube-crossrace-vaijeriremontti.jpg
 image_text: Cube Cross Race Pro 2012
 author: Jarkko Tervonen

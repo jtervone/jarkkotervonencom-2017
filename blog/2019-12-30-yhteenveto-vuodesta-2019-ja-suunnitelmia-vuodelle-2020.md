@@ -1,6 +1,6 @@
 ---
 title: Yhteenveto vuodesta 2019 ja suunnitelmia vuodelle 2020
-description:
+description: Edellisen vuoden yhteenveto ja uudet suunnitelmat vuodelle 2020
 image: ./images/2019-12-31-rintamamiestalo.jpg
 image_text: Punainen rintamamiestalo
 author: Jarkko Tervonen

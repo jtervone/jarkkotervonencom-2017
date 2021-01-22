@@ -1,5 +1,6 @@
 ---
 title: Neljä olutta / Neljä ruokalajia / Neljä Nikkasen valintaa
+description: Roosterissa järjestettiin maistelutlaisuus missä oli yhdistetty oluita, viskejä ja ruokaa
 image: ./images/2018-02-20-rooster-tasting.jpg
 image_text: Rooster Tasting
 author: Jarkko Tervonen
