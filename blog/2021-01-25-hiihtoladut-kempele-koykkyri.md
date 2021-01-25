@@ -23,4 +23,6 @@ Valaistun ladun lisäksi on valaisematon Pertinlenkki, jonka varrella on Marjaka
 
 Pertinlenkkiltä pääsee latuja pitkin Ketolanperälle ja Juurussuon kylätalolle. Alueelta lähtee myös erillinen koiralatu, jossa voi hiihdellä koirien kanssa.
 
+Pohjoiseen Köykkyristä lähtee yhdysladut kohti Oulua, mistä pääsee latuja pitkin aina Raksilaan asti. Pienillä kävelysiirtymillä aukeaa tiet aina Jääliin ja Pateniemeena asti.
+
 Ajantasaisimmat tiedot löytyvät [Oulun alueen kunnossapitojärjestelmästä](https://oulu.fluentprogress.fi/outdoors).
