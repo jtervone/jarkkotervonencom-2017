@@ -54,6 +54,11 @@ export default {
           content: this.$page.blogPost.image ? config.siteUrl + this.$page.blogPost.image.src : ""
         },
         {
+          key: "fb:app_id",
+          name: "fb:app_id",
+          content: "228969710939107"
+        },
+        {
           key: "twitter:creator",
           name: "twitter:creator",
           content: "@jarkkotervonen"
