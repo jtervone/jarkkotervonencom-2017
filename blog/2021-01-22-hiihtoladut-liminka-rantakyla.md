@@ -21,6 +21,6 @@ Alueen pääparkkipaikka on hyvä paikka lähteä hiihtämään. Parkkipaikan vi
 
 Kilpahiihtoreitiltä löytyy korkeuseroja mutta nousut ja laskut ovat verrattaen helppoja. Baanat ovat leveitä eikä suuremmatkaan hiihtäjämäärät aiheuta ongelmia.
 
-Jos talviolosuhteet sallivat, Rantakylästä pääsee hiihtäen Liminganlahden luontokeskukselle ja sitä kautta meren jäälle. Tätä kautta pääsee Limingan kirkonkylän hiihtoladuille sekä Tupoksen, Kempeleen ja Oulunsalon hiihtoladuille.
+Jos talviolosuhteet sallivat, Rantakylästä pääsee hiihtäen Liminganlahden luontokeskukselle ja sitä kautta meren jäälle. Tätä kautta pääsee Limingan kirkonkylän hiihtoladuille sekä [Tupoksen](/2021/03/04/hiihtoladut-tupos-temmesjokisuu/), [Kempeleen](/2021/02/17/hiihtoladut-kempele-leton-latu/) ja [Oulunsalon hiihtoladuille](/2021/01/20/hiihtoladut-oulunsalo-lentokentaen-ympaeryslatu/).
 
 Ajantasaisimmat tiedot löytyvät [Oulun alueen kunnossapitojärjestelmästä](https://oulu.fluentprogress.fi/outdoors).

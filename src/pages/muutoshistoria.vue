@@ -8,6 +8,70 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>12.4.2021:</strong>
+              <ul>
+                <li> Facebookin ja Twitterin jakotageja lisätty </li>
+                <li> Lisätty sisäisiä linkityksiä hiihtoladut -artikkelisarjaan. </li>
+              </ul>
+            </li>
+            <li> <strong>4.3.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/03/04/hiihtoladut-tupos-temmesjokisuu/">Hiihtoladut Tupos: Temmesjokisuu</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>21.2.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/02/21/hiihtoladut-oulunsalo-kisakangas/">Hiihtoladut Oulunsalo: Kisakangas
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>17.2.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/02/17/hiihtoladut-kempele-leton-latu/">Hiihtoladut Kempele: Leton latu
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>16.2.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/02/16/hiihtoladut-kempele-pertin-lenkki/">Hiihtoladut Kempele: Pertin lenkki
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>25.1.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/01/25/hiihtoladut-kempele-koeykkyri/">Hiihtoladut Kempele: Köykkyri
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>22.1.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/01/22/hiihtoladut-liminka-rantakylaen-hiihtolatu/">Hiihtoladut Liminka: Rantakylän hiihtolatu
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>21.1.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/01/21/hiihtoladut-tyrnaevae-murron-hiihtolatu/">Hiihtoladut Tyrnävä: Murron hiihtolatu
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>20.1.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/01/20/hiihtoladut-oulunsalo-lentokentaen-ympaeryslatu/">Hiihtoladut Oulunsalo: Lentokentän ympäryslatu
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>19.1.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/01/19/hiihtoladut-kempele-sarkkiranta/">Hiihtoladut Kempele: Sarkkiranta
+</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
+            <li> <strong>5.1.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/01/05/vuodenvaihteen-kuulumisia-v-2020-2021/">Vuoden vaihteen kuulumisia</g-link>-kirjoitus lisätty. </li>
+              </ul>
+            </li>
             <li> <strong>28.7.2020:</strong>
               <ul>
                 <li> <g-link to="/2020/07/28/ennaetyshillakesae/">Ennätyshillakesä</g-link>-kirjoitus lisätty. </li>

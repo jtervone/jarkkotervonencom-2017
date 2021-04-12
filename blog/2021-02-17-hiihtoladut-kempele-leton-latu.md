@@ -24,6 +24,6 @@ Reitin varrelta löytyy yleisessä käytössä oleva Leton laavu, joka on noin 3
 
 Letontien ylityksen jälkeen on mahdollisuus jatkaa kohti merenrantaa Koivukarin lintutornille. Lintutorni ei ole jykevimmästä päästä, joten kannattaa käyttää harkintaa sinne kiipeämiseksi.
 
-Merenrannasta lumitilanteesta riippuen pääsee hiihtämään Oulunsalon suuntaan Lentokentän ympärysladulle ja Limingansuuntaan Temmesjokisuun lintutornille. Temmesjokisuulta voi jatkaa kohti Liminganlahden luontokeskusta tai pistäytyä Tupoksen suunnalla.
+Merenrannasta lumitilanteesta riippuen pääsee hiihtämään Oulunsalon suuntaan [Lentokentän ympärysladulle](/2021/01/20/hiihtoladut-oulunsalo-lentokentaen-ympaeryslatu/) ja Limingansuuntaan Temmesjokisuun lintutornille. Temmesjokisuulta voi jatkaa kohti Liminganlahden luontokeskusta mistä pääsee [Rantakylän hiihtoladuille](/2021/01/22/hiihtoladut-liminka-rantakylaen-hiihtolatu/) tai pistäytyä [Tupoksen suunnalla](/2021/03/04/hiihtoladut-tupos-temmesjokisuu/).
 
 Ajantasaisimmat tiedot löytyvät [Oulun alueen kunnossapitojärjestelmästä](https://oulu.fluentprogress.fi/outdoors).

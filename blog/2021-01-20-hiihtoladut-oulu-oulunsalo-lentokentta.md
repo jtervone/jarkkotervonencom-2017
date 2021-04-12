@@ -22,7 +22,7 @@ Oulunsalon lentokentän ympäri kulkee hiihtolatu, jolla pituutta on noin 10,5 k
 
 En virallista aloituspaikkaa löytänyt, mutta tilava parkkipaikka löytyy esimerkiksi Papinjärven uimarannan parkkipaikalta, josta pääsee helposti ladulle. Lisäksi parkkipaikkoja löytyy Lentokentäntien varrella olevien toimistorakennusten parkkipaikoilta.
 
-Oulunsalon lentokentän ympärysladulta pääsee helposti Kisakankaan laduille ja hyvälumisina talvina ajetaan yhdyslatu meren jäälle, josta pääsee Kempeleen Leton ladulle sekä Tupoksen ja Limingan laduille. Eli hyvä lumisena talvena hiihtämistä riittää.
+Oulunsalon lentokentän ympärysladulta pääsee helposti [Kisakankaan laduille](/2021/02/21/hiihtoladut-oulunsalo-kisakangas/) ja hyvälumisina talvina ajetaan yhdyslatu meren jäälle, josta pääsee [Kempeleen Leton ladulle](/2021/02/17/hiihtoladut-kempele-leton-latu/) sekä [Tupoksen](/2021/03/04/hiihtoladut-tupos-temmesjokisuu/) ja [Limingan laduille](/2021/01/22/hiihtoladut-liminka-rantakylaen-hiihtolatu/). Eli hyvä lumisena talvena hiihtämistä riittää.
 
 Lentokentän eteläpäädyssä latu katoaa vähälumisina aikoina helposti enkä itse asiassa ole koskaan latua pitkin osannut hiihtää tuota kohtaa vaan olen kiltisti hiihtänyt Kylänpuolentielle ja sieltä suunnistanut Myllypirtintielle ja etsinyt ladun.
 
