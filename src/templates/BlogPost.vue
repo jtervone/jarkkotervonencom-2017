@@ -29,38 +29,31 @@ export default {
           content: this.$page.blogPost.description
         },
         {
-          key: "og:url",
-          name: "og:url",
-          content: config.siteUrl + this.$page.blogPost.path
+          property: "og:url",
+          content: this.$static.metadata.siteUrl + this.$page.blogPost.path
         },
         {
-          key: "og:type",
-          name: "og:type",
+          property: "og:type",
           content: "website"
         },
         {
-          key: "og:title",
-          name: "og:title",
+          property: "og:title",
           content: this.$page.blogPost.title ? this.$page.blogPost.title : ""
         },
         {
-          key: "og:description",
-          name: "og:description",
+          property: "og:description",
           content: this.$page.blogPost.description ? this.$page.blogPost.description : ""
         },
         {
-          key: "og:image",
-          name: "og:image",
-          content: this.$page.blogPost.image ? config.siteUrl + this.$page.blogPost.image.src : ""
+          property: "og:image",
+          content: this.$page.blogPost.image ? this.$static.metadata.siteUrl + this.$page.blogPost.image.src : ""
         },
         {
-          key: "fb:app_id",
-          name: "fb:app_id",
+          property: "fb:app_id",
           content: "228969710939107"
         },
         {
-          key: "twitter:creator",
-          name: "twitter:creator",
+          property: "twitter:creator",
           content: "@jarkkotervonen"
         },
       ]
@@ -68,6 +61,10 @@ export default {
   }
 }
 </script>
+
+<static-query>
+  query { metadata { siteName siteUrl } }
+</static-query>
 
 <page-query>
   query BlogPost ($path: String!) {
