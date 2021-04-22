@@ -9,6 +9,7 @@ categories:
   - Yleinen
 tags:
   - blogi
+  - tavoitteet
 ---
 Vuosi 2020 meni vauhdilla ohi. Myös minä monen muun tapaan tein töitä pääsääntöisesti etänä kotoa käsin. Kodin ja työpaikan välisten matkojen poistuminen lisäsi vapaa-aikaa ja ehkä siitä syystä tuntui, että vuonna 2020 ehti tekemään vähän vaikka mitä.
 

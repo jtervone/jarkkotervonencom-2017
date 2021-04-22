@@ -8,6 +8,11 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>22.4.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/04/22/mitenkae-ne-tavoitteet-vuodelle-2021-edistyy/">Mitenkä ne tavoitteet vuodelle 2021 edistyy?</g-link> -kirjoitus lisätty. </li>
+              </ul>
+            </li>
             <li> <strong>14.4.2021:</strong>
               <ul>
                 <li> <g-link to="/2021/04/14/hiihtoladut-liminka-kirkonkylae-liminkajokisuu/">Hiihtoladut Liminka: Kirkonkylä-Liminkajokisuu
