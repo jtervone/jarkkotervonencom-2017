@@ -8,6 +8,11 @@
         <g-image src="~/assets/images/keyboard-1.jpg" alt="Näppäimistö" />
         <div class="content">
           <ul>
+            <li> <strong>19.5.2021:</strong>
+              <ul>
+                <li> <g-link to="/2021/05/19/suoritustietojen-siirtaeminen-sports-trackeristae-stravaan/">Suoritustietojen siirtäminen Sports Trackeristä Stravaan</g-link> -kirjoitus lisätty. </li>
+              </ul>
+            </li>
             <li> <strong>7.5.2021:</strong>
               <ul>
                 <li> <g-link to="/2021/05/07/ensimmaeinen-200km-maantielenkki-polkupyoeraellae/">Ensimmäinen 200km maantielenkki polkupyörällä</g-link> -kirjoitus lisätty. </li>
